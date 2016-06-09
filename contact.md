@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contact/Submit
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 [Email Link : tomsmailinglist@thephilosophersmeme.com](mailto:tomsmailinglist@thephilosophersmeme.com)
