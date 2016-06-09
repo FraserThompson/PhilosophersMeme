@@ -1,13 +1,16 @@
+<figure class="nav-container">
 <nav>
-  <a href="/"> <img src="/assets/img/nav/tpm-header.png" style="height: 200px; position: relative; float: left; float: top;"></a>
+  <a href="/"> <img src="/assets/img/nav/tpm-header.png" style="width: 28%; max-height: 8%;position: relative; float: left; float: top; margin: 0; padding: 0;"></a>
   <ul>
-    {% for my_page in site.pages %}
-      {% if my_page.title %}
-      <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-      {% endif %}
+	{% assign sorted_pages = site.pages | sort:"nav-position" %}
+		{% for node in sorted_pages %}
+			<li><a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
     {% endfor %}
+	<nobr>
     <li><a href="http://www.facebook.com/thephilosophersmouth/"><img src="/assets/img/nav/facebook-icon.jpg" style="vertical-align: middle;"></a></li>
     <li><a href="https://www.facebook.com/groups/memetics/"><img src="/assets/img/nav/discussion-icon.png" style="vertical-align: middle;"></a></li>
     <li><a href="https://www.facebook.com/groups/sophismo/"><img src="/assets/img/nav/shitpost-icon.png" style="vertical-align: middle;"></a></li>
+	</nobr>	
   </ul> 
 </nav>
+</figure>

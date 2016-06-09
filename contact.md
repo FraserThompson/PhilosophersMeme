@@ -3,6 +3,7 @@ title: Contact/Submit
 permalink: "/contact/"
 position: 4
 layout: page
+nav-position: 5
 ---
 
 [Email Link : tomsmailinglist@thephilosophersmeme.com](mailto:tomsmailinglist@thephilosophersmeme.com)
