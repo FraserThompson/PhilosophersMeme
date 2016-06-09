@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Glossary
-permalink: /glossary/
+permalink: "/glossary/"
+layout: page
 ---
 
 this is where the glossary would go

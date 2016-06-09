@@ -1,10 +1,12 @@
 ---
+title: Example Post 1
+date: 2016-06-09 08:28:02 Z
+tags:
+- test
 layout: post
-title:  "Example Post 1"
-author: "Person Guy"
-date:   2016-06-09 20:28:02 +1200
-tags: test
+author: Person Guy
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed arcu a ante convallis efficitur. Duis maximus mi massa, ac scelerisque eros pulvinar et. Mauris erat ligula, egestas vel dapibus fermentum, pretium at massa. Nam eleifend luctus ex eu imperdiet. Maecenas elit lacus, lobortis quis posuere nec, bibendum eu risus. Nunc ligula mi, commodo sagittis nibh vel, cursus eleifend erat. Curabitur et turpis eget nibh consequat egestas.
 
 Donec nec leo purus. Phasellus eget ex eu ipsum tempor blandit. Cras feugiat enim eget nunc posuere, malesuada finibus lorem tempus. Cras varius purus tellus, in iaculis est efficitur eget. Phasellus in dictum mauris. Fusce ut est ligula. Ut eget quam ut nulla scelerisque mattis ut eget purus. Phasellus auctor nisi a ligula ullamcorper hendrerit. Ut ornare sollicitudin risus, eget eleifend elit euismod non. Donec placerat lacinia lorem sed vestibulum. Duis sed leo ligula. Maecenas vitae cursus quam, vitae lacinia felis. Vivamus ullamcorper dignissim justo at ornare. Vivamus convallis mi vel tempus accumsan.
