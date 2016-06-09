@@ -1,6 +1,7 @@
 ---
 title: Contact/Submit
 permalink: "/contact/"
+position: 4
 layout: page
 ---
 
