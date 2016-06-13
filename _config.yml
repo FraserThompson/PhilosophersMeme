@@ -18,13 +18,13 @@ github_username: jekyll
 markdown: kramdown
 
 defaults:
-	-
-		scope:
-			path: ""
-			type: "posts"
-		values:
-			layout: "default"
-			author: "Anonymous"
-			frontpage: "N"
-			release-type: "guest"
-	-
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Anonymous"
+      frontpage: "N"
+      release-type: "guest"
+  -
