@@ -7,8 +7,8 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-		{% if post.frontpage == "Y" %}
+    {% for post in site.posts limit:3 %}
+		{% if post.frontpage == "N" %}
 			<div class="post-preview-entry">
 				<img src="/assets/img/sample-image.png" style="float: left; margin-right: 1em;">
 				<a href="{{post.url}}"><h2 class="post-preview-name">{{post.title}}</h2></a>
