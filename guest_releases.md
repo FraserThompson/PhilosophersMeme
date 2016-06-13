@@ -13,6 +13,7 @@ nav-position: 2
   <ul class="post-list">
     {% for post in site.posts and post.release-type == "official" %}
       <div class="post-preview-entry">
+		{{ post.release-type }}
         <img src="/assets/img/sample-image.png" style="float: left; margin-right: 1em;">
         <a href="{{post.url}}"><h2 class="post-preview-name">{{post.title}}</h2></a>
         <h3 class="post-preview-author">{{post.author}}</h3>
