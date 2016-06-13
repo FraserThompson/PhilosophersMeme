@@ -25,6 +25,6 @@ defaults:
 		values:
 			layout: "default"
 			author: "Anonymous"
-			frontpage: ["N"]
+			frontpage: "N"
 			release-type: "guest"
 	-
