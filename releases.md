@@ -1,8 +1,7 @@
 ---
 title: Releases
 permalink: "/releases/"
-position: 0
-layout: page
+layout: default
 nav-position: 1
 ---
 
@@ -17,7 +16,7 @@ nav-position: 1
 				<img src="/assets/img/sample-image.png" style="float: left; margin-right: 1em;">
 				<a href="{{post.url}}"><h2 class="post-preview-name">{{post.title}}</h2></a>
 				<h3 class="post-preview-author">{{post.author}}</h3>
-				<h4 class="post-preview-date">{{post.date}}</h4>
+				<h4 class="post-preview-date">{{post.date | date: "%Y-%-m-%-d" }}</h4>
 				<div class="post-preview-snippet">{{post.excerpt}}</div>
 				<div class="post-preview-tags">
 				<ul>
