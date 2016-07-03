@@ -1,0 +1,163 @@
+/* * { border: solid 1px red !important; } */
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+/* Global styles */
+body, html {
+	font-family: 'PT Sans', sans-serif;
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, p {
+	font-family: 'PT Sans', sans-serif;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: #4D4D4D;
+}
+
+a:hover {
+    color: #949392;
+}
+
+a:active {
+    color: #4D4D4D;
+}
+
+.content {
+	max-width: 1366px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+/* Header styles */
+.pure-menu .active {
+	background-color: #999;
+}
+
+.pure-menu a:visited {
+	color: black;
+}
+
+.pure-menu-heading img {
+	max-height: 200px;
+}
+
+.pure-menu-link {
+	color: black;
+	font-weight: bold;
+}
+
+.pure-menu-link.large {
+	font-size: 150%;
+}
+
+nav {
+	border-bottom: solid 1px black;
+}
+
+/* Footer styles */
+footer {
+	text-align: center;
+	border-top: solid 1px black;
+	padding: 1em;
+}
+
+footer ul {
+	display: inline;
+}
+
+footer li {
+	display: inline;
+	margin: 2em;
+}
+
+/* Post preview styles */
+.post-preview-entry {
+	min-height: 200px;
+	margin-bottom: 2em;
+}
+
+.post-preview-meta {
+	color: #999;
+}
+
+.post-preview-meta .tag {
+	margin: 0 0.1em;
+    padding: 0.3em 1em;
+    color: #fff;
+    background: #999;
+    font-size: 80%;
+}
+
+.post-preview-image {
+	float: left; 
+	margin-right: 1em; 
+	height: 200px; 
+	width: 200px;
+	background-position: center;
+}
+
+.post {
+	max-width: 60em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post-formats {
+	display: inline;
+	text-align: center;
+	margin: 1em;
+}
+
+.post-formats ul {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	margin-top: 1em;
+}
+
+.post-formats li {
+	display: inline;
+	list-style: none;
+	margin: 2em;
+}
+
+.post-header: {text-align: center;}
+
+.post-header-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post-title {
+	text-align: center;
+}
+
+.post-author {
+	text-align: center;
+	margin:.5em;
+}
+
+.post-date {
+	text-align: center;
+	margin: .5em;
+}
+
+.post-content {
+	text-align: justify;
+}
+
+.contact-content {
+	margin: 1em;
+}
+
+.glossary-content {
+	margin: 1em;
+}
+}

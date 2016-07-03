@@ -1,8 +1,20 @@
 ---
 title: Guest Releases
 permalink: "/guest_releases/"
-position: 1
-layout: page
+layout: default
+nav-position: 2
 ---
 
-we will have the lists of posts which are guest releases here
+<div class="home">
+
+  <h1 class="page-heading">Guest Releases</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+		{% if post.release-type == "guest" %}
+			{% include post-preview.html %}
+		{% endif %}
+	{% endfor %}
+  </ul>
+
+</div>

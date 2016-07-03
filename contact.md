@@ -2,9 +2,14 @@
 title: Contact/Submit
 permalink: "/contact/"
 position: 4
-layout: page
+layout: default
+nav-position: 5
 ---
 
-[Email Link : tomsmailinglist@thephilosophersmeme.com](mailto:tomsmailinglist@thephilosophersmeme.com)
+Contact TPM
+================
+
+[tomsmailinglist@thephilosophersmeme.com](mailto:tomsmailinglist@thephilosophersmeme.com)
+
 If you have written an interesting text on memes, philosophy, net-culture, or politics, feel free to submit it to be posted in the Guest Releases section. Quality OC only.
 Submissions must go through an editorial process before being posted.
