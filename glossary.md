@@ -1,7 +1,7 @@
 ---
 title: Glossary
 permalink: "/glossary/"
-layout: page
+layout: default
 nav-position: 3
 ---
 

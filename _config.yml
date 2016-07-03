@@ -25,6 +25,5 @@ defaults:
     values:
       layout: "default"
       author: "Anonymous"
-      frontpage: "N"
+      image: /assets/img/sample-image.png
       release-type: "guest"
-  -

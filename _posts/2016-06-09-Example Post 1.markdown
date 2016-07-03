@@ -2,8 +2,10 @@
 title: Example Post 1
 date: 2016-06-09 08:28:02 Z
 tags:
-- test
+    - philosophy
+    - memetics
 layout: post
+frontpage: true
 author: Person Guy
 ---
 
