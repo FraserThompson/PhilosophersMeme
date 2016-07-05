@@ -69,6 +69,10 @@ a:active {
 	max-height: 200px;
 }
 
+.pure-menu-heading:hover {
+	background-color: white;
+}
+
 .pure-menu-link {
 	color: black;
 	font-weight: bold;
@@ -130,6 +134,7 @@ footer li {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50px;
+	padding: 50px;
 
 	img {
 		width: 100%;
@@ -209,11 +214,15 @@ footer li {
 
 	#toggleNav {
 		display: inline-block;
+		position: fixed;
+		top: 0px;
+		left: 10px;
 	}
 
 	.pure-menu-list.responsive {
 		position: absolute;
-		top: 50px;
+		padding-top: 50px;
+		padding-bottom: 50px;
 		left: -250px;
 	}
 	.pure-menu-list.responsive.active {
