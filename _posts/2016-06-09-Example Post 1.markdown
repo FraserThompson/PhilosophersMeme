@@ -6,6 +6,7 @@ tags:
 - memetics
 layout: post
 banner: /assets/img/Philosophy-books.jpg
+image: /assets/img/Philosophy-books.jpg
 frontpage: true
 author: Person Guy
 ---

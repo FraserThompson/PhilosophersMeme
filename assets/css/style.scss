@@ -45,6 +45,18 @@ a:active {
 	background-color: #999;
 }
 
+#toggleNav {
+	display: none;
+	font-size: 48px;
+	float: left;
+	z-index: 1005;
+	text-decoration: none;
+}
+
+#toggleNav:hover {
+	text-decoration: none;
+}
+
 .pure-menu .active a {
 	color: white;
 }
@@ -124,6 +136,10 @@ footer li {
 	}
 }
 
+.post-content {
+	text-align: justify;
+}
+
 .post-formats {
 	display: inline;
 	text-align: center;
@@ -144,7 +160,7 @@ footer li {
 }
 
 .post-header {
-	height: 20vw;
+	height: 50vh;
 
 	.banner {
 		color: white;
@@ -163,6 +179,7 @@ footer li {
 
 	.post-title {
 		text-transform: uppercase;
+		font-size: 5em;
 	}
 
 	.banner::-webkit-scrollbar { 
@@ -170,30 +187,40 @@ footer li {
 	}
 }
 
-
-@media screen and (max-width: 1920px) {
-	.post-header .post-title {
-		font-size: 5em !important;
-	}
-}
-
-
+/* On small screens do this */
 @media screen and (max-width: 1366px) {
+
+	/* Post stuff */
 	.post-header .post-title {
 		font-size: 2em !important;
 	}
-	.banner {
+	.post-header {
 		height: 30vh;
 	}
-}
 
-@media screen and (max-width: 640px) {
-	.post-header .post-title {
-		font-size: 0.5em !important;
+	/* Responsive Menu */
+	.pure-menu-horizontal .pure-menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
+		display: block;
 	}
-}
 
+	#toggleNav {
+		display: inline-block;
+	}
 
-.post-content {
-	text-align: justify;
+	.pure-menu-list.responsive {
+		position: absolute;
+		top: 50px;
+		left: -250px;
+	}
+	.pure-menu-list.responsive.active {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+	}
+	.pure-menu-heading {
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
 }
