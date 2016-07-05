@@ -1,3 +1,5 @@
+---
+---
 /* * { border: solid 1px red !important; } */
 
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
@@ -10,6 +12,10 @@ body, html {
 
 h1, h2, h3, h4, h5, p {
 	font-family: 'PT Sans', sans-serif;
+}
+
+p {
+	font-size: 18px;
 }
 
 a:link {
@@ -39,7 +45,11 @@ a:active {
 	background-color: #999;
 }
 
-.pure-menu a:visited {
+.pure-menu .active a {
+	color: white;
+}
+
+.pure-menu a {
 	color: black;
 }
 
@@ -102,10 +112,16 @@ footer li {
 	background-position: center;
 }
 
+/* Post styles */
 .post {
-	max-width: 60em;
+	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 50px;
+
+	img {
+		width: 100%;
+	}
 }
 
 .post-formats {
@@ -127,37 +143,57 @@ footer li {
 	margin: 2em;
 }
 
-.post-header: {text-align: center;}
+.post-header {
+	height: 20vw;
 
-.post-header-image {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	.banner {
+		color: white;
+		   text-shadow:
+		    -1px -1px 0 #000,
+		    1px -1px 0 #000,
+		    -1px 1px 0 #000,
+		    1px 1px 0 #000;
+		width: 100%;
+		height: 100%; 
+    	text-align: center;
+		background-size: cover; 
+		background-position: center;
+
+	}
+
+	.post-title {
+		text-transform: uppercase;
+	}
+
+	.banner::-webkit-scrollbar { 
+	    display: none; 
+	}
 }
 
-.post-title {
-	text-align: center;
+
+@media screen and (max-width: 1920px) {
+	.post-header .post-title {
+		font-size: 5em !important;
+	}
 }
 
-.post-author {
-	text-align: center;
-	margin:.5em;
+
+@media screen and (max-width: 1366px) {
+	.post-header .post-title {
+		font-size: 2em !important;
+	}
+	.banner {
+		height: 30vh;
+	}
 }
 
-.post-date {
-	text-align: center;
-	margin: .5em;
+@media screen and (max-width: 640px) {
+	.post-header .post-title {
+		font-size: 0.5em !important;
+	}
 }
+
 
 .post-content {
 	text-align: justify;
-}
-
-.contact-content {
-	margin: 1em;
-}
-
-.glossary-content {
-	margin: 1em;
-}
 }

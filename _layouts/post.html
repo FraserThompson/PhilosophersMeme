@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<header class="post-header">
+	<div class="banner" style="background-image: url({{page.banner}});">
+	  	<p>&nbsp;</p>
+	  	<h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
+		<center><h4 class="post-author">By {{ page.author }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h4></center>
+	</div>
+</header>
 
-  <header class="post-header">
-    <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
-	<h3 class="post-author">{{ page.author }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h3>
-  </header>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}

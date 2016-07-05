@@ -1,6 +1,8 @@
 ---
 title: The Philosophers Meme
 timezone: UTC
+sass:
+  style: compressed
 collections:
   posts:
     title: Posts
@@ -16,6 +18,7 @@ defaults:
     layout: default
     author: Anonymous
     image: "/assets/img/sample-image.png"
+    banner: "/assets/img/sample-banner.png"
     release-type: guest
 email: your-email@domain.com
 description: |
