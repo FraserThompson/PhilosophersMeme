@@ -1,10 +1,10 @@
 ---
 title: The Philosophy Of Filler Text
 date: 2016-06-09 08:28:02 Z
+layout: post
 tags:
 - philosophy
 - memetics
-layout: post
 banner: /assets/img/Philosophy-books.jpg
 image: /assets/img/Philosophy-books.jpg
 frontpage: true

@@ -1,13 +1,15 @@
 ---
 layout: default-full-width
 ---
-
 <header class="post-header">
 	<div class="banner" style="background-image: url({{page.banner}});">
 	  	<p>&nbsp;</p>
 	  	<h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
 	  	<br>
 		<h4 class="post-author">By {{ page.author }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h4>
+	</div>
+	<div class="social">
+		{% include social-buttons.html %}
 	</div>
 </header>
 
@@ -17,4 +19,21 @@ layout: default-full-width
     {{ content }}
   </div>
 
+
+
+
+{% if page.tags.size %}
+  	<div class="related-posts">
+  	<h4>Related</h4>
+	  	{% for tag in page.tags %}
+		  	{% for post in site.tags[tag] %}
+			  	{% if post.title != null and post.title != page.title %}
+			  		<a href="{{post.url}}">{{post.title}}</a>
+			  	{% endif %}
+		  	{% endfor %}
+	  	{% endfor %}
+  	</div>
+{% endif %}
+
 </article>
+

@@ -24,7 +24,7 @@ email: your-email@domain.com
 description: |
   The Philosophers Meme blog.
 baseurl: 
-url: http://yourdomain.com
+url: http://philosophersmeme.siteleaf.net
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown

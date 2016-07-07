@@ -4,14 +4,18 @@
 
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
+$font-stack: 'PT Sans', sans-serif;
+$site-width: 1366px;
+$post-width: 700px;
+
 /* Global styles */
 body, html {
-	font-family: 'PT Sans', sans-serif;
+	font-family: $font-stack;
 	height: 100%;
 }
 
 h1, h2, h3, h4, h5, p {
-	font-family: 'PT Sans', sans-serif;
+	font-family: $font-stack;
 }
 
 p {
@@ -35,7 +39,7 @@ a:active {
 }
 
 .content {
-	max-width: 1366px;
+	max-width: $site-width;
 	margin: 0 auto;
 	padding: 15px;
 }
@@ -130,7 +134,7 @@ footer li {
 
 /* Post styles */
 .post {
-	max-width: 700px;
+	max-width: $post-width;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50px;
@@ -165,7 +169,7 @@ footer li {
 }
 
 .post-header {
-	height: 50vh;
+	height: 40vh;
 
 	.banner {
 		color: white;
@@ -183,6 +187,19 @@ footer li {
     	text-align: center;
 		background-size: cover; 
 		background-position: center;
+	}
+
+	.social {
+		width: $post-width;
+		margin: 0 auto;
+
+		li {
+			width: 14.28%;
+		}
+
+		ul {
+			margin: 0 auto;
+		}
 
 	}
 
@@ -202,6 +219,9 @@ footer li {
 	/* Post stuff */
 	.post-header .post-title {
 		font-size: 2em !important;
+	}
+	.post {
+		padding: 25px;
 	}
 	.post-header {
 		height: 30vh;
