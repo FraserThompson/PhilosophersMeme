@@ -1,8 +1,6 @@
 ---
 title: The Philosophers Meme
 timezone: UTC
-sass:
-  style: compressed
 collections:
   posts:
     title: Posts
@@ -20,6 +18,8 @@ defaults:
     image: "/assets/img/sample-image.gif"
     banner: "/assets/img/sample-banner.gif"
     release-type: guest
+sass:
+  style: compressed
 email: your-email@domain.com
 description: |
   The Philosophers Meme blog.
