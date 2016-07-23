@@ -18,7 +18,7 @@ defaults:
     layout: default
     author: Anonymous
     image: "/assets/img/sample-image.gif"
-    banner: "/assets/img/sample-banner.png"
+    banner: "/assets/img/sample-banner.gif"
     release-type: guest
 email: your-email@domain.com
 description: |
