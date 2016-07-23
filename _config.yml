@@ -17,7 +17,7 @@ defaults:
     author: Anonymous
     image: "/assets/img/sample-image.gif"
     banner: "/assets/img/sample-banner.gif"
-    release-type: guest
+    release-type: official
 sass:
   style: compressed
 email: your-email@domain.com
@@ -28,6 +28,8 @@ url: http://philosophersmeme.siteleaf.net
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+paginate: 8
 gems:
   - jemoji
   - jekyll-seo-tag
+  - jekyll-paginate
