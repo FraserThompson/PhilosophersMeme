@@ -29,5 +29,5 @@ twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 gems:
-  - jemoji
-  - jekyll-seo-tag
+- jemoji
+- jekyll-seo-tag
