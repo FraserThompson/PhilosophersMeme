@@ -28,3 +28,6 @@ url: http://philosophersmeme.siteleaf.net
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+gems:
+  - jemoji
+  - jekyll-seo-tag
