@@ -4,13 +4,25 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Featured Posts</h1>
+  <h1 class="page-heading">Latest Posts</h1>
 
   <div class="post-list">
-    {% for post in site.posts limit:3 %}
-		{% if post.frontpage %}
-			{% include post-preview.html %}
-		{% endif %}
+    {% for post in paginator.posts %}
+		{% include post-preview.html %}
     {% endfor %}
   </div>
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
 </div>
