@@ -4,15 +4,15 @@
     <div class="content">
       <a href="/" class="pure-menu-heading pure-menu-link"> <img src="/assets/img/nav/tpm-header.png"> </a>
       <ul id="nav" class="pure-menu-list responsive">
-    	{% assign sorted_pages = site.pages | sort:"nav-position" %}
-    		{% for node in sorted_pages %}
+      {% assign sorted_pages = site.pages | sort:"nav-position" %}
+        {% for node in sorted_pages %}
           {% if node.title %}
             {% if page.url == node.url %}
                 <li class="pure-menu-item active">
             {% else %}
                 <li class="pure-menu-item">
             {% endif %}
-      			<a class="pure-menu-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+            <a class="pure-menu-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
           {% endif %}
         {% endfor %}
         {% include facebook-links.html %}
