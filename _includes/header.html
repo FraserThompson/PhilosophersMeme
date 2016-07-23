@@ -1,22 +1,21 @@
 <header class="nav-container pure-u-1">
-  <nav class="pure-menu pure-menu-horizontal">
+  <a id="toggleNav" href="">☰</a>
+  <nav id="menu" class="pure-menu pure-menu-horizontal">
     <div class="content">
       <a href="/" class="pure-menu-heading pure-menu-link"> <img src="/assets/img/nav/tpm-header.png"> </a>
-      <ul class="pure-menu-list">
-    	{% assign sorted_pages = site.pages | sort:"nav-position" %}
-    		{% for node in sorted_pages %}
+      <ul id="nav" class="pure-menu-list responsive">
+      {% assign sorted_pages = site.pages | sort:"nav-position" %}
+        {% for node in sorted_pages %}
           {% if node.title %}
             {% if page.url == node.url %}
                 <li class="pure-menu-item active">
             {% else %}
                 <li class="pure-menu-item">
             {% endif %}
-      			<a class="pure-menu-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+            <a class="pure-menu-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
           {% endif %}
         {% endfor %}
-        <li class="pure-menu-item"><a class="pure-menu-link large" href="http://www.facebook.com/thephilosophersmouth/" title="Facebook Page">👕</a></li>
-        <li class="pure-menu-item"><a class="pure-menu-link large" href="https://www.facebook.com/groups/memetics/" title="Discussion Group">💬</a></li>
-        <li class="pure-menu-item"><a class="pure-menu-link large" href="https://www.facebook.com/groups/sophismo/" title="Shitpost Group">💩</a></li>	
+        {% include facebook-links.html %}
       </ul>
     </div>
   </nav>
