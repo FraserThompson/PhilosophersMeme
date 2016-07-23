@@ -9,12 +9,12 @@ nav-position: 2
 
   <h1 class="page-heading">Guest Releases</h1>
 
-  <div class="post-list">
+  <ul class="post-list">
     {% for post in site.posts %}
 		{% if post.release-type == "guest" %}
 			{% include post-preview.html %}
 		{% endif %}
 	{% endfor %}
-  </div>
+  </ul>
 
 </div>

@@ -1,8 +1,6 @@
 ---
 title: The Philosophers Meme
 timezone: UTC
-sass:
-  style: compressed
 collections:
   posts:
     title: Posts
@@ -17,14 +15,13 @@ defaults:
   values:
     layout: default
     author: Anonymous
-    image: "/assets/img/sample-image.gif"
-    banner: "/assets/img/sample-banner.gif"
+    image: "/assets/img/sample-image.png"
     release-type: guest
 email: your-email@domain.com
 description: |
   The Philosophers Meme blog.
 baseurl: 
-url: http://philosophersmeme.siteleaf.net
+url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
