@@ -2,7 +2,7 @@
   <a id="toggleNav" href="">☰</a>
   <nav id="menu" class="pure-menu pure-menu-horizontal">
     <div class="content">
-      <a href="/" class="pure-menu-heading pure-menu-link"> <img src="/assets/img/nav/tpm-header.png"> </a>
+      <a href="/" class="pure-menu-heading pure-menu-link" style="padding-left: 0px;"> <img src="/assets/img/nav/tpm-header.png"> </a>
       <ul id="nav" class="pure-menu-list responsive">
       {% assign sorted_pages = site.pages | sort:"nav-position" %}
         {% for node in sorted_pages %}
