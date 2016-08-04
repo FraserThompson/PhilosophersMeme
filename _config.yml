@@ -5,7 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: /:month-:day-:year/:title.html
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
