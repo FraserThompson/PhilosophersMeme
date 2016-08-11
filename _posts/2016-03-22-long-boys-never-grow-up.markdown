@@ -1,6 +1,6 @@
 ---
 title: long boys never grow up
-date: 2016-03-22 19:33:49 Z
+date: 2016-03-22 19:33:00 Z
 categories:
 - Internet Art
 - Memetics
@@ -12,25 +12,22 @@ tags:
 - normie
 - post-irony
 - special meme fresh
-layout: post
-type: post
-status: publish
-meta:
-  _edit_last: '99245853'
-  geo_public: '0'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '21025469179'
 author:
   login: comicironic
   email: ivb@vanbakel.io
   display_name: comicironic
   first_name: Isaac
   last_name: van Bakel
-excerpt: "<p>Long boy is the colloquial name for two connected memes, a way of referring
-  to any cylinder or cylindrical object, and a specific image of an orange cylinder,
-  based off the first meme. Both were established by a throwaway line in a Special
-  Meme Fresh</p>"
+type: post
+status: publish
+meta:
+  _edit_last: 99245853
+  geo_public: 0
+  _rest_api_published: 1
+  _rest_api_client_id: -1
+  _publicize_job_id: 21025469179
+excerpt: "<p>Where did all the Long Boys go?</p>"
+layout: post
 ---
 
 <h2>1. Introduction</h2>
