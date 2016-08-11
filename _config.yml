@@ -13,8 +13,15 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: default
-    author: Anonymous
+    layout: post
+    type: post
+    author:
+      login: username
+      email: email@wherever.com
+      display_name: Author
+      first_name: Philosopher
+      last_name: Of The Meme
+    excerpt: Memes but also Philosophy.
     image: "/assets/img/sample-image.gif"
     banner: "/assets/img/sample-banner.gif"
     release-type: official
