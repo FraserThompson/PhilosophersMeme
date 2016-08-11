@@ -26,7 +26,7 @@ meta:
   _rest_api_published: 1
   _rest_api_client_id: -1
   _publicize_job_id: 21025469179
-excerpt: "<p>Where did all the Long Boys go?</p>"
+excerpt: "<p>Where have all the Long Boys gone?</p>"
 layout: post
 ---
 
