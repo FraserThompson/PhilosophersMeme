@@ -5,6 +5,7 @@ categories:
 - test
 tags:
 - test
+author: test
 ---
 
 <p><img class="alignnone size-full wp-image-691" src="{{ /uploads/post%20pepe%201.jpg" alt="10422267_1432717080356218_8798166707564987280_n" width="720" height="720" /></p>
