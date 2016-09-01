@@ -7,8 +7,7 @@ layout: default
 
 # **Glossary 1.0**
 
-Last updated Feb. 2016
-
+Last updated Jan 18, 2016
 Our first lecture,  'Memes: A Microcosm of Art History' was a basic introduction to our theory. Here is the full video:
 
 [youtube https://www.youtube.com/watch?v=zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqSeZIdAW&w=560&h=315]
@@ -57,12 +56,11 @@ Participant in the underground meme scene. A poster, fluent in the associated li
 
 Top
 
-Ironist
+Ironic
 
-A subgroup of ‘autists’; insiders to the Ironic meme scene. Originated from 4chan but now largely centred around Facebook meme pages and groups. Associated with the lineage of ironic, meta-ironic and post-ironic memes. Their self-identification as social misfits, developed in reaction against normies, popularized the terminological dichotomy of normies and autists.
+A subgroup of autists; insiders to the Ironic meme scene. Originated from 4chan but now largely centred around Facebook meme pages and groups. Associated with the lineage of ironic, meta-ironic and post-ironic memes. Their self-identification as social misfits, developed in reaction against normies, popularized the terminological dichotomy of normies and autists.
 
-Alternative spelling: Ironics
-
+Alternative spelling: Ironist
 Top
 
 Traditionalist memes
