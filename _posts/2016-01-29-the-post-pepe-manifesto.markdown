@@ -40,7 +40,7 @@ meta:
 layout: post
 ---
 
-<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/assets/post%20pepe%201.jpg" alt="he is risen" width="720" height="720" /></p>
+<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/assets/post%20pepe%201.jpg" alt="he is risen 1" width="720" height="720" /></p>
 <p>Plagiarism is necessary. Progress implies it.</p>
 <p>&nbsp;</p>
 <p>For old memes to become resources for the present requires their reinvention and reuse; appropriation of collective inheritance, not of private property. The cultural vanguard of shitposters expresses the memetic commons with an autistic, rather than schizophrenic, knowledge of 'net ephemera. We mean that the treatment of art as concept was de rigueur well before those eager, crumb-covered fingers set out to finish what the dadaists and situationists never could. Leaving behind the dazzling rhizomes of the postmodern, the cutting-edge now spearheads the Internet's transition into the post-postmodern.</p>
