@@ -41,7 +41,7 @@ meta:
 layout: post
 ---
 
-<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/uploads/post%20pepe%201.jpg" alt="he is risen" width="720" height="720" /></p>
+<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/uploads/post%20pepe%201.jpg" alt="he is risen" width="720" height="auto" /></p>
 <p>Plagiarism is necessary. Progress implies it.</p>
 <p>&nbsp;</p>
 <p>For old memes to become resources for the present requires their reinvention and reuse; appropriation of collective inheritance, not of private property. The cultural vanguard of shitposters expresses the memetic commons with an autistic, rather than schizophrenic, knowledge of 'net ephemera. We mean that the treatment of art as concept was de rigueur well before those eager, crumb-covered fingers set out to finish what the dadaists and situationists never could. Leaving behind the dazzling rhizomes of the postmodern, the cutting-edge now spearheads the Internet's transition into the post-postmodern.</p>
@@ -49,7 +49,7 @@ layout: post
 <p>Our name for this kind of reinvention and reuse of memes is détournement; as in to detour, to hijack, to lead astray, to appropriate. This is no shitpost qua shit post. The task is not the destruction of the meme, but rather the destruction of the ownership of the meme which manifests as the invisible hand of conservative prescriptivism -- comments, screeching from Imgur and Reddit; “you're using that meme wrong!” The elimination of the very notion of personal property in this area is what once made ironic memes so great: the meme was true only to itself.</p>
 <p>&nbsp;</p>
 <p>But the normies came once more and 'ironic memes' became the new normal, with only soccer-mom Garfields and rural-American Jesus-posting left behind. But this time they came branded, watermarked with links to their Instagram and studded with emojis -- or did they? Was that how it happened?</p>
-<p><img class=" size-full wp-image-688 aligncenter" src="{{ site.baseurl }}/uploads/post%20pepe%202.png" alt="gondola and calvin and hobbes" width="497" height="959" /></p>
+<p><img class=" size-full wp-image-688 aligncenter" src="{{ site.baseurl }}/uploads/post%20pepe%202.png" alt="gondola and calvin and hobbes" width="497" height="auto" /></p>
 <p>We remember the Great Meme War of 2014: the history books of KnowYourMeme will not mention the numerous fallen who endured deletions from Facebook in the name of spicy memes, among them the first wave of “historical alliteration” pages. It was not the normies who caused admins to rally followers to mass-report other pages posting 9/11 memes, nor threaten to doxx each other for reposting without credit.</p>
 <p>&nbsp;</p>
 <p>Was it that the normies stole our memes? Or did we simply lose sight of something important, the very thing 4chan tried to explain to us that October by way of a Pepe-Market metaphor? It was our Internet-hipster, Pepe-capitalist valuation -- <span class="_5yl5">keep it rare &amp; keep it ours; if it isn't rare it isn't dank</span> -- <span class="_5yl5">which led us to cast Pepe to the normies, relinquishing hegemony over</span> use and meaning as we stopped producing, as we stopped distributing. Were we the normies?</p>
