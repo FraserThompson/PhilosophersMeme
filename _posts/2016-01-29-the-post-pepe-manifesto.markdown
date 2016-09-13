@@ -1,6 +1,6 @@
 ---
 title: The Post-Pepe Manifesto
-date: 2016-01-29 03:30:20 Z
+date: 2016-01-29 03:30:00 Z
 categories:
 - Internet Art
 tags:
@@ -23,14 +23,7 @@ tags:
 - post-postmodernism
 - postmodernism
 - schizophrenia
-layout: post
 type: post
-status: publish
-meta:
-  _thumbnail_id: '691'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '19236171071'
 author:
   login: crouchingrooster
   email: crouchingrooster@hotmail.com
@@ -38,9 +31,16 @@ author:
   first_name: Seong
   last_name: Her
 excerpt: Plagiarism is necessary. Progress implies it.
+status: publish
+meta:
+  _thumbnail_id: 691
+  _rest_api_published: 1
+  _rest_api_client_id: -1
+  _publicize_job_id: 19236171071
+layout: post
 ---
 
-<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/assets/10422267_1432717080356218_8798166707564987280_n.jpg" alt="10422267_1432717080356218_8798166707564987280_n" width="720" height="720" /></p>
+<p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/assets/10422267_1432717080356218_8798166707564987280_n.jpg" alt="he is risen" width="720" height="720" /></p>
 <p>Plagiarism is necessary. Progress implies it.</p>
 <p>&nbsp;</p>
 <p>For old memes to become resources for the present requires their reinvention and reuse; appropriation of collective inheritance, not of private property. The cultural vanguard of shitposters expresses the memetic commons with an autistic, rather than schizophrenic, knowledge of 'net ephemera. We mean that the treatment of art as concept was de rigueur well before those eager, crumb-covered fingers set out to finish what the dadaists and situationists never could. Leaving behind the dazzling rhizomes of the postmodern, the cutting-edge now spearheads the Internet's transition into the post-postmodern.</p>
