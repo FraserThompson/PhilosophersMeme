@@ -31,6 +31,7 @@ author:
   first_name: Seong
   last_name: Her
 excerpt: Plagiarism is necessary. Progress implies it.
+banner: "/uploads/gondola_wave_banner.jpg"
 status: publish
 meta:
   _thumbnail_id: 691
