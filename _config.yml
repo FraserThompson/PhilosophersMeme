@@ -31,7 +31,7 @@ email: your-email@domain.com
 description: |
   The Philosophers Meme blog.
 baseurl: 
-url: http://philosophersmeme.siteleaf.net
+url: http://thephilosophersmeme.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
@@ -40,3 +40,4 @@ gems:
 - jemoji
 - jekyll-seo-tag
 - jekyll-paginate
+permalinks: "/:year/:month/:day/:title/"
