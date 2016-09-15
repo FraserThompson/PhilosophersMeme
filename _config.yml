@@ -40,4 +40,4 @@ gems:
 - jemoji
 - jekyll-seo-tag
 - jekyll-paginate
-permalinks: "/:year/:month/:day/:title/"
+permalink: "/:year/:month/:day/:title/"
