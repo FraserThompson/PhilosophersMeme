@@ -1,6 +1,6 @@
 ---
 title: A Short Note On Gondola
-date: 2015-11-27 17:20:47 Z
+date: 2015-11-28 17:20:00 Z
 categories:
 - Internet Art
 tags:
@@ -18,14 +18,7 @@ tags:
 - post-irony
 - rare pepe
 - Spurdo
-layout: post
 type: post
-status: publish
-meta:
-  _thumbnail_id: '388'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '17256119503'
 author:
   login: crouchingrooster
   email: crouchingrooster@hotmail.com
@@ -40,6 +33,13 @@ excerpt: "<p>There's a new meme becoming popular in the Anglosphere called Gondo
   over and over while Spurdo will spout every satirizable position in misspelled and
   poorly drawn way possible. As usual, everyone's worry is about how normies will
   ruin Gondola. Not if or when; it's taken for granted that Gondola will become corrupted.</p>"
+status: publish
+meta:
+  _thumbnail_id: 388
+  _rest_api_published: 1
+  _rest_api_client_id: -1
+  _publicize_job_id: 17256119503
+layout: post
 ---
 
 <p>(Updated Dec 07; Wordcount: 750)</p>
