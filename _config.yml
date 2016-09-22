@@ -23,7 +23,7 @@ defaults:
       last_name: Of The Meme
     excerpt: Memes but also Philosophy.
     image: "/assets/img/sample-image.gif"
-    banner: "/assets/img/sample-banner.gif"
+    banner: "/assets/img/sample-banner.png"
     release-type: official
 sass:
   style: compressed
