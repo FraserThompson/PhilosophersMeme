@@ -28,8 +28,9 @@ defaults:
 sass:
   style: compressed
 email: your-email@domain.com
-description: |
-  The Philosophers Meme blog.
+description: 'The Philosophers Meme blog.
+
+'
 baseurl: 
 url: http://thephilosophersmeme.com
 twitter_username: jekyllrb
