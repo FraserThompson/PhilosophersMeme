@@ -1,0 +1,22 @@
+---
+title: test
+date: 2016-09-22 08:35:00 Z
+categories:
+- testcategory
+tags:
+- testtag
+author:
+  login: Test Author login
+  email: email@testauthor.notamail.com
+  display_name: Display name
+  first_name: first name
+  last_name: last name
+excerpt: This is where the excerpt for my test post goes.
+image: "/uploads/7c6.png"
+---
+
+This is a test post. I would like the process of making a new post to the website as easy as possible. I'd also like to be able to change the font size, make the fonts bold or italicize the text with ordinary controls. Most importantly I'd like to be able to simply copy and paste documents onto the text box. It seems that the **visual editor** allows me to do this; I wonder what the benefits of using the Markdown option is. 
+
+![12443483_10207148639546259_727078192_o.jpg](/uploads/12443483_10207148639546259_727078192_o.jpg)
+
+Now I'm testing out the picture upload function. It should not have taken the site this long to finish building. I have my excuses, but they are nothing but excuses. I can't blame others for not doing well enough while I was incapacitated.
