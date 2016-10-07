@@ -4,7 +4,7 @@
 	</a>
 	<div class="post-preview-text">
 		<a href="{{post.url}}" style="text-decoration: none;"><h2 class="post-preview-name">{{post.title}}</h2></a>
-		<p class="post-preview-meta">By <a>{{post.author.display_name}}</a> on {{post.date | date: "%d %B %y" }} {% for tag in post.tags %}<a class="tag">{{tag}}</a>{% endfor %}</p>
+		<p class="post-preview-meta">By <a>{{post.author.display_name}}</a> on {{post.date | date: "%d %B %y" }}</p>
 		<div class="post-preview-snippet">{{post.excerpt}}</div>
 	</div>
 </div>
