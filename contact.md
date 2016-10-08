@@ -5,6 +5,7 @@ position: 4
 layout: default
 nav-position: 5
 ---
+
 <div class="home">
 <h1>Contact</h1>
 
