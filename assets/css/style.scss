@@ -87,7 +87,10 @@ a:active {
 	margin: 0 auto;
 	padding: 0 15px;
 }
-
+div.pagination {
+	text-align: center;
+	padding-bottom: 15px;
+}
 /*---------------------- Header styles ----------------------*/
 .pure-menu .active {
 	background-color: white;
@@ -231,18 +234,25 @@ div.home {
 	margin: 0 15%;
 }
 p.post-preview-meta {
-	font-family: 'Source Code Pro';
+	font-family: 'Baramond';
 	font-weight: 100;
+	margin: 0px;
+	padding-bottom: 5px;
 }
 h2.post-preview-name {
 	color: black;
+	margin-bottom: 0px;
 }
 h2.post-preview-name:hover {
 	color: #78220D;
 }
 a.tag {
-	font-family: 'Source Code Pro';
+	font-family: 'Baramond';
 	font-weight: 100;
+}
+div.post-preview-snippet {
+	font-family: 'Baramond';
+	font-size: 20px;
 }
 .post-preview-meta .tag {
 	font-family: 'Source Code Pro';
