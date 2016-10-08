@@ -250,6 +250,29 @@ a.tag {
 	border-radius: 15px;
 	background-color: #C5D1DF;
 }
+/*----------------------    Glossary styles ----------------------*/
+.glossary-heading{
+	font-family: 'Squada One';
+	color: black;
+	font-size: 50px;
+	margin: 0 0;
+}
+.glossary-updates{
+	max-width: $post-width;
+}
+
+.glossary-toc {
+	list-style-type: none;
+	font-family: 'Baramond';
+}
+
+.glossary-entry {
+	max-width: $post-width;
+	font-family: 'Baramond';
+
+}
+
+
 /*----------------------    Post styles ----------------------*/
 
 
