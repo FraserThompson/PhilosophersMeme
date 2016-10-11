@@ -27,9 +27,9 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "<p>The history of the ironic meme movement presents a microcosmic example of
-  the rise and fall of a postmodern artÔÇöcontemporary art historians have much to
-  learn from its progression.</p>"
+excerpt: "<p>The history of the ironic meme movement presents a microcosmic example
+  of the rise and fall of a postmodern artÔÇöcontemporary art historians have much
+  to learn from its progression.</p>"
 image: "/assets/2015-11-02-a-golden-age-of-meme-pages-and-the-microcosm-of-art-history/11659033_10207446212459163_1285315636_o.jpg"
 ---
 
