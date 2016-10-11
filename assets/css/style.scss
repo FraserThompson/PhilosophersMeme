@@ -218,8 +218,10 @@ footer li {
 	float: left; 
 	margin-right: 1em;
 	padding-bottom: .5em;
+	padding-right: .5em;
 	height: 200px; 
 	width: 200px;
+	background-size:cover;
 	background-position: center;
 }
 
@@ -232,6 +234,7 @@ footer li {
 }
 div.home {
 	margin: 0 15%;
+	text-align: left;
 }
 p.post-preview-meta {
 	font-family: 'Baramond';
@@ -290,7 +293,6 @@ div.post-preview-snippet {
 	max-width: $post-width;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 50px;
 	padding: 25px;
 
 	img {
@@ -323,25 +325,7 @@ div.post-content {
 }
 
 .post-header {
-	height: 40vh;
-
-	.banner {
-		color: white;
-	   text-shadow:
-	    -1px -1px 0 #000,
-	    1px -1px 0 #000,
-	    -1px 1px 0 #000,
-	    1px 1px 0 #000;
-	    display: flex;
-		flex-direction: column;
-  		justify-content: center;
-		align-items: center;
-		width: 100%;
-		height: 100%; 
-    	text-align: center;
-		background-size: cover; 
-		background-position: center;
-	}
+	text-align: center;
 
 	.social {
 		max-width: $post-width;
@@ -358,8 +342,6 @@ div.post-content {
 	}
 
 	.post-title {
-		text-transform: uppercase;
-		font-size: 5em;
 		font-family: 'Squada One';
 	}
 
@@ -377,7 +359,6 @@ div.post-content {
 		font-size: 2em !important;
 	}
 	.post-header {
-		height: 30vh;
 	}
 
 	/*---------------------- Responsive Menu ----------------------*/

@@ -33,7 +33,8 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: We, the artists of the future, refuse to be the plaything of politics.
+excerpt: "<p>We, the artists of the future, refuse to be the plaything of politics.</p>"
+image: "/assets/tpm_defaultpic.jpg"
 ---
 
 <p>Or, An Escape from the Infinite Regress of Art-for-Art’s-Sake and the Ego-Artist Ideal in the Age of Internet Art</p>

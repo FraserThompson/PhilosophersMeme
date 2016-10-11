@@ -1,17 +1,16 @@
 ---
 layout: default-full-width
 ---
-
-<header class="post-header">
-	<div class="banner" style="background-image: url({{page.banner}});">
-	  	<p>&nbsp;</p>
-	  	<h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
-	  	<br>
-		<h4 class="post-author">By {{ page.author.display_name }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h4>
-	</div>
+<div class="home">
 	<div class="social">
 		{% include social-buttons.html %}
 	</div>
+<header class="post-header">
+	  	<p>&nbsp;</p>
+	  	<h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
+	  	<br>
+		<h3 class="post-author">By {{ page.author.display_name }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h4>
+
 </header>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting" style="background-color: white;">
@@ -52,4 +51,4 @@ layout: default-full-width
 {% endif %}
 
 </article>
-
+</div>

@@ -36,6 +36,7 @@ author:
   last_name: Maitland
 excerpt: "<p>The Matrix is a great film, but a poor articulation of Baudrillard's
   philosophy of simulation.</p>"
+image: "/assets/tpm_defaultpic.jpg"
 ---
 
 <p>The Matrix is a great film, but a poor articulation of Baudrillard's philosophy of simulation.</p>

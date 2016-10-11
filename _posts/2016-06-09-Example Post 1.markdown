@@ -5,8 +5,8 @@ tags:
 - philosophy
 - memetics
 layout: post
-banner: "/assets/img/Philosophy-books.jpg"
-image: "/assets/img/Philosophy-books.jpg"
+banner: "/assets/tpm_defaultpic.jpg"
+image: "/assets/tpm_defaultpic.jpg"
 frontpage: true
 author:
   login: crouchingrooster
@@ -14,6 +14,7 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
+excerpt: "<p>This is an excerpt.</p>"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed arcu a ante convallis efficitur. Duis maximus mi massa, ac scelerisque eros pulvinar et. Mauris erat ligula, egestas vel dapibus fermentum, pretium at massa. Nam eleifend luctus ex eu imperdiet. Maecenas elit lacus, lobortis quis posuere nec, bibendum eu risus. Nunc ligula mi, commodo sagittis nibh vel, cursus eleifend erat. Curabitur et turpis eget nibh consequat egestas.
