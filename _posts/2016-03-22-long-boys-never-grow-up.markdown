@@ -69,7 +69,7 @@ What long boy tells us is something deeply important about ourselves, and to som
 
 <hr />
 
-<h2><img src="{{ site.baseurl }}/assets/10259935_759163030794478_9111184588351440060_n.png?oh=84a32da853f9729dff4ab3c6e592dfd8&amp;oe=578F14BC" alt="" /></h2>
+<h2><img src="{{ site.baseurl }}/assets/2016-03-22-long-boys-never-grow-up/smf.png" alt="" /></h2>
 <h2><b>INTERVIEW WITH SPECIAL MEME FRESH</b></h2>
 <p>Author’s note: the following interview does not indicate the interviewee’s agreement with the totality of the above article. It has been used in reference in the previous piece of writing, and is supplied separately here. We are very grateful for the help that Special Meme Fresh provided in the creation of this article.</p>
 
