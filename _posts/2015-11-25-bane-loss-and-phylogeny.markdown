@@ -1,5 +1,5 @@
 ---
-title: Bane&#44 Loss and Phylogeny
+title: Bane, Loss and Phylogeny
 date: 2015-11-25 11:39:58 Z
 categories:
 - Editorials

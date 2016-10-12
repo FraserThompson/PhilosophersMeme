@@ -1,10 +1,11 @@
 <footer class="pure-u-1">
   <nav class="pure-menu pure-menu-horizontal">
 	  <ul class="pure-menu-list content">
-		<li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
-		<li>&copy; The Philosophers Meme Consortium</li>
-        {% include facebook-links.html %}
+		<li>
+		{% include facebook-links-footer.html %}
+		</li>
 	  </ul>
+	  <div class="footer-copyright">&copy; The Philosophers Meme Consortium</div>
   </nav>
 </footer>
 

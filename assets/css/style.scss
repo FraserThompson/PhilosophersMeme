@@ -193,7 +193,11 @@ footer ul {
 
 footer li {
 	display: inline;
-	margin: 2em;
+	}
+
+.footer-copyright {
+	font-family: 'Baramond';
+	font-size: 1.25em;
 }
 
 /*---------------------- Post preview styles ----------------------*/
@@ -293,10 +297,13 @@ div.post-preview-snippet {
 	max-width: $post-width;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 25px;
+	padding-bottom: 15px;
 
 	img {
-		width: 100%;
+		width: 80%;
+		text-align: center;
+		margin-left: 10%;
+		margin-right: 10%;
 		height: auto;
 	}
 }
@@ -326,7 +333,7 @@ div.post-content {
 
 .post-header {
 	text-align: center;
-
+	
 	.social {
 		max-width: $post-width;
 		margin: 0 auto;
@@ -343,6 +350,7 @@ div.post-content {
 
 	.post-title {
 		font-family: 'Squada One';
+		margin-bottom: .25em;
 	}
 
 	.banner::-webkit-scrollbar { 
@@ -419,7 +427,6 @@ div.post-content {
 		height: 70px;
 		width: 70px;
 	}
-	
 }
 
 
@@ -480,6 +487,7 @@ div.post-content {
 }
 
 .resp-sharing-button--facebook {
+  font-family: 'Albertus MT';
   background-color: #3b5998;
   border-color: #3b5998;
 }
@@ -491,6 +499,7 @@ div.post-content {
 }
 
 .resp-sharing-button--twitter {
+  font-family: 'Albertus MT';
   background-color: #55acee;
   border-color: #55acee;
 }
@@ -546,6 +555,7 @@ div.post-content {
 }
 
 .resp-sharing-button--reddit {
+  font-family: 'Albertus MT';
   background-color: #5f99cf;
   border-color: #5f99cf;
 }
