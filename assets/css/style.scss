@@ -9,7 +9,7 @@
 
 $font-stack: 'Open Sans', sans-serif;
 $site-width: 1366px;
-$post-width: 700px;
+$post-width: 850px;
 
 @font-face {
     font-family: 'Squada One';
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5 {
 }
 
 
-p {
+p, blockquote {
 	font-size: 20px;
 	line-height: 25px;
 	font-family: 'Baramond';
@@ -181,21 +181,25 @@ a.pure-menu-link.large:hover {
 }
 /*---------------------- Footer styles ----------------------*/
 footer {
-	text-align: center;
 	border-top: solid 1px black;
 	padding: 1em;
 	font-family: 'Source Code Pro', monospace;
 }
 
 footer ul {
-	display: inline;
-}
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	}
 
 footer li {
-	display: inline;
+	width: 25%;
 	}
 
 .footer-copyright {
+	text-align: center;
 	font-family: 'Baramond';
 	font-size: 1.25em;
 }
@@ -221,13 +225,38 @@ footer li {
 .post-preview-image {
 	float: left; 
 	margin-right: 1em;
-	padding-bottom: .5em;
 	padding-right: .5em;
+	padding-bottom: .5em;
 	height: 200px; 
 	width: 200px;
 	background-size:cover;
 	background-position: center;
 }
+
+
+
+.related-posts {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	content-align: center;  
+	max-width: 850px;
+	
+	.post-preview-image {
+		margin-left: 1.5em;
+		padding-left: 2em;
+	}
+
+		h3 {display: inline-block;}
+
+	
+}
+.related-post {
+	display: inline;
+	padding-right: 0;
+	margin-right: 0;
+	}
+	
 
 /*----------------------   Home Page ----------------------*/
 .home h1 {
@@ -235,9 +264,12 @@ footer li {
 	color: black;
 	font-size: 50px;
 	margin: 0 0;
+	text-align: center;
 }
 div.home {
-	margin: 0 15%;
+	max-width: $post-width;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: left;
 }
 p.post-preview-meta {
@@ -300,10 +332,12 @@ div.post-preview-snippet {
 	padding-bottom: 15px;
 
 	img {
-		width: 80%;
+		display: block;
+		width: auto;
+		max-width: 80%;
 		text-align: center;
-		margin-left: 10%;
-		margin-right: 10%;
+		margin-left: auto;
+		margin-right: auto;
 		height: auto;
 	}
 }
@@ -413,6 +447,11 @@ div.post-content {
 		padding-top: 15px;
 
 	}
+		div.post-preview-image {
+		height: 130px;
+		width: 130px;
+	}
+	
 }
 
 /*---------------------- On small screens do this ----------------------*/
