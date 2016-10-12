@@ -27,8 +27,8 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "<p>Honestly, I miss this meme. I guarantee that Pepe the Frog is going
-  to become the biggest 'normie' meme of all time. It's popular with high school kids,
+excerpt: "<p>Honestly, I miss this meme. I guarantee that Pepe the Frog is going to
+  become the biggest 'normie' meme of all time. It's popular with high school kids,
   who are basically the equivalent of university activists in the world of internet
   culture.</p>"
 image: "/assets/2015-09-14-a-short-note-on-the-death-of-pepe/10881565_870360753004673_4747543608770201737_n.jpg"
