@@ -12,7 +12,7 @@ tags:
 - internet art
 - irony
 - manifesto
-- meme page
+- memepage
 - memes
 - meta-irony
 - normie

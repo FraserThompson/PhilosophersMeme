@@ -6,6 +6,7 @@ tags:
 - moderation
 - Web politics
 - platform design
+- politics
 type: post
 author:
   display_name: The Philosopher's Meme
