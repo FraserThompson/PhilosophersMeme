@@ -615,3 +615,38 @@ div.post-content {
   background-color: #3a80c1;
   border-color: #3a80c1;
 }
+
+
+/*---- IMAGE HOVER ---*/
+p {position:relative; z-index: auto;}
+a.hover {
+	color: #78220D;
+	text-decoration: none;
+	img {display: none;}
+}
+a.hoverexpanded {
+	color: #78220D;
+	text-decoration: none;
+	img {display:none;}
+}
+
+a.hover:hover img {
+	display: block;
+	position: absolute;
+	max-width: 60%;
+	left: 20%;
+	height: auto;
+	top: calc(100% + 0.5em);
+	z-index: 1;
+	border: 2px solid black;
+	}
+
+a.hoverexpanded:hover img {
+ 	display: block;
+	position: absolute;
+	max-width: 100%;
+	height: auto;
+	top: calc(100% + 0.5em);
+	z-index: 1;
+	border: 2px solid black;
+}
