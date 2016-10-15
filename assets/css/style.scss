@@ -200,22 +200,19 @@ a.pure-menu-link.large:hover {
 }
 /*---------------------- Footer styles ----------------------*/
 footer {
-	border-top: solid 1px black;
-	padding: 1em;
-	font-family: 'Source Code Pro';
+	border-top: solid 1px #979797;
+	padding: 1em 0;
+	margin: 1em 5em;
+	// font-family: 'Source Code Pro';
 	text-align: center;
-	width: 65%;
+	// width: 65%;
 }
 
-footer ul {
-	width: 65%;
+footer ul.pure-g {
+	// width: 65%;
 	margin: auto;
-	padding: 15px 0;
 	height: auto;
 	text-align: center;
-	}
-footer nav {
-	border: 1px red solid;
 }
 
 footer li {
@@ -223,8 +220,8 @@ footer li {
 	// width: 33%;
 	text-align: left;
 	margin: auto;
-
-	}
+	// padding-right: 10px;
+}
 footer li:nth-of-type(1) {
 	text-align: right;
 	display: flex;
@@ -234,19 +231,27 @@ footer li:nth-of-type(1) {
 .footer-copyright {
 	text-align: center;
 	font-family: 'Baramond';
-	font-size: 1.25em;
+	font-size: 1em;
+	padding-top: 1em;
 }
 footer img{
 	vertical-align: middle;
-	// border: 1px red solid;
+	border: 1px red solid;
+	width: 20px;
+	padding: 5px;
 }
+
 footer nav li div {
 	text-align: left;
 	width: auto;
+	padding: 10px 40px;
 }
-footer nav li div a {
+footer nav li a {
 	font-family: 'Albertus MT';
 	text-decoration: none;
+	// padding: 10px 0px;
+	display: block;
+
 }
 footer nav img {
 	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
@@ -256,11 +261,11 @@ footer nav img:hover {
 	-webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
     filter: grayscale(0%);
 }
-footer li a:link, footer li a: visited {
+footer li a:link, footer li a:visited {
 	color: black;
 	text-decoration: none;
 }
-footer li a:hover, footer li a: active {
+footer li a:hover, footer li a:active {
 	color: #78220D;
 	text-decoration: none;
 }
@@ -513,7 +518,11 @@ div.post-content {
 		height: 130px;
 		width: 130px;
 	}
-	
+	/*---------------------- Footer ----------------------*/
+	footer li:nth-of-type(1) {
+	text-align: left;
+	display: flex;
+	flex-direction: row;
 }
 
 /*---------------------- On small screens do this ----------------------*/
@@ -525,22 +534,20 @@ div.post-content {
 		margin: 0 3%;
 		max-width: 100%;
 	}
-	post-content {
+	.post-content {
 		margin: 0 0;
 	}
 	div.post-preview-image {
 		height: 70px;
 		width: 70px;
 	}
+	footer {
+		margin: 1em 1em;
+	}
 	footer ul {
 		width: 100%;
 		text-align: center;
 	}
-	footer li:nth-of-type(1) {
-	text-align: right;
-	display: flex;
-	flex-direction: row;
-}
 }
 
 
