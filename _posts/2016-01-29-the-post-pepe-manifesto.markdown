@@ -30,7 +30,7 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "<p>Plagiarism is necessary. Progress implies it.</p>"
+excerpt: "Plagiarism is necessary. Progress implies it."
 banner: "/uploads/gondola_wave_banner.jpg"
 status: publish
 meta:

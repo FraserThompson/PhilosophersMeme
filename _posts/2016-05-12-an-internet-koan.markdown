@@ -25,9 +25,9 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "<p>I just found a really strange website where a guy claims Zen is a scam
+excerpt: "I just found a really strange website where a guy claims Zen is a scam
   and that he's figured out how to solve any koan. He even provides a Free Zen Riddle
-  and Koan Service through which you can email him a koan and receive an answer.</p>"
+  and Koan Service through which you can email him a koan and receive an answer."
 image: "/assets/tpm_defaultpic.jpg"
 ---
 

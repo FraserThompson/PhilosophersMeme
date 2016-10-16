@@ -26,7 +26,7 @@ meta:
   _rest_api_published: 1
   _rest_api_client_id: -1
   _publicize_job_id: 21025469179
-excerpt: "<p>Where have all the Long Boys gone?</p>"
+excerpt: "Where have all the Long Boys gone?"
 layout: post
 image: "/assets/2016-03-22-long-boys-never-grow-up/what.jpg"
 ---

@@ -10,12 +10,12 @@ tags:
 type: post
 author:
   display_name: The Philosopher's Meme
-excerpt: 'We are faced not with a conflict of political affinity, but instead a problem
+excerpt: "We are faced not with a conflict of political affinity, but instead a problem
   grounded in a disagreement over whether the design of platforms can substitute for
   social norms: does digital freedom find its limits at the codework constraints of
   social media sites, in their manmade spaces of programmed possibility, or can digital
   freedom only exist in the presence of a robust, just, and enforced set of social
-  norms?'
+  norms?"
 status: publish
 layout: post
 image: "/assets/2016-04-14-social-media-freedom/gae0.png"

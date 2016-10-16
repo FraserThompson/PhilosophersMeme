@@ -33,7 +33,7 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "<p>We, the artists of the future, refuse to be the plaything of politics.</p>"
+excerpt: "We, the artists of the future, refuse to be the plaything of politics."
 image: "/assets/tpm_defaultpic.jpg"
 ---
 
