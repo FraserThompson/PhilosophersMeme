@@ -8,7 +8,8 @@ tags:
 type: post
 author:
   display_name: Thomas Rososchansky
-excerpt: "<p>‘R.I.P. Harambe’ no longer means ‘R.I.P. Harambe’, but rather, “we remember a dead fictional being based off a real dead being inside of a living meme”</p>."
+excerpt: "<p>‘R.I.P. Harambe’ no longer means ‘R.I.P. Harambe’, but rather, “we remember
+  a dead fictional being based off a real dead being inside of a living meme”</p>."
 status: publish
 layout: post
 image: "/assets/2016-10-13-what-we-talk-about-harambe/header.png"
