@@ -1,15 +1,14 @@
 ---
 ---
 
-/* * { border: solid 1px red !important; } */
-
-
-$site-width: 100%;
+$site-width: 1366px;
 $post-width: 65%;
 
+@import url(https://fonts.googleapis.com/css?family=Squada+One);
+
 @font-face {
-    font-family: 'Squada One';
-    src: url(https://fonts.googleapis.com/css?family=Squada+One);
+	font-family: 'Squada One';
+	src: url(https://fonts.googleapis.com/css?family=Squada+One);
 }
 @font-face {
     font-family: 'Source Code Pro';
@@ -177,7 +176,6 @@ a.pure-menu-link.large {
 }
 a.pure-menu-link.large:hover {
 	background-color: white;
-	
 }
 
 
@@ -330,7 +328,8 @@ div.post-preview-image {
 	text-align: center;
 }
 div.home {
-	max-width: $post-width;
+	max-width: $site-width;
+	width: $post-width;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
@@ -370,7 +369,6 @@ div.post-preview-snippet {
 	margin: 0 0;
 }
 .glossary-updates{
-	max-width: $post-width;
 }
 
 .glossary-toc {
@@ -379,7 +377,6 @@ div.post-preview-snippet {
 }
 
 .glossary-entry {
-	max-width: $post-width;
 	font-family: 'Baramond';
 
 }
@@ -389,7 +386,6 @@ div.post-preview-snippet {
 
 
 .post {
-	
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 15px;
@@ -430,6 +426,8 @@ div.post-content {
 
 .post-header {
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	
 	.social {
 		max-width: $post-width;
