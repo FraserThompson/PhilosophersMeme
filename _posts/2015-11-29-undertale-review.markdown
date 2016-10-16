@@ -27,9 +27,9 @@ author:
   display_name: Mike M.
   first_name: Michael
   last_name: Maitland
-excerpt: "Undertale is a game that's very difficult to convince people to play,
-  which is a huge shame because it's probably one of the most affecting games produced
-  in the last 10 years."
+excerpt: Undertale is a game that's very difficult to convince people to play, which
+  is a huge shame because it's probably one of the most affecting games produced in
+  the last 10 years.
 image: "/assets/2015-11-29-undertale-review/1.jpg"
 ---
 

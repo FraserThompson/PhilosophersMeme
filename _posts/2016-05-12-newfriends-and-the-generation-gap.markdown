@@ -25,12 +25,12 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "I was walking home from a friend's place yesterday when I saw a few children
+excerpt: I was walking home from a friend's place yesterday when I saw a few children
   chasing each other and play fighting. As I walked past, I heard one tell the other,
   'get wrecked!' I wondered whether they learned it from video games they play (my
   guess was either LoL or DotA, but it could be one of those FPSs) or from older kids
   (or perhaps, most befittingly, even older kids online!) they know such as their
-  older siblings."
+  older siblings.
 image: "/assets/tpm_defaultpic.jpg"
 ---
 
