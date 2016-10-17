@@ -195,7 +195,6 @@ a.pure-menu-link.large:hover {
 /*---------------------- Footer styles ----------------------*/
 footer {
 	border-top: solid 1px #979797;
-	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.15);
 	padding: 1em 0;
 	margin: 1em 1em;
 	// font-family: 'Source Code Pro';
@@ -231,7 +230,6 @@ footer li:nth-of-type(1) {
 }
 footer img{
 	vertical-align: middle;
-	border: 1px red solid;
 	width: 20px;
 	padding: 5px;
 }
@@ -313,8 +311,11 @@ div.post-preview-image {
 		height: 150px;
 		
 	}
-
-		h3 {display: inline-block;}
+	h4 {
+		font-family: 'Squada One';
+		font-size: 30px;
+	}
+	h3 {display: inline-block;}
 
 	
 }
@@ -467,6 +468,10 @@ div.post-content {
 @media screen and (max-width: 720px) {
 
 	/* Post stuff */
+	
+
+	
+
 	.post-header .post-title {
 		font-size: 2em !important;
 	}
@@ -474,6 +479,24 @@ div.post-content {
 	}
 
 	/*---------------------- Responsive Menu ----------------------*/
+	
+	header.nav-container {
+		// padding-bottom: 10px;
+		margin-bottom: 10px;
+		box-shadow: 0 5px 10px 0 rgba(0,0,0,0.15);
+		position: fixed;
+		top: 0px;
+		z-index: 10000;
+		background-color: white;
+		text-align: center;
+	}
+
+	.post-header {
+		margin-top: 70px;
+	}
+
+
+
 	.pure-menu-horizontal .pure-menu-item, .pure-menu-horizontal .pure-menu-heading, .pure-menu-horizontal .pure-menu-separator {
 		display: block;
 	}
@@ -484,7 +507,7 @@ div.post-content {
 		display: inline-block;
 		position: fixed;
 		top: 0px;
-		left: 10px;
+		left: 15px;
 	}
 
 	.pure-menu-list.responsive {
@@ -513,8 +536,10 @@ div.post-content {
 	#masthead h1 {
 		font-family: 'Betty Noir';
 		font-size: 24px;
-		display: initial;
-		padding-top: 15px;
+		display: inline-block;
+		padding-top: 0px;
+		text-align: center;
+		margin-top: 0px;
 
 	}
 		div.post-preview-image {
@@ -527,21 +552,36 @@ div.post-content {
 			height: 100px;
 		}
 	}
+	div.resp-sharing-button {
+		margin-bottom: 5px;
+	}
 	/*---------------------- Footer ----------------------*/
 	footer li:nth-of-type(1) {
 	text-align: left;
-	display: flex;
-	flex-direction: row;
+	display: block;
+	}
+	footer li {
+		text-align: center;
+	}
+	footer nav li div {
+		margin-left: 20%;
+		margin-right: 0px;
+	}
+	footer ul {
+
 	}
 }
 
 /*---------------------- On small screens do this ----------------------*/
 @media screen and (max-width: 480px) {
+	
+
 	.resp-sharing-button {
 		font-size: 12px !important;
 	}
 	div.home {
 		margin: 0 3%;
+		width: 100%;
 		max-width: 100%;
 	}
 	.post-content {
@@ -553,15 +593,23 @@ div.post-content {
 	}
 	footer {
 		margin: 1em 1em;
+		overflow: hidden;
 	}
 	footer ul {
 		width: 100%;
 		text-align: center;
+		margin-left: 0;
 	}
 	.related-post {
 		.post-preview-image {
 			height: 70px;
 		}
+	}
+	footer nav li div {
+		margin-left: 0%;
+		padding-right: 0;
+		width: auto;
+
 	}
 	
 }
