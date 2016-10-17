@@ -25,9 +25,9 @@ author:
   display_name: jiriteller
   first_name: Thomas
   last_name: Rososchansky
-excerpt: "If you have an Internet connection, then you must have noticed how Leonardo
+excerpt: If you have an Internet connection, then you must have noticed how Leonardo
   DiCaprio’s face and name have infected your computer like some celebratory virus.
-  Everyone is talking about Leo."
+  Everyone is talking about Leo.
 image: "/assets/2016-03-02-death-of-a-meme-or-how-leo-learned-to-stop-worrying-and-love-the-bear/leo-dicaprio-oscar-one1.jpg"
 ---
 

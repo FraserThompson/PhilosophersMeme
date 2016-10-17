@@ -31,9 +31,9 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "I have been developing a theory of Internet Memes, through which I hope
-  to operationalize memetics for the scientific analysis of Internet Meme culture.
-  Here is a case study I used to test and develop some of my models."
+excerpt: I have been developing a theory of Internet Memes, through which I hope to
+  operationalize memetics for the scientific analysis of Internet Meme culture. Here
+  is a case study I used to test and develop some of my models.
 image: "/assets/2015-11-25-bane-loss-and-phylogeny/purified-loss1.png"
 ---
 

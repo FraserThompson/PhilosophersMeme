@@ -23,9 +23,9 @@ author:
   display_name: S. Y. Her
   first_name: Seong
   last_name: Her
-excerpt: "Memes are not just art they are art-concepts, necessarily materialized
-  cybernetically. This means their analysis must always be two-tiered, firstly, memetic;
-  secondly, aesthetic."
+excerpt: Memes are not just art they are art-concepts, necessarily materialized cybernetically.
+  This means their analysis must always be two-tiered, firstly, memetic; secondly,
+  aesthetic.
 image: "/assets/2015-11-02-the-quadrant-system-for-the-categorization-of-internet-memes/table-of-meme.jpg"
 ---
 

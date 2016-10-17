@@ -28,7 +28,7 @@ author:
   display_name: Mike M.
   first_name: Michael
   last_name: Maitland
-excerpt: "Do you like hurting other people?"
+excerpt: Do you like hurting other people?
 image: "/assets/2015-12-01-hotline-miami-and-player-complicity/1.jpg"
 ---
 
