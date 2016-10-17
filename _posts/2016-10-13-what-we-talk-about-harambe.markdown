@@ -1,5 +1,6 @@
 ---
 title: 2016 10 13 What We Talk About Harambe
+date: 2016-10-13 00:00:00 Z
 ---
 
 <img src="{{ site.baseurl }}/assets/2016-10-13-what-we-talk-about-harambe/header.png">
