@@ -1,18 +1,5 @@
 ---
-title: What We Talk About When We Talk About Harambe
-date: 2016-10-13 12:00:00 Z
-tags:
-- memes
-- Harambe
-- post-ironic
-type: post
-author:
-  display_name: Thomas Rososchansky
-<<<<<<< HEAD
-excerpt: "‘R.I.P. Harambe’ no longer means R.I.P. Harambe, but rather, ‘we remember a dead fictional being based off a real dead being inside of a living meme’."
-status: publish
-layout: post
-image: "/assets/2016-10-13-what-we-talk-about-harambe/header.png"
+title: 2016 10 13 What We Talk About Harambe
 ---
 
 <img src="{{ site.baseurl }}/assets/2016-10-13-what-we-talk-about-harambe/header.png">
