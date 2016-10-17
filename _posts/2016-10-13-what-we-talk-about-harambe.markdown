@@ -8,6 +8,7 @@ tags:
 type: post
 author:
   display_name: Thomas Rososchansky
+<<<<<<< HEAD
 excerpt: "‘R.I.P. Harambe’ no longer means R.I.P. Harambe, but rather, ‘we remember a dead fictional being based off a real dead being inside of a living meme’."
 status: publish
 layout: post
