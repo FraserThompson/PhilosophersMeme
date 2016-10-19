@@ -9,7 +9,7 @@ layout: default
 			<div class="social">
 				{% include social-buttons.html %}
 			</div>
-		<h3 class="post-author">By {{ page.author.display_name }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %y" }}</time></h3>
+		<h3 class="post-author">By {{ page.author.display_name }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %Y" }}</time></h3>
 	</header>
 
 	<article class="post" itemscope itemtype="http://schema.org/BlogPosting" style="background-color: white;">
@@ -41,7 +41,7 @@ layout: default
 						<a class="related-post" href="{{related_post[0]}}" style="text-decoration: none;">
 							<div class="post-preview-image" style="background-image: url({{related_post[2]}});"></div>
 							<h3>{{related_post[1]}}</h3>
-							<p class="post-preview-meta">{{related_post[3]}} on {{related_post[4] | date: "%d %b %y" }}</p>
+							<p class="post-preview-meta">{{related_post[3]}} on {{related_post[4] | date: "%d %b %Y" }}</p>
 						</a>
 					</div>
 				{% endfor %}
