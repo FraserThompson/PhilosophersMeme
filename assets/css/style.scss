@@ -193,7 +193,7 @@ a.pure-menu-link.large:hover {
 footer {
 	// border-top: solid 1px #979797;
 	padding: 1em 0;
-	margin: 1em 1em;
+	margin: 0em 1em 1em;
 	text-align: center;
 	// width: 65%;
 }
@@ -262,6 +262,8 @@ footer li a:hover, footer li a:active {
 }
 
 /*---------------------- Post preview styles ----------------------*/
+
+
 .post-preview-entry {
 	min-height: 200px;
 	margin-bottom: 2em;
@@ -323,8 +325,27 @@ div.post-preview-image {
 	}
 	
 }
-
-
+div.pagination {
+	font-family: 'Baramond';
+}
+span.previous {
+	color: #C2C2C2; 
+	padding-right: 20px;
+}
+span.next {
+	color: #C2C2C2;
+	padding-left: 20px;
+}
+a.previous {
+	text-decoration: none;
+	padding-right: 20px;
+	font-weight: bold;
+}
+a.next {
+	text-decoration: none;
+	padding-left: 20px;
+	font-weight: bold;
+}
 .related-post {
 	display: block;
 	padding-right: 0;
