@@ -1,5 +1,5 @@
 ---
-title: What We Talk About When We Talk About Harambe
+title: "From Outrage to Dicks Out to Dead Celebrity: <nobr>The Evolution</nobr> of the Great Ape Harambe"
 date: 2016-10-13 12:00:00 Z
 tags:
 - memes
