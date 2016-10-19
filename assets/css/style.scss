@@ -191,11 +191,15 @@ a.pure-menu-link.large:hover {
 }
 /*---------------------- Footer styles ----------------------*/
 footer {
-	border-top: solid 1px #979797;
+	// border-top: solid 1px #979797;
 	padding: 1em 0;
 	margin: 1em 1em;
 	text-align: center;
 	// width: 65%;
+}
+footer hr {
+	width: $post-width;
+	margin-bottom: 10px;
 }
 
 footer ul.pure-g {
@@ -580,15 +584,20 @@ div.post-content {
 		margin-left: 20%;
 		margin-right: 0px;
 	}
-	footer ul {
-
+	footer hr{
+		visibility: hidden;
+	}
+	footer {
+		border-top: 1px gray solid;
+		margin-left: 0;
+		margin-right: 0;
 	}
 }
 
 /*---------------------- On small screens do this ----------------------*/
 @media screen and (max-width: 480px) {
 	
-
+	
 	.resp-sharing-button {
 		font-size: 12px !important;
 	}
@@ -609,8 +618,9 @@ div.post-content {
 		width: 70px;
 	}
 	footer {
-		margin: 1em 1em;
+		// margin: 1em 1em;
 		overflow: hidden;
+		width: 100%;
 	}
 	footer ul.pure-g {
 		// width: 80%;
