@@ -628,8 +628,20 @@ div.post-content {
 		// border: 1px red solid;
 	}
 	.related-post {
+		margin-bottom: 30px;
 		.post-preview-image {
 			height: 70px;
+			width: 70px;
+			display: inline-block;
+			vertical-align: top;
+			float: left;
+		}
+		h3 {
+			display: inline-block;
+		}
+		p.post-preview-meta {
+			display: inline-block;
+			position: static;
 		}
 	}
 	footer nav li div {
