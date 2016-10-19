@@ -155,18 +155,18 @@ a#masthead.pure-menu-link {
     transition: .2s ease-in-out;
 }
 .pure-menu-item img{
-	
     height: 20px;
+    padding: 5px;
 }
 .pure-menu-item {
 	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
     filter: grayscale(100%);
 }
-.pure-menu-item img:hover, .pure-menu-item img:active {
-	
-}
 .pure-menu .active a {
 	color: black;
+}
+.pure-menu .active a:hover {
+	color: #78220D;
 }
 a.pure-menu-link.large {
 	padding: 5px;
