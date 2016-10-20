@@ -155,11 +155,15 @@ Meta-Ironic memes thus bring into question the way even subversive humor becomes
 <a name="ThePhylomemeticTree"></a>
 <h2>The Phylomemetic Tree</h2>
 
+<img class="glossary-image" src="{{ site.baseurl }}/assets/glossary/phylomemetic-tree-lamarckian.png">
+
 <p class="glossary-entry">The Phylomemetic Tree is a diagram showing the evolution of Internet memes from their inception as emoticons and chain e-mails through to increasingly complex forms such as baneposting, with a focus on the effects of their divergence into the mainstream and underground.</p>
 
 
 <a name="TheQuadrantofIronicMemes"></a>
 <h2>The Quadrant of Ironic Memes</h2>
+
+<img class="glossary-image" src="{{ site.baseurl }}/assets/glossary/quadrant-system.jpg">
 
 <p class="glossary-entry">The Quadrant is a system aimed at the practical, easily applicable classification and analysis of Internet Memes, with a focus on the inherent tension within ‘Ironic’ memes.</p>
 
