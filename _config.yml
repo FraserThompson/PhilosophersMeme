@@ -22,8 +22,8 @@ defaults:
       first_name: Philosopher
       last_name: Of The Meme
     excerpt: Memes but also Philosophy.
-    image: "/assets/img/sample-image.gif"
-    banner: "/assets/img/sample-banner.png"
+    image: "/assets/tpm_defaultpic.jpg"
+    banner: "/assets/tpm_defaultpic.jpg"
     release-type: official
 sass:
   style: compressed

@@ -6,10 +6,11 @@ layout: default
 nav-position: 5
 ---
 
-Contact TPM
-================
+<div class="home">
+<h1>Contact</h1>
 
-[tomsmailinglist@thephilosophersmeme.com](mailto:tomsmailinglist@thephilosophersmeme.com)
+<p>Send all submissions or queries to <a href="thephilosophersmeme@gmail.com">thephilosophersmeme@gmail.com</a>.</p>
 
-If you have written an interesting text on memes, philosophy, net-culture, or politics, feel free to submit it to be posted in the Guest Releases section. Quality OC only.
-Submissions must go through an editorial process before being posted.
+<p>Submissions should be 1,000 words or greater in length (exceptions made for extraordinary works in abnormal styles) and attached as a word document. Please include an abstract and short bio in the body of your email.</p>
+
+</div>
