@@ -8,7 +8,7 @@ nav-position: 4
 <div class="home">
 <h1 class="about-heading">About</h1>
 
-<p>We are an organization of users dedicated to Internet memes and all that relates to them. The Philosopher’s meme is our experiment in distributed research into Internet culture — at once a series of projects, a network of users, and a community of contributors.</p>
+<p>We are an organization of users dedicated to Internet memes and all that relates to them. The Philosopher’s Meme is our experiment in distributed research into Internet culture — at once a series of projects, a network of users, and a community of contributors.</p>
 
 <p>In June of 2015, on the tail end of the third and final wave of ‘historical alliteration’ memepages on Facebook, we created a memepage to explore the philosophical and artistic aspects of ironic memes, with the aim of critically engaging the community through its own developing medium. At the time, the ironic meme community was struggling with the conservation of its subcultural identity in the face of its growing popularity with the mainstream. As the dominant form of resistance at the time was the destruction of meaning via deliberate obscurantism, we attempted to develop its natural counterpart of meaningful memes.</p>
 
