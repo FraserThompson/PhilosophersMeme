@@ -21,7 +21,7 @@ defaults:
       display_name: Author
       first_name: Philosopher
       last_name: Of The Meme
-    excerpt: "The Philosopher's Meme"
+    excerpt: The Philosopher's Meme
     image: "/assets/tpm_defaultpic.jpg"
     banner: "/assets/tpm_defaultpic.jpg"
     fbpreview: http://thephilosophersmeme.com/assets/img/nav/tpm-header.png
