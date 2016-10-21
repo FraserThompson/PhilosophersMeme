@@ -24,7 +24,7 @@ defaults:
     excerpt: Memes but also Philosophy.
     image: "/assets/tpm_defaultpic.jpg"
     banner: "/assets/tpm_defaultpic.jpg"
-    fbpreview: www.thephilosophersmeme.com/assets/img/nav/tpm-header.png
+    fbpreview: thephilosophersmeme.com/assets/img/nav/tpm-header.png
     release-type: official
 sass:
   style: compressed
