@@ -12,6 +12,7 @@ author:
 excerpt: "‘R.I.P. Harambe’ no longer means R.I.P. Harambe, but rather, ‘we remember
   a dead fictional being based off a real dead being inside of a living meme’."
 image: "/assets/2016-10-13-what-we-talk-about-harambe/header.png"
+fbpreview: "{{ site.baseurl }}/assets/2016-10-13-what-we-talk-about-harambe/header.png"
 status: publish
 layout: post
 ---
