@@ -20,7 +20,7 @@ meta:
 author:
   login: jiriteller
   email: jiriteller@hotmail.com
-  display_name: jiriteller
+  display_name: Thomas Rososchansky
   first_name: Thomas
   last_name: Rososchansky
 excerpt: On some parts of the Internet the term ‘normie’ is used to define anyone

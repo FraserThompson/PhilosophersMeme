@@ -22,7 +22,7 @@ meta:
 author:
   login: jiriteller
   email: jiriteller@hotmail.com
-  display_name: jiriteller
+  display_name: Thomas Rososchansky
   first_name: Thomas
   last_name: Rososchansky
 excerpt: If you have an Internet connection, then you must have noticed how Leonardo
