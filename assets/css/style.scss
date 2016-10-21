@@ -851,17 +851,21 @@ div.post-content {
 /*---- IMAGE HOVER ---*/
 p {position:relative; z-index: auto;}
 a.hover {
-	color: #78220D;
 	text-decoration: none;
+	border-bottom: 2px dotted black;
 	img {display: none;}
 }
 a.hoverexpanded {
-	color: #78220D;
 	text-decoration: none;
+	border-bottom: 2px dotted black;
 	img {display:none;}
 }
 
-a.hover:hover img {
+a.hover:hover {
+
+	border-bottom: 2px dotted #78220d;
+
+img {
 	display: block;
 	position: absolute;
 	max-width: 60%;
@@ -871,8 +875,13 @@ a.hover:hover img {
 	z-index: 1;
 	border: 2px solid black;
 	}
+}
 
-a.hoverexpanded:hover img {
+a.hoverexpanded:hover {
+
+	border-bottom: 2px dotted #78220d;
+
+img {
  	display: block;
 	position: absolute;
 	max-width: 100%;
@@ -880,4 +889,5 @@ a.hoverexpanded:hover img {
 	top: calc(100% + 0.5em);
 	z-index: 1;
 	border: 2px solid black;
+	}
 }
