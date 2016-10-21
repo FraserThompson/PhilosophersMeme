@@ -29,7 +29,7 @@ defaults:
 sass:
   style: compressed
 email: your-email@domain.com
-description: 'The Philosopher's Meme'
+description: The Philosopher's Meme
 baseurl: 
 url: http://thephilosophersmeme.com
 twitter_username: jekyllrb
