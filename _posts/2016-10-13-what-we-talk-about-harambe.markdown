@@ -1,6 +1,6 @@
 ---
-title: 'From Outrage to Dicks Out to Dead Celebrity: <nobr>The Evolution</nobr> of
-  the Great Ape Harambe'
+title: 'From Outrage to Dicks Out to Dead Celebrity: The Evolution of the Great Ape
+  Harambe'
 date: 2016-10-13 12:00:00 Z
 tags:
 - memes
@@ -11,9 +11,9 @@ author:
   display_name: Thomas Rososchansky
 excerpt: "‘R.I.P. Harambe’ no longer means R.I.P. Harambe, but rather, ‘we remember
   a dead fictional being based off a real dead being inside of a living meme’."
+image: "/assets/2016-10-13-what-we-talk-about-harambe/header.png"
 status: publish
 layout: post
-image: "/assets/2016-10-13-what-we-talk-about-harambe/header.png"
 ---
 
 <img src="{{ site.baseurl }}/assets/2016-10-13-what-we-talk-about-harambe/header.png">
