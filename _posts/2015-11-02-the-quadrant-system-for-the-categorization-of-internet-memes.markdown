@@ -27,6 +27,7 @@ excerpt: Memes are not just art they are art-concepts, necessarily materialized 
   This means their analysis must always be two-tiered, firstly, memetic; secondly,
   aesthetic.
 image: "/assets/2015-11-02-the-quadrant-system-for-the-categorization-of-internet-memes/table-of-meme.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2015-11-02-the-quadrant-system-for-the-categorization-of-internet-memes/table-of-meme.jpg
 ---
 
 <p><a href="{{ site.baseurl }}/assets/2015-11-02-the-quadrant-system-for-the-categorization-of-internet-memes/table-of-meme.jpg"><img class="alignnone size-full wp-image-294" src="{{ site.baseurl }}/assets/2015-11-02-the-quadrant-system-for-the-categorization-of-internet-memes/table-of-meme.jpg" alt="table of meme" width="660" height="555" /></a></p>

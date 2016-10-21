@@ -29,6 +29,7 @@ meta:
 excerpt: Where have all the Long Boys gone?
 layout: post
 image: "/assets/2016-03-22-long-boys-never-grow-up/what.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2016-03-22-long-boys-never-grow-up/what.jpg
 ---
 
 <h2>1. Introduction</h2>

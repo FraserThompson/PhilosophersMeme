@@ -31,6 +31,7 @@ excerpt: Undertale is a game that's very difficult to convince people to play, w
   is a huge shame because it's probably one of the most affecting games produced in
   the last 10 years.
 image: "/assets/2015-11-29-undertale-review/1.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2015-11-29-undertale-review/1.jpg
 ---
 
 <blockquote>"Seeing the hope and happiness that undertale has brought to people...<br />

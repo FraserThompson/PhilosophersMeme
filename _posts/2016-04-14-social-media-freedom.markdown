@@ -19,6 +19,7 @@ excerpt: 'We are faced not with a conflict of political affinity, but instead a 
 status: publish
 layout: post
 image: "/assets/2016-04-14-social-media-freedom/gae0.png"
+fbpreview: http://thephilosophersmeme.com/assets/2016-04-14-social-media-freedom/gae0.png
 ---
 
  <img src="{{ site.baseurl }}/assets/2016-04-14-social-media-freedom/gae0.png">
