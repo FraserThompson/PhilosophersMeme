@@ -30,6 +30,7 @@ author:
   last_name: Maitland
 excerpt: Do you like hurting other people?
 image: "/assets/2015-12-01-hotline-miami-and-player-complicity/1.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2015-12-01-hotline-miami-and-player-complicity/1.jpg
 ---
 
 <blockquote><em>"Do you like hurting other people?"</em></blockquote>

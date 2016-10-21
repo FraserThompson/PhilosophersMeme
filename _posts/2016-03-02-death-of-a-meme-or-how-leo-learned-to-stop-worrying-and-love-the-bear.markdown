@@ -29,6 +29,7 @@ excerpt: If you have an Internet connection, then you must have noticed how Leon
   DiCaprio’s face and name have infected your computer like some celebratory virus.
   Everyone is talking about Leo.
 image: "/assets/2016-03-02-death-of-a-meme-or-how-leo-learned-to-stop-worrying-and-love-the-bear/leo-dicaprio-oscar-one1.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2016-03-02-death-of-a-meme-or-how-leo-learned-to-stop-worrying-and-love-the-bear/leo-dicaprio-oscar-one1.jpg
 ---
 
 <p><span style="font-weight:400;">If you have an Internet connection, then you must have noticed how Leonardo DiCaprio’s face and name have infected your computer like some celebratory virus. Everyone is talking about Leo. Even the media is </span><a href="http://www.dailymail.co.uk/tvshowbiz/article-3469076/Leo-DiCaprio-sends-wave-relief-internet-Oscar-memes-erupt.html"><span style="font-weight:400;">talking about how everyone is talking about Leo</span></a><span style="font-weight:400;"> (and here I am, responding to this ironically by talking about Leo). </span></p>

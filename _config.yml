@@ -21,7 +21,7 @@ defaults:
       display_name: Author
       first_name: Philosopher
       last_name: Of The Meme
-    excerpt: Memes but also Philosophy.
+    excerpt: "The Philosopher's Meme"
     image: "/assets/tpm_defaultpic.jpg"
     banner: "/assets/tpm_defaultpic.jpg"
     fbpreview: http://thephilosophersmeme.com/assets/img/nav/tpm-header.png
@@ -29,9 +29,7 @@ defaults:
 sass:
   style: compressed
 email: your-email@domain.com
-description: 'The Philosophers Meme blog.
-
-'
+description: 'The Philosopher's Meme'
 baseurl: 
 url: http://thephilosophersmeme.com
 twitter_username: jekyllrb

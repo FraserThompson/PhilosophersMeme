@@ -40,6 +40,7 @@ meta:
   _publicize_job_id: 19236171071
 layout: post
 image: "/assets/2016-01-29-the-post-pepe-manifesto/postpepe1.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2016-01-29-the-post-pepe-manifesto/postpepe1.jpg
 ---
 
 <p><img class="alignnone size-full wp-image-691" src="{{ site.baseurl }}/assets/2016-01-29-the-post-pepe-manifesto/postpepe1.jpg" alt="he is risen" width="720" height="auto" /></p>

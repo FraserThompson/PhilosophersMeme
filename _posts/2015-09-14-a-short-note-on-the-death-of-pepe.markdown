@@ -31,6 +31,7 @@ excerpt: Honestly, I miss this meme. I guarantee that Pepe the Frog is going to 
   the biggest 'normie' meme of all time. It's popular with high school kids, who are
   basically the equivalent of university activists in the world of internet culture.
 image: "/assets/2015-09-14-a-short-note-on-the-death-of-pepe/10881565_870360753004673_4747543608770201737_n.jpg"
+fbpreview: http://thephilosophersmeme.com/assets/2015-09-14-a-short-note-on-the-death-of-pepe/10881565_870360753004673_4747543608770201737_n.jpg
 ---
 
 <p style="text-align:center;"><a href="{{ site.baseurl }}/assets/2015-09-14-a-short-note-on-the-death-of-pepe/10881565_870360753004673_4747543608770201737_n.jpg"><img class="alignnone size-medium wp-image-257" src="{{ site.baseurl }}/assets/2015-09-14-a-short-note-on-the-death-of-pepe/10881565_870360753004673_4747543608770201737_n.jpg" alt="10881565_870360753004673_4747543608770201737_n" width="232" height="300" /></a></p>
