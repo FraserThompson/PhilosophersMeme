@@ -1,8 +1,8 @@
 ---
 title: About
 permalink: "/about/"
-layout: default
 nav-position: 4
+layout: default
 ---
 
 <div class="home">
@@ -20,11 +20,11 @@ nav-position: 4
 
 <p>We inherit and expand upon the memetic logic of past revolutionary art movements — a continuation of Situationism and punk rock, not the dead rivalry of formalism and conceptualism. We believe that democratic practice is possible on the Internet when users have a participatory connection with the hivemind, jacked into social platforms which augment their capacities as creative beings. We want to replace the tyranny of political and memetic essentialism with the contextual and performative construction of meanings and identities. We still believe in virtual identity — it didn’t die in the ’90s along with Web 1.0.</p>
 
-<p>We believe in the need for a bioethics of art. Not only is art an extension of the self, it behaves in precisely the same manner as biological life. The life of an organism does not pertain to the molecular arrangement of its organs but the process of growth and living itself. Likewise, the life of art is not in static taxidermies displayed in museums, but the concomitant processes of creation, remix, and distribution. We believe that a network of users, connected through memetic (inter-)play, is an ecosystem in its own right. We have a duty to protect its memetic biodiversity.</p>
+<p>We believe in the need for a bioethics of art. Not only is art an extension of the self, it behaves in precisely the same manner as biological life. The life of an organism does not pertain to the molecular arrangement of its organs but the process of growth and living itself. Likewise, the life of art is not in their static taxidermies displayed in museums, but the concomitant processes of creation, remix, and distribution. We believe that a network of users, connected through memetic (inter-)play, is an ecosystem in its own right. We have a duty to protect its memetic biodiversity.</p>
 
-<p>We perceive a dire need for user sovereignty in the increasingly rapid corporatization of the Web and its ecosystems. As social media platforms work to normalize and commercialize content, memetic life-processes are constrained by the architectures of these digital megacities. With rigid boundaries of permissible behavior and production, self-determination within each platform is dissolved in favor of advertiser-friendly drivel. The organic process of confederation and niche differentiation have been rejected in the name of the vectoral extraction of profits; users are assigned to passive and normie-friendly consumption depots — advertising demographics — and become as zoo animals themselves. It is for this reason that we see as paramount the development of an information-commons, a digital space which can serve as both agora and archive.</p>
+<p>We perceive a dire need for user sovereignty in the increasingly rapid corporatization of the Web and its ecosystems. As social media platforms work to normalize and commercialize content, memetic life-processes are constrained by the architectures of these digital megacities. With rigid boundaries of permissible behaviour and production, self-determination within each platform is dissolved in favour of advertiser-friendly drivel. The organic process of confederation and niche differentiation have been rejected in the name of the vectoral extraction of profits; users are assigned to passive and normie-friendly consumption depots — advertising demographics — and become as zoo animals themselves. It is for this reason that we see as paramount the development of an information-commons, a digital space which can serve as both agora and archive.</p>
 
-<p>Art, ethics, and politics are today impossible without the concurrent engagement of theory and practice. The boundary between the two is arbitrary: we need artists and memeticists as much as developers and technicians. The hivemind — interdisciplinary, porous, living — connects and unites us; together, we create.</p>
+<p>Art, ethics, and politics are today impossible without the concurrent engagement of theory and practice. The boundary between the two is arbitrary: we need artists and memeticists as much as developers and technicians. The hive mind — interdisciplinary, porous, living — connects and unites us; together, we create.</p>
 
 
 <h1>Projects</h1>
@@ -39,15 +39,15 @@ nav-position: 4
 <p>Without spaces in which to collaborate, a network of users is impotent. /tpm/ and /tpmg/ serve as formal and informal discussion groups, respectively, in which to share knowledge and make those social connections needed for more involved efforts. These spaces are not only proving grounds for our theories of governance, but instrumental in their iterative development.</p>
 
 <h2>Gondola</h2>
-<h4><a href="https://www.facebook.com/gondolaspace/">Page</a> - <a href="https://facebook.com/gondolamemes">Memepage</a> - <a href="https://www.facebook.com/groups/gondolaspace/"><nobr>Artist Collective</nobr></a> - <a href="https://facebook.com/groups/gondies">Memegroup</a></h4>
+<h4><a href="https://www.facebook.com/gondolaspace/">Page</a> - <a href="https://www.facebook.com/groups/gondolaspace/"><nobr>Artist Collective</nobr></a> - <a 
 
 <p>The Philosopher’s Meme supports memetic biodiversity. We operate an eco-sanctuary dedicated to the conservation of Gondola, an endangered species of Post-ironic meme.</p>
 
 <h2><a href="http://imu.onl">IMU.onl</a></h2>
-<p>We believe in the necessity of unifying content creators from across the Web. The Internet Memeticists’ Union seeks to provide open source access to tools and research necessary for effective self-governance and political action, beginning with a memepage info-sharing portal. It is our hope that through the mining of the meager data which Facebook makes available to content creators, we might see through the opaque, automated apparatuses of governance under which we labor.</p>
+<p>We believe in the necessity of unifying content creators from across the Web. The Internet Memeticists’ Union seeks to provide open source access to tools and research necessary for effective self-governance and political action, beginning with a memepage info-sharing portal. It is our hope that through the mining of the meagre data which Facebook makes available to content creators, we might see through the opaque, automated apparatuses of governance under which we labor.</p>
 
 <h2><a href="https://thephilosophersmeme.com">ThePhilosophersMeme.com</a></h2>
-<p>The Philosopher’s Meme website serves as a repository for longform content related to the philosophy of the Internet.</p>
+<p>The Philosopher’s Meme website serves as a repository for long form content related to the philosophy of the Internet.</p>
 
 <h1>Suggested Readings</h1>
 
