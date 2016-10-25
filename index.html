@@ -8,7 +8,9 @@ layout: default
 
   <div class="post-list">
     {% for post in paginator.posts %}
+	 {% unless post.status == "draft" %}
 		{% include post-preview.html %}
+	 {% endunless %}
     {% endfor %}
   </div>
 </div>

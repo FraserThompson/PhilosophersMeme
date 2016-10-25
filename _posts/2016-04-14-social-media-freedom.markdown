@@ -9,7 +9,7 @@ tags:
 - politics
 type: post
 author:
-  display_name: The Philosopher's Meme
+  display_name: Anonymous
 excerpt: 'We are faced not with a conflict of political affinity, but instead a problem
   grounded in a disagreement over whether the design of platforms can substitute for
   social norms: does digital freedom find its limits at the codework constraints of
