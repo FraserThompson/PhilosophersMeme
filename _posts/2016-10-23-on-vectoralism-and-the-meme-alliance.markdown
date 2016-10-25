@@ -10,9 +10,15 @@ tags:
 type: post
 author:
   display_name: Anonymous
-excerpt: "We have seen in recent months the blossoming of a protest movement in Weird Facebook, a Meme Alliance of users and memepages wearing pink profile-pictures -- Facebook flags upside-down, signaling S.O.S. -- demanding satisfaction for Zuckerberg’s censorship of their content via automated moderation systems. Though their efforts have served as a coming-out of sorts for meme-scene activists, the failure of the Meme Alliance’s tactics to register demands a reconsideration of the terrain of struggle."
+excerpt: We have seen in recent months the blossoming of a protest movement in Weird
+  Facebook, a Meme Alliance of users and memepages wearing pink profile-pictures --
+  Facebook flags upside-down, signaling S.O.S. -- demanding satisfaction for Zuckerberg’s
+  censorship of their content via automated moderation systems. Though their efforts
+  have served as a coming-out of sorts for meme-scene activists, the failure of the
+  Meme Alliance’s tactics to register demands a reconsideration of the terrain of
+  struggle.
 image: "/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/1.png"
-fbpreview: "http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass.png"
+fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass.png
 status: draft
 layout: post
 ---
