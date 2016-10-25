@@ -1,6 +1,6 @@
 ---
 title: 'A Leftist Politics for the 3rd Millennium: Twitch Plays Pokemon, the Meme Scene & the Project of Hyperspace'
-date: 2016-10-27 12:00:00 Z
+date: 2016-10-23 12:00:00 Z
 tags:
 - politics
 - twitch plays pokemon
