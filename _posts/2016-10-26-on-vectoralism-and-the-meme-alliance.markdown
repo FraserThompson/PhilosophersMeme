@@ -1,5 +1,5 @@
 ---
-title: On Vectoralism & the <nobr>Meme Alliance's</nobr> <nobr>General Strike</nobr>
+title: On Vectoralism & the Meme Alliance's General Strike
 date: 2016-10-26 12:00:00 Z
 tags:
 - memepages
