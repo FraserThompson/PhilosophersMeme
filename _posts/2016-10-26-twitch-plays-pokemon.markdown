@@ -1,5 +1,5 @@
 ---
-title: 'Twitch Plays Pokemon, the Meme Scene & the Project of Hyperspace'
+title: Twitch Plays Pokemon, the Meme Scene & the Project of Hyperspace
 date: 2016-10-26 12:00:00 Z
 tags:
 - politics
