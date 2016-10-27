@@ -1,7 +1,6 @@
 ---
-title: 'A Leftist Politics for the 3rd Millennium: Twitch Plays Pokemon, the Meme
-  Scene & the Project of Hyperspace'
-date: 2016-10-23 12:00:00 Z
+title: 'Twitch Plays Pokemon, the Meme Scene & the Project of Hyperspace'
+date: 2016-10-26 12:00:00 Z
 tags:
 - politics
 - twitch plays pokemon
@@ -17,7 +16,7 @@ excerpt: 'I stayed up all night, again, playing Pokemon Red with the Internet hi
   itself by bringing order to those actions'
 image: "/assets/2016-10-27-twitch-plays-pokemon/1.png"
 fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-twitch-plays-pokemon/1.png
-status: draft
+status: publish
 layout: post
 ---
 
