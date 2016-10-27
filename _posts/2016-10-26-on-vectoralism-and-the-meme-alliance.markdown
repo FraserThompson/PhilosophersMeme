@@ -18,7 +18,7 @@ excerpt: We have seen in recent months the blossoming of a protest movement in W
   Meme Alliance’s tactics to register demands a reconsideration of the terrain of
   struggle.
 image: "/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/1.png"
-fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass-fb.png
+fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass-fb.jpg
 status: publish
 layout: post
 ---
