@@ -29,12 +29,12 @@ layout: default
 
 <h1>Projects</h1>
 
-<h2><a href="facebook.com/thephilosophersmeme">Facebook Page</a></h2>
+<h2><a href="https://www.facebook.com/thephilosophersmeme">Facebook Page</a></h2>
 
 <p>This memepage was the first of our projects and initially intended to exhibit experimental journalism and memetic art. It was among the very first serious-minded ironic memepages to come out of the Weird Facebook boom. We began with a focus on the artistic and educational significance of Internet memes, but soon became interested in memes in themselves. This change of direction towards taking memes seriously as objects of study culminated in pioneering research and the development of our broader community. As of October 2016, the page has over 136,000 likes and specializes in edutainment by creating and sharing quality original content and reading material. </p>
 
 <h2>Discussion Groups</h2>
-<h4><a href="facebook.com/groups/sophismo">Internet culture research</a> - <a href="facebook.com/groups/memetics">General discussion</a></h4>
+<h4><a href="https://www.facebook.com/groups/sophismo">Internet culture research</a> - <a href="https://www.facebook.com/groups/memetics">General discussion</a></h4>
 
 <p>Without spaces in which to collaborate, a network of users is impotent. /tpm/ and /tpmg/ serve as formal and informal discussion groups, respectively, in which to share knowledge and make those social connections needed for more involved efforts. These spaces are not only proving grounds for our theories of governance, but instrumental in their iterative development.</p>
 
@@ -63,9 +63,11 @@ layout: default
 <li><a href="{{ site.baseurl }}/2016/03/02/death-of-a-meme-or-how-leo-learned-to-stop-worrying-and-love-the-bear/">Death of a Meme?</a></li>
 <li><a href="{{ site.baseurl }}/2016/03/22/long-boys-never-grow-up/">long boys never grow up</a></li>
 </ul>
-<h2>Political-economy of the Web</h2>
+<h2>Politics of the Web</h2>
 <ul class="about-list">
 <li><a href="{{ site.baseurl }}/2016/04/14/social-media-freedom/">Creeps, Tweeps, & the Limits of Social Media Freedom</a></li>
+<li><a href="{{ site.baseurl }}/2016/10/26/on-vectoralism-and-the-meme-alliance/">On Vectoralism & the Meme Alliance's General Strike</a></li>
+<li><a href="{{ site.baseurl }}/2016/10/26/twitch-plays-pokemon/">Twitch Plays Pokemon, the Meme Scene, & the Project of Hyperspace</a></li>
 </ul>
 <h2>Evolutionary biology of memes</h2>
 <ul class="about-list">
