@@ -110,7 +110,7 @@ a#masthead.pure-menu-link {
 }
 #toggleNav {
 	display: none;
-	font-size: 36px;
+	font-size: 28px;
 	float: left;
 	z-index: 1005;
 	text-decoration: none;
@@ -430,7 +430,7 @@ img.glossary-image {
 /*----------------------    About styles ----------------------*/
 
 .about-list{
-	paddint-top: .25em;
+	padding-top: .25em;
 	padding-bottom: .5em;
 	li{
 	font-family: 'Baramond';
@@ -565,7 +565,7 @@ div.post-content {
 	#toggleNav {
 		display: inline-block;
 		position: fixed;
-		top: 0px;
+		top: 5px;
 		left: 15px;
 	}
 
@@ -640,7 +640,10 @@ div.post-content {
 /*---------------------- On small screens do this ----------------------*/
 @media screen and (max-width: 480px) {
 	
-	
+	#masthead h1 {
+		font-size: 20px;
+		padding-left: 10px;
+	}
 	.resp-sharing-button {
 		font-size: 12px !important;
 	}
