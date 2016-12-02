@@ -59,7 +59,7 @@
       this.field('author');
     });
 
-    document.getElementById(searchTerm).classList.add('active');
+    document.getElementById('author-title').innerHTML = searchTerm;
 
     for (var key in window.store) {
       idx.add({

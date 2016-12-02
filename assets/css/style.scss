@@ -514,8 +514,9 @@ div.post-content {
 .tag-list li {
 	display: inline;
 
-	.active {
+	&.active {
 		font-weight: bold;
+		font-size: 18px;
 	}
 }
 
