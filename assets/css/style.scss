@@ -511,6 +511,14 @@ div.post-content {
 	}
 }
 
+.tag-list li {
+	display: inline;
+
+	.active {
+		font-weight: bold;
+	}
+}
+
 
 /*---------------------- On medium screens do this ----------------------*/
 @media screen and (max-width: 720px) {
