@@ -23,6 +23,9 @@ layout: default
 	  	</div>
 
 
+		{% if page.facebook %}
+			{% include facebook-comments.html %}
+		{% endif %}
 
 		{% if page.tags.size %}
 
