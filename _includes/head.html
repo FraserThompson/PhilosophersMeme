@@ -7,6 +7,8 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.excerpt }}" />
   <meta property="og:image" content="{{ page.fbpreview }}" />
+
+  <meta property="fb:app_id" content="170494226757031" />
   
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
