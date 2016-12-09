@@ -20,6 +20,7 @@ excerpt: We have seen in recent months the blossoming of a protest movement in W
 image: "/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/1.png"
 fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass-fb.jpg
 status: publish
+facebook: true
 layout: post
 ---
 
