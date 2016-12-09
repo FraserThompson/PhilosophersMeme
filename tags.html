@@ -13,6 +13,7 @@ layout: default
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "tags": "{{ post.tags | join: ', ' | xml_escape }}",
+        "date": "{{ post.date | date: '%d/%m/%y' | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
       }
