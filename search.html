@@ -2,11 +2,12 @@
 permalink: search.html
 layout: default
 ---
+<div class="home">
+  <center><h1>Search</h1></center>
+  <center>{% include search-box.html %}</center>
 
-<center><h1>Search</h1></center>
-<center>{% include search-box.html %}</center>
-
-<ul id="search-results"></ul>
+  <ul id="search-results"></ul>
+</div>
 
 <script>
   window.store = {

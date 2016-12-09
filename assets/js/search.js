@@ -37,26 +37,46 @@
   var searchTerm = getQueryVariable('query');
   var type = getQueryVariable('type');
 
-  if (searchTerm && type == "tags"){
+  if (location.pathname == "/tags.html"){
 
-    var idx = lunr(function () {
-      this.field('id');
-      this.field('tags');
-    });
+    var tags = document.getElementsByClassName('tags');
+    var max = 1;
+    var min = 1;
+    var fontMin = 100;
+    var fontMax = 200;
 
-    document.getElementById(searchTerm).classList.add('active');
-
-    for (var key in window.store) {
-      idx.add({
-        'id': key,
-        'tags': window.store[key].tags
-      });
+    for (var i = 0; i < tags.length; i++){
+      var frequency = tags[i].dataset.frequency;
       
-      var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
-
+      if (frequency > max) {
+        max = frequency;
+      }
     }
-  } if (searchTerm && type == "author"){
+
+    for (var i = 0; i < tags.length; i++) {
+      tags[i].style.fontSize = tags[i].dataset.frequency == min ? fontMin + "%" : (tags[i].dataset.frequency / max) * (fontMax - fontMin) + fontMin + "%";
+    }
+
+    if (searchTerm) { 
+      var idx = lunr(function () {
+        this.field('id');
+        this.field('tags');
+      });
+
+      document.getElementById(searchTerm).classList.add('active');
+
+      for (var key in window.store) {
+        idx.add({
+          'id': key,
+          'tags': window.store[key].tags
+        });
+        
+        var results = idx.search(searchTerm); // Get lunr to perform a search
+        displaySearchResults(results, window.store); // We'll write this in the next section
+
+      }
+    }
+  } else if (searchTerm && location.pathname == "/author.html"){
 
     var idx = lunr(function () {
       this.field('id');
@@ -76,7 +96,7 @@
 
     }
   
-  } else if (searchTerm && !type) {
+  } else if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
     // Initalize lunr with the fields it will be searching on. I've given title

@@ -10,7 +10,7 @@ layout: default
 				{% include social-buttons.html %}
 			</div>
 		{% if page.author.display_name != "Anonymous" %}
-		<h3 class="post-author">By <a href="/author.html?type=author&query={{ page.author.display_name | urlify }}" target="_blank">{{ page.author.display_name }}</a> on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %Y" }}</time></h3>
+		<h3 class="post-author">By <a href="/author.html?query={{ page.author.display_name | urlify }}" target="_blank">{{ page.author.display_name }}</a> on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %Y" }}</time></h3>
 		{% else %}
 		<h3 class="post-author">By {{ page.author.display_name }} on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{page.date | date: "%d %B %Y" }}</time></h3>
 		{% endif %}

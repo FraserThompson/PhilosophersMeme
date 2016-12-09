@@ -2,10 +2,11 @@
 permalink: tags.html
 layout: default
 ---
+<div class="home">
+  {% include tag-list.html %}
 
-{% include tag-list.html %}
-
-<ul id="search-results"></ul>
+  <ul id="search-results"></ul>
+</div>
 
 <script>
   window.store = {
