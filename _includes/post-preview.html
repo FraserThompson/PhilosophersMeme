@@ -5,7 +5,7 @@
 	<div class="post-preview-text">
 		<a href="{{post.url}}" style="text-decoration: none;"><h2 class="post-preview-name">{{post.title}}</h2></a>
 		{% if post.author.display_name != "Anonymous" %}
-		<p class="post-preview-meta">By <a href="/author.html?type=author&query={{ post.author.display_name | urlify }}">{{post.author.display_name}}</a> on {{post.date | date: "%d %B %Y" }}</p>
+		<p class="post-preview-meta">By <a href="/author.html?query={{ post.author.display_name | urlify }}">{{post.author.display_name}}</a> on {{post.date | date: "%d %B %Y" }}</p>
 		{% else %}
 		<p class="post-preview-meta">By {{post.author.display_name}} on {{post.date | date: "%d %B %Y" }}</p>
 		{% endif %}
