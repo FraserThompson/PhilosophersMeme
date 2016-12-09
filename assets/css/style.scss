@@ -511,6 +511,19 @@ div.post-content {
 	}
 }
 
+#search-results {
+	list-style: none;
+}
+
+.tag-list li {
+	display: inline;
+
+	&.active {
+		font-weight: bold;
+		font-size: 18px;
+	}
+}
+
 
 /*---------------------- On medium screens do this ----------------------*/
 @media screen and (max-width: 720px) {
