@@ -61,7 +61,7 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 
 <p class="glossary-entry">A subgroup of autists; insiders to the Ironic meme scene. Originated from 4chan but now largely centred around Facebook meme pages and groups. Associated with the lineage of ironic, meta-ironic and post-ironic memes. Their self-identification as social misfits, developed in reaction against normies, popularized the terminological dichotomy of normies and autists.</p>
 
-<p>Alternative spelling: (an) Ironic</p>
+<p>Alternative spelling: (an) ironic</p>
 
 <a name="MetaIronicMemes"></a>
 <h2>Meta-Ironic Memes</h2>
