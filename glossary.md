@@ -54,14 +54,14 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 <a name="IronicMemes"></a>
 <h2>Ironic Memes</h2>
 
-<p class="glossary-entry">Slightly more Complex memes; requires a prior base familiarity with some Pre-Ironic lexicon since the subversion of conventions is the primary source of its humor. Eventually begins to regress into the same behaviours as Pre-Ironic memes (see ‘the decay to the meme’), which is the solidification of common practices into normative convention. This process is often referred to as ‘normification’ or ‘normies stealing \[the\] memes’.</p>
+<p class="glossary-entry">Slightly more Complex memes; requires a prior base familiarity with some Pre-Ironic lexicon since the subversion of conventions is the primary source of its humor. Eventually begins to regress into the same behaviours as Pre-Ironic memes (see ‘the decay to the meme’), which is the solidification of common practices into normative convention. This process is often referred to as ‘normification’ or ‘normies stealing the memes’.</p>
 
 <a name="Ironist"></a>
-<h2>Ironic</h2>
+<h2>Ironist</h2>
 
 <p class="glossary-entry">A subgroup of autists; insiders to the Ironic meme scene. Originated from 4chan but now largely centred around Facebook meme pages and groups. Associated with the lineage of ironic, meta-ironic and post-ironic memes. Their self-identification as social misfits, developed in reaction against normies, popularized the terminological dichotomy of normies and autists.</p>
 
-<p>Alternative spelling: (an) Ironic</p>
+<p>Alternative spelling: (an) ironic</p>
 
 <a name="MetaIronicMemes"></a>
 <h2>Meta-Ironic Memes</h2>
