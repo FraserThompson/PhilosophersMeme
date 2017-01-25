@@ -53,7 +53,6 @@ layout: default
 
 <h2>Meme aesthetics</h2>
 <ul class="about-list">
-<li><a href="{{ site.baseurl }}/2015/11/02/the-quadrant-system-for-the-categorization-of-internet-memes/">The Quadrant System for the Categorization of Internet Memes</a></li>
 <li><a href="{{ site.baseurl }}/2015/11/02/a-golden-age-of-meme-pages-and-the-microcosm-of-art-history/">A Golden Age of Meme Pages and the Microcosm of Art History</a></li>
 <li><a href="{{ site.baseurl }}/2015/11/28/a-short-note-on-gondola/">A Short Note on Gondola</a></li>
 </ul>
