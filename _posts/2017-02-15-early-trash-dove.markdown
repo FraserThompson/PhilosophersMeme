@@ -48,6 +48,8 @@ Originally posted to the [page](www.facebook.com/thephilosophersmeme/photos/a.16
 
 What will be interesting will be when Trash Dove eventually becomes less "hot" and we see its post/meta ironic application; I think that this is where we will see it return to its use in the ironic realm, although undoubtedly with much less prevalence than its current usage.
 
+> **Owen Kuth**: Id compare it to ironic emojiis often used in memes like "![](https://www.facebook.com/images/emoji.php/v7/f29/1.5/16/1f602.png)![](https://www.facebook.com/images/emoji.php/v7/fd4/1.5/16/1f44c.png)" etc.
+>
 > **TPM**: I like this response, but we should remember that precisely the same thing was said about Dat Boi. People thought it's too esoteric and absurdist to be appropriated. Consider the fact that contemporary art history is that of businesses culturally profiteering off of the purported avant-garde and we can see that it's hardly a novel pattern for art as a whole.
 >
 > Your second point about meta-irony as eventual reclamation of what becomes a deeply normie meme is very astute and the comments above from Owen about contemporary emoji use is also spot on. The point I want to emphasize here is that the two are conflicting possible scenarios, in that the latter requires for the meme to go massively normie before there is enough room for the sort of nuanced play with irony.
