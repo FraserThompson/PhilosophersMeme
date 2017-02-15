@@ -24,7 +24,7 @@ Trash Dove is a normie meme. That might very well change in the future. You can 
 
 ![inevitable pol.JPG](/uploads/inevitable%20pol.JPG)
 
-\(image source: 4chan /pol/)
+Image source: 4chan /pol/
 
 The ironists' recent prank, the attempt at convincing some turbonormies into believing that Trash Dove is a racist dog-whistle, is probably the best thing that could have happened to it. The lack of complexity which made it destined for normiehood from the very beginning will be countered by the ensuing struggle over the definition of the meme. The fact that Trash Dove is a sticker set on Facebook means the normies get an advantage so that it doesn't just end up with an edgelord monopoly over the latest 'Nazi symbol' (created, in fact, by the very normies who boycott the meme for this reason). It will be very interesting to see what happens next.
 
@@ -60,7 +60,7 @@ What will be interesting will be when Trash Dove eventually becomes less "hot" a
 
 > **TPM**:  I think that kind of historicist approach is definitely valuable, although I find that focusing on platforms (viz. Facebook) rather than linguistic/national groupings is usually more insightful. The fact that the use of Pepe in non-anglosphere communities is largely limited to reaction faces without political connotations should tick us off to the fact that Pepe on the Korean website DCinside is not the same Pepe as on Krautchan or 8ch /pol/. Naturally we could apply the same logic to any other meme when appropriate.
 
-[Thread 3](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1914970042069946&comment_tracking=%7B"tn"%3A"R9"%7D)
+[Thread 3](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1914970042069946&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
 **Max Correia**: The trash dove is not a normie meme, nor is it a sophisticated, nuanced meme. Trash Dove marks the beginning of the end of all ironic memes.
 
@@ -84,7 +84,7 @@ And that begs the question: can a meme of all memes be ironic in relation to its
 >
 > **Ben Dieter Holt**: In another comment thread someone mentioned the appropriation of dead (by our standard) memes by normies. I feel like a promising recent development in internet meta-irony is the recycling of memes that normies would consider stale now: rage comics andmy nama Jeff, for example. The level of irony achieved where normies become confused about the resurrection of memes they remember from years ago I think is extremely funny. It's also the perfect natural progression of the "us versus them" dynamic of meme culture.
 
-[Thread 4](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1915012858732331&comment_tracking=%7B"tn"%3A"R9"%7D)
+[Thread 4](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1915012858732331&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
 **Alex Ricard**: More than anything, I'm reminded of the "I'm Rick Harrison" meme of last summer. All the same identifiers are there: extreme simplicity and easy access, and its use as a disruptive non-sequitur. As such the meme functions, for now, as a template to be inserted into other memes. More simply, in Shitpostbot terms, it is a source image, not a template. Let's not discount the importance of source image memes even though they are simple.
 
@@ -94,7 +94,7 @@ The novelty of spamming it in comment sections will fade, and it will be replace
 
 > **TPM**: That's a beautiful observation about the source image and template dichotomy. In contemporary memes, the rule of thumb is that form follows function follows form. Not only is there the early memetic spread of people setting up the basic rules of a given meme through mimicry, there is also subsequent progression into new uses through adaptation.
 
-[Thread 5](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1914955115404772&comment_tracking=%7B"tn"%3A"R9"%7D)
+[Thread 5](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1914910985409185/?type=3&comment_id=1914955115404772&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
 **Special meme fresh**: how about you come down from your tower of cynical memE analysis and flop with the rest of us
 
