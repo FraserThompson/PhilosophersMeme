@@ -10,6 +10,7 @@ tags:
 - Trash Dove
 - 4chan
 - "/pol/"
+- ironist
 author:
   display_name: S. Y. Her
 excerpt: 'Normies are users with low memetic literacy or fluency. Most importantly,
