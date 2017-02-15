@@ -1,5 +1,5 @@
 ---
-title: Early Trash Dove
+title: Trash Dove Is A Normie Meme
 date: 2017-02-15 05:41:00 Z
 tags:
 - normie
