@@ -13,10 +13,8 @@ tags:
 - ironist
 author:
   display_name: S. Y. Her
-excerpt: 'Normies are users with low memetic literacy or fluency. Most importantly,
-  they are prescriptivists about the meaning of memes and reject that, not only is
-  there drift in the definitions of memes, there is also indeterminacy which makes
-  them necessarily dependent on context for meaning. '
+excerpt: Normies are users with low memetic literacy or fluency. Trash Dove is a normie
+  meme. That might very well change in the future.
 image: "/uploads/16684179_1161814753936213_2457291586701613901_n.jpg"
 ---
 
