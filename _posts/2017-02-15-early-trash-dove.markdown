@@ -1,6 +1,17 @@
 ---
 title: Early Trash Dove
 date: 2017-02-15 05:41:00 Z
+tags:
+- normie
+- definition
+- semantics
+- context
+- Facebook
+- Trash Dove
+- 4chan
+- "/pol/"
+author:
+  display_name: S. Y. Her
 excerpt: 'Normies are users with low memetic literacy or fluency. Most importantly,
   they are prescriptivists about the meaning of memes and reject that, not only is
   there drift in the definitions of memes, there is also indeterminacy which makes
