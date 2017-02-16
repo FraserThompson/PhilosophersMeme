@@ -16,6 +16,7 @@ author:
 excerpt: Normies are users with low memetic literacy or fluency. Trash Dove is a normie
   meme. That might very well change in the future.
 image: "/uploads/16684179_1161814753936213_2457291586701613901_n.jpg"
+facebook: true
 ---
 
 Trash Dove is a normie meme. That might very well change in the future. You can usually tell when a meme is destined to end up normie trash; you could with Dat Boi or Harambe. The tell-tale marker of a normie meme is its simplicity. There is little 'lore' or central theme that would allow for a richer development of the meme. In complex memes such as [Baneposting](http://thephilosophersmeme.com/2015/11/25/bane-loss-and-phylogeny/), complex permutations which do not result in speciation into a new meme is more feasible. In the case of simple, viral content, the most likely pathway is to be applied to a thousand Shitpostbot-style templates with no progress for the meme itself.
