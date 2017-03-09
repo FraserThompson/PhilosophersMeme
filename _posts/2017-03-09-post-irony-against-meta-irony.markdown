@@ -15,6 +15,7 @@ excerpt: The Ironic Meme Movement was a reaction against the mainstream co-optio
   inside jokes. The Ironics employed defensive strategies which paralleled that of
   the punks against the commercialization of their own subculture. Like the punks,
   they failed.
+image: "/uploads/memetically%20assured%20destruction%20writeup.png"
 ---
 
 ![memetically assured destruction writeup.png](/uploads/memetically%20assured%20destruction%20writeup.png)
