@@ -32,7 +32,7 @@ At the time we created this meme, there had been isolated attempts at post-irony
 
 In the end our predictions proved self-fulfilling with the [development of Gondola](http://thephilosophersmeme.com/2015/11/28/a-short-note-on-gondola/), a meme which prioritizes sincerity and beauty as a part of its ethos. The mere armless bear form of a Gondola is not the meme. Its true meaning hovers in the space between the image and the comment—the community’s interaction with it—and cannot be extricated or sold piecemeal. Gondola and its philosophy of wu wei made post-irony practicable and proved immune to [deliberate attempts ](http://archive.is/yJiyP)at normification that would have been death sentences to any other meme.
 
-# Selected comments from the page
+## Selected comments from the page
 
 [Thread 1:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826395054260779&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
