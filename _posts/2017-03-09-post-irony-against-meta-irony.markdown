@@ -35,7 +35,7 @@ In the end our predictions proved self-fulfilling with the [development of Gondo
 
 [Thread 1:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826395054260779&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-> \*\*Oskar Lindblom: \*\*Memes are almost by definition a linguistic phenomena: there is a certain syntax, a grammar of rules of how to speak and act in order to be recognized as part of a certain meme. Even such subversion of rules will ultimately be codified: one must break the rules in a specific, rule-bound way. I remember somebody once doing a long post about the grammar and syntax of doge and dat boi speak.
+> **Oskar Lindblom:** Memes are almost by definition a linguistic phenomena: there is a certain syntax, a grammar of rules of how to speak and act in order to be recognized as part of a certain meme. Even such subversion of rules will ultimately be codified: one must break the rules in a specific, rule-bound way. I remember somebody once doing a long post about the grammar and syntax of doge and dat boi speak.
 >
 > Gondola seems to not transcend but miss all of this. Gondola doesn't speak. Doesn't interfere, unless hopelessly drawn into something. Gondola doesn't linguistically attack you verbally like the Spurdo or any other meme does. Gondola doesn't plant its seed in your mind through language like other memes do. Gondola is an invitation, not an invasion. It merely invites you into the aesthetics of the meme, and doesn't impose it upon you.
 >
@@ -45,13 +45,13 @@ In the end our predictions proved self-fulfilling with the [development of Gondo
 
 [Thread 2:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826186500948301&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-> \*\*Thomas Whitaker: \*\*Memetic nativism must be maintained in order to ensure quality content.\
+> **Thomas Whitaker:** Memetic nativism must be maintained in order to ensure quality content.\
 > \
 > Those that come from and fall into mainstream culture are of a lesser quality and it is the destiny of those that keep to the subculture to dominate and deride them.
 
 [Thread 3:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826191687614449&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-> \*\*Finn Anton: \*\*Gonna have to go with nietzche on this one, Sincerity is now the most potent form of irony
+> **Finn Anton:** Gonna have to go with nietzche on this one, Sincerity is now the most potent form of irony
 
 [Thread 4:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826287384271546&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
@@ -59,4 +59,4 @@ In the end our predictions proved self-fulfilling with the [development of Gondo
 
 [Thread 5:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1826168077616810/?type=3&comment_id=1826183144281970&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-> \*\*Eoin O'Connor: \*\*This is some epic trans-meta-post-alter-postmodernist shit, yes.
+> **Eoin O'Connor:** This is some epic trans-meta-post-alter-postmodernist shit, yes.
