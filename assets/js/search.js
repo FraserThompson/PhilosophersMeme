@@ -61,6 +61,7 @@
       var idx = lunr(function () {
         this.field('id');
         this.field('tags');
+        this.field('date');
       });
 
       document.getElementById(searchTerm).classList.add('active');
@@ -68,11 +69,17 @@
       for (var key in window.store) {
         idx.add({
           'id': key,
-          'tags': window.store[key].tags
+          'tags': window.store[key].tags,
+          'date': window.store[key].date
         });
         
         var results = idx.search(searchTerm); // Get lunr to perform a search
-        displaySearchResults(results, window.store); // We'll write this in the next section
+        var sorted_results = results.sort(function(a,b){
+          var a_date = store[a.ref].date.split('/');
+          var b_date = store[b.ref].date.split('/');
+          return new Date(b_date[2], b_date[1], b_date[0]) - new Date(a_date[2], a_date[1], a_date[0]);
+        });
+        displaySearchResults(sorted_results, window.store); // We'll write this in the next section
 
       }
     }
@@ -81,6 +88,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('author');
+      this.field('date');
     });
 
     document.getElementById('author-title').innerHTML = searchTerm;
@@ -88,11 +96,17 @@
     for (var key in window.store) {
       idx.add({
         'id': key,
-        'author': window.store[key].author
+        'author': window.store[key].author,
+        'date': window.store[key].date
       });
       
       var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
+      var sorted_results = results.sort(function(a,b){
+        var a_date = store[a.ref].date.split('/');
+        var b_date = store[b.ref].date.split('/');
+        return new Date(b_date[2], b_date[1], b_date[0]) - new Date(a_date[2], a_date[1], a_date[0]);
+      });
+      displaySearchResults(sorted_results, window.store); // We'll write this in the next section
 
     }
   
@@ -104,6 +118,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
+      this.field('date');
       this.field('tags');
       this.field('author');
       this.field('category');
@@ -115,6 +130,7 @@
         'id': key,
         'title': window.store[key].title,
         'author': window.store[key].author,
+        'date': window.store[key].date,
         'tags': window.store[key].tags,
         'category': window.store[key].category,
         'content': window.store[key].content
