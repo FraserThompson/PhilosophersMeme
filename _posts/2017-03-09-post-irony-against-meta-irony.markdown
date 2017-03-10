@@ -9,7 +9,10 @@ tags:
 - meta-irony
 - gondola
 author:
-  display_name: S. Y. Her, Masha Zharova, Anonymous
+  display_name: 
+    - S. Y. Her
+    - Masha Zharova
+    - Anonymous
 excerpt: The Ironic Meme Movement was a reaction against the mainstream co-option
   of the subcultural products of the underground; an attempt to create incorruptible
   inside jokes. The Ironics employed defensive strategies which paralleled that of
