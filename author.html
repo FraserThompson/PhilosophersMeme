@@ -15,7 +15,7 @@ layout: default
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "date": "{{ post.date | date: '%d/%m/%y' | xml_escape }}",
-        "author": "{{ post.author.display_name | xml_escape }}",
+        "author": "{{ post.author.display_name | join: ' ' | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
       }
