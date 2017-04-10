@@ -5,6 +5,8 @@ nav-position: 3
 layout: default
 ---
 
+<i>Last updated Jan 18, 2016.</i>
+
 <div class="home">
 <a name="Top"></a>
 <h1 class="glossary-heading">Glossary 1.0</h1>
