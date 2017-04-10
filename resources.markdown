@@ -1,10 +1,10 @@
 ---
 title: Resources
 date: 2017-04-10 11:05:00 Z
+Field name: 
 ---
 
 <p class="home">
-<i>Last updated Jan 18, 2016.</i>
 <br>
 <br>
 Our first lecture, 'Memes: A Microcosm of Art History' was a basic introduction to our theory.
