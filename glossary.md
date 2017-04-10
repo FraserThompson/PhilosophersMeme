@@ -9,19 +9,6 @@ layout: default
 <a name="Top"></a>
 <h1 class="glossary-heading">Glossary 1.0</h1>
 
-<p class="glossary-updates">
-<i>Last updated Jan 18, 2016.</i>
-<br>
-<br>
-Our first lecture, 'Memes: A Microcosm of Art History' was a basic introduction to our theory.
-Here is the full video:
-<br>
-<br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqSeZIdAW">
-</iframe>
-</p>
-
 <h2>Table of Contents</h2>
 
 <ul class="glossary-toc">
