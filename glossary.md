@@ -5,9 +5,9 @@ nav-position: 3
 layout: default
 ---
 
-<i>Last updated Jan 18, 2016.</i>
+*Last updated Jan 18, 2016.*
 
-<div class="home">
+
 <a name="Top"></a>
 <h1 class="glossary-heading">Glossary 1.0</h1>
 
@@ -143,4 +143,3 @@ Meta-Ironic memes thus bring into question the way even subversive humor becomes
 <h2>Traditionalist Memes</h2>
 
 <p class="glossary-entry">The most basic kinds of Internet memes; single cultural units which are copied and reproduced, such as emoticons, viral videos and forwarded chain e-mails.</p>
-</div>
