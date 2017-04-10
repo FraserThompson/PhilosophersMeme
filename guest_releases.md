@@ -5,8 +5,6 @@ nav-position: 2
 layout: default
 ---
 
-<div class="home">
-
 <h1 class="page-heading">Guest Releases</h1>
 <p>Coming Soon!</p>
 <div class="post-list">
@@ -15,6 +13,4 @@ layout: default
 {% include post-preview.html %}
 {% endif %}
 {% endfor %}
-</div>
-
 </div>
