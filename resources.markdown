@@ -4,8 +4,6 @@ date: 2017-04-10 11:05:00 Z
 Field name: 
 ---
 
-
-
 Our first lecture, 'Memes: A Microcosm of Art History' was a basic introduction to our theory.
 
 Here is the full video:
