@@ -17,7 +17,7 @@ excerpt: We have seen in recent months the blossoming of a protest movement in W
   have served as a coming-out of sorts for meme-scene activists, the failure of the
   Meme Alliance’s tactics to register demands a reconsideration of the terrain of
   struggle.
-image: "/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/1.png"
+image: "/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/1_thumb.jpg"
 fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-on-vectoralism-and-the-meme-alliance/chooseyourclass-fb.jpg
 status: publish
 facebook: true
