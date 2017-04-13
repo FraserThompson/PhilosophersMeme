@@ -9,19 +9,23 @@ tags:
 - meta-irony
 - gondola
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - S. Y. Her
   - Masha Zharova
   - Anonymous
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: The Ironic Meme Movement was a reaction against the mainstream co-option
   of the subcultural products of the underground; an attempt to create incorruptible
   inside jokes. The Ironics employed defensive strategies which paralleled that of
   the punks against the commercialization of their own subculture. Like the punks,
   they failed.
-image: "/uploads/memetically%20assured%20destruction%20writeup.png"
+image: "/uploads/memetically%20assured%20destruction%20writeup_thumb.jpg"
 ---
 
-![memetically assured destruction writeup.png](/uploads/memetically%20assured%20destruction%20writeup.png)
+![memetically assured destruction writeup.jpg](/uploads/memetically%20assured%20destruction%20writeup.jpg)
 
 We first posted this image in [July of 2015](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1665894116977541/). The idea behind the mutually-assured-destruction dynamic between the two nerds in this image was that they are, themselves, part of a meme (i.e. the 'memes are dead' paranoia meme). The more they discuss it, the faster it will die.
 
