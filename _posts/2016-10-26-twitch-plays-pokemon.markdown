@@ -14,7 +14,7 @@ excerpt: 'I stayed up all night, again, playing Pokemon Red with the Internet hi
   endless experiments in mass-politics. Each new project offers a different method
   for the users to organize their world through action, and each new project propels
   itself by bringing order to those actions'
-image: "/assets/2016-10-27-twitch-plays-pokemon/1.png"
+image: "/assets/2016-10-27-twitch-plays-pokemon/1_thumb.gif"
 fbpreview: http://www.thephilosophersmeme.com/assets/2016-10-27-twitch-plays-pokemon/1.png
 status: publish
 layout: post
