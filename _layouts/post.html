@@ -36,7 +36,7 @@ layout: default
 
 		  	{% for tag in page.tags %}
 			  	{% for post in site.tags[tag] %}
-				  	{% if page.title != null and page.title != page.title and page.status != "draft" %}
+				  	{% if page.title != null and page.title != post.title and page.status != "draft" %}
 				  	 {% capture related_posts_w %}{{related_posts_w}}{{page.url}}^{{page.title}}^{{page.image}}^{{page.author.display_name}}^{{page.date}}|{% endcapture %}
 				  	{% endif %}
 			  	{% endfor %}
