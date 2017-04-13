@@ -573,13 +573,16 @@ div.post-content {
 		display: block;
 	}
 	a.pure-menu-link.large {
-		display: inline-block;
+		display: block;
 	}
 	li.pure-menu-item{
-		display: inline-block;
+		display: block;
+	}
+	.pure-menu-item.inline{
+		display: inline-block !important;
 	}
 	header .pure-menu-item:nth-of-type(5), header .pure-menu-item:nth-of-type(6), header .pure-menu-item:nth-of-type(7), header .pure-menu-item:nth-of-type(8) {
-		display: inline-block;
+		display: block;
 		padding: 5px 10px;
 	} 
 	header .pure-menu-item a:hover {
