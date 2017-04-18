@@ -39,18 +39,18 @@ It is most important to consider users online in the same light. The general tre
 
 [Thread 1](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1937024236531193/?type=3&comment_id=1937029576530659&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
-> **Blaine McCartney: **I've never really encountered the term 'ironist.' Maybe "shitposter" would be better? Or "Baiter," "Master Baiter"?
+> **Blaine McCartney:** I've never really encountered the term 'ironist.' Maybe "shitposter" would be better? Or "Baiter," "Master Baiter"?
 >
 > **The Philosopher's Meme: **This is part of my ongoing attempt to define 'irony' and 'post-irony'. See also: [Post-Irony Against Meta-Irony](http://thephilosophersmeme.com/2017/03/09/post-irony-against-meta-irony/)
 >
-> **Pe Ter: **I thought of this concept in Richard Rorty's body of work (which I am neither stumping for, or opposing, but raising as an example of a preexisting definition and use of the term "ironist" in a different context.): [https://en.m.wikipedia.org/wiki/Ironism](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FIronism&h=ATOyjOokzKCvik4xb7XM2O4HlkH-w2Om1009XIP7Rq5UvYZNaNlZWf-RI9fnnbsg9Bw5g6LQuDrZ60HwQRk6QhF6-VS4FLdQUjWvvVXT9u7Exr3LEnhF4HTUMsHHiuRuIlRnWnwXJw)
+> **Pe Ter:** I thought of this concept in Richard Rorty's body of work (which I am neither stumping for, or opposing, but raising as an example of a preexisting definition and use of the term "ironist" in a different context.): [https://en.m.wikipedia.org/wiki/Ironism](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FIronism&h=ATOyjOokzKCvik4xb7XM2O4HlkH-w2Om1009XIP7Rq5UvYZNaNlZWf-RI9fnnbsg9Bw5g6LQuDrZ60HwQRk6QhF6-VS4FLdQUjWvvVXT9u7Exr3LEnhF4HTUMsHHiuRuIlRnWnwXJw)
 >
 > **Nino Lyons: **as much as i found the term "ironist" odd too at first, I'm not sure if naming the category after common practises of the members would fare any better. i feel it conflates the motivations and causes for the ironists irony beyond what is reasonable. Although many of these funky memetic terms do exactly that anyway, and we just grin and bear with it, but that problem just diverts attention away from meaningful discussion and into the pit of lame semantics, so i guess its w/e ¯\\_(ツ)_/¯
 
 [Thread 2: ](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1937024236531193/?type=3&comment_id=1937223179844632&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
 
-> **Adam D. Millson: **Is it really impossible to move from high expertise to low? I think that would happen very naturally to anyone who loses touch with the subculture while the subculture advances.
+> **Adam D. Millson:** Is it really impossible to move from high expertise to low? I think that would happen very naturally to anyone who loses touch with the subculture while the subculture advances.
 
 [Thread 3:](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1937024236531193/?type=3&comment_id=1937047576528859&comment_tracking=%7B%22tn%22%3A%22R9%22%7D) 
 
-**Andrew Crowe: **I agree with the proposed structure and it being more productive than elitism. Although I think the high expertise and low commitment column (ironists) could be redefined. I think the term irony does have a bad reputation at the moment and there are other mentalities which would fit the criteria imo. I think absurdism would be a fundamental of the category (high understanding with heavy scepticism and levels of disinterest) although the actions aren't always ironic. Irony is often employed by casuals as well in an attempt to mask a lack of expertise.
+**Andrew Crowe:** I agree with the proposed structure and it being more productive than elitism. Although I think the high expertise and low commitment column (ironists) could be redefined. I think the term irony does have a bad reputation at the moment and there are other mentalities which would fit the criteria imo. I think absurdism would be a fundamental of the category (high understanding with heavy scepticism and levels of disinterest) although the actions aren't always ironic. Irony is often employed by casuals as well in an attempt to mask a lack of expertise.
