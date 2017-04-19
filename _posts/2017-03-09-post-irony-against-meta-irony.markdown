@@ -25,7 +25,7 @@ excerpt: The Ironic Meme Movement was a reaction against the mainstream co-optio
 image: "/uploads/memetically%20assured%20destruction%20writeup_thumb.jpg"
 ---
 
-![memetically assured destruction writeup.jpg](/uploads/memetically%20assured%20destruction%20writeup.jpg)
+![memetically assured destruction writeup.jpg](/uploads/memetic%20destruction.png)
 
 We first posted this image in [July of 2015](https://www.facebook.com/thephilosophersmeme/photos/a.1652774414956178.1073741828.1652760244957595/1665894116977541/). The idea behind the mutually-assured-destruction dynamic between the two nerds in this image was that they are, themselves, part of a meme (i.e. the 'memes are dead' paranoia meme). The more they discuss it, the faster it will die.
 
