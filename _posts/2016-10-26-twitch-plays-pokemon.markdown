@@ -20,7 +20,7 @@ status: publish
 layout: post
 ---
 
-<p><i>Originally published 4 February 2014.</i></p>
+<p><i>Originally published 24 February 2014.</i></p>
 
 <img src="{{ site.baseurl }}/assets/2016-10-27-twitch-plays-pokemon/1.png">
 
