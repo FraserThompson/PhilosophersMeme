@@ -12,7 +12,8 @@ author:
   login: username
   email: email@wherever.com
   display_name:
-  - Anonymous
+  - S. Y. Her
+  - Masha Zharova
   first_name: Philosopher
   last_name: Of The Meme
 excerpt: The Ironic Meme Movement was a reaction against the mainstream co-option
