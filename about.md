@@ -11,7 +11,7 @@ We are an organization of users dedicated to Internet memes and all that relates
 
 In June of 2015, on the tail end of the third and final wave of ‘historical alliteration’ memepages on Facebook, we created a memepage to explore the philosophical and artistic aspects of ironic memes, with the aim of critically engaging the community through its own developing medium. At the time, the ironic meme community was struggling with the conservation of its subcultural identity in the face of its growing popularity with the mainstream. As the dominant form of resistance at the time was the destruction of meaning via deliberate obscurantism, we attempted to develop its natural counterpart of meaningful memes.
 
-The memepage has grown to well over 100,000 likes, and a number of projects have sprung forth from it, but our understanding of the importance of the Web remains unchanged.
+The memepage has grown to well over 250,000 likes, and a number of projects have sprung forth from it, but our understanding of the importance of the Web remains unchanged.
 
 # Values
 
