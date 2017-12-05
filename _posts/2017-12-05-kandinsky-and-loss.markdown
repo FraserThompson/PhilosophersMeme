@@ -1,14 +1,22 @@
 ---
 title: Kandinsky and Loss
 date: 2017-12-05 18:52:00 Z
+excerpt: Tracing back techniques used in memes to modern art is a safe bet, because
+  it's only natural that memers will use whatever tools are available to make better
+  memes.
+image: "/uploads/loss_art_simplified-only.png"
 ---
 
 ![loss_art_simplified.png](/uploads/loss_art_simplified.png)
 
 Wassily Kandinsky, a Russian-born artist who taught at Bauhaus, sought to depart from impressionism towards abstract expressionism. The drawings of the dancer Gret Palucca, an early pioneer of modern dance, are from an essay he wrote on the topic called 'Dance Curves'.  
+
 It would be funny to say that this was all just a predecessor to Loss, but I'm not sure whether that makes exact sense. On the other hand, tracing back techniques used in memes to modern art is a safe bet, because it's only natural that memers will use whatever tools are available to make better memes.  
+
 The meta-ironic movement has utilised many techniques pioneered by Bauhaus, such as the use of extremely minimised subject matters expressed through shapes, lines and blocks of colour. For example, consider Orange Memes' classic 'Orange Square' series, which tried to turn the colour orange into a meme; Special meme fresh's famous 'Long Boy'; the use of very small, low-resolution images such as ShitpostBot 5000's 'PERHAPS' sub-comments, is an example of the literal minimisation of the subject.  
+
 In order to pile on more layers of irony, meta-ironists must fit more content into the same space. Just as their size limits their complexity in microorganisms, the size of a memetic artefact (e.g. an image file, a video) limits its complexity. Distortions, simplification, implicit references all work towards allowing for more complexity in a given space.  
+
 I predicted in 2014 that, contrary to the traditional view that simple memes are what will catch on the most, memes will grow in complexity as they evolve. I still support this hypothesis. I further predict that older, simpler memes will be 'revived' or become 'de-extinct' and then developed into much more complex memes than they could have possibly been at their own time. The notion that old memes are stale memes, like old jokes are dead jokes, will be completely destroyed.
 
 ## **Selected Comments**
