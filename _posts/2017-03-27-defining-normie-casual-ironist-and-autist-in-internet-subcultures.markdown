@@ -10,6 +10,7 @@ tags:
 - autist
 author:
   display_name: S. Y. Her
+image: "/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png"
 ---
 
 ![four types of users in internet subcultures.png](/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png)
