@@ -1,6 +1,8 @@
 ---
 title: Kandinsky and Loss
 date: 2017-12-03 18:52:00 Z
+author:
+  display_name: S. Y. Her
 excerpt: Tracing back techniques used in memes to modern art is a safe bet, because
   it's only natural that memers will use whatever tools are available to make better
   memes.
