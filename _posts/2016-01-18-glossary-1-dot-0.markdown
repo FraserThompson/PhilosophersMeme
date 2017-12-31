@@ -1,6 +1,8 @@
 ---
 title: Glossary 1.0
 date: 2016-01-18 13:50:00 +13:00
+author:
+  display_name: S. Y. Her
 ---
 
 *Last updated Jan 18, 2016.*
