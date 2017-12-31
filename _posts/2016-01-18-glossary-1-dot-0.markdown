@@ -5,7 +5,7 @@ author:
   display_name: S. Y. Her
 ---
 
-*Last updated Jan 18, 2016.*
+*Last updated Jan 18, 2016. A new glossary is being prepared; much of the following material is outdated!*
 
 <a name="Top"></a>
 <h1 class="glossary-heading">Glossary 1.0</h1>
