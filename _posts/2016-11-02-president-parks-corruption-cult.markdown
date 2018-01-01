@@ -1,6 +1,8 @@
 ---
 title: President Park's Corruption Cult
 date: 2016-11-02 11:33:00 +13:00
+author:
+  display_name: S. Y. Her
 image: "/uploads/14938145_1857739157793035_7741224145832509244_n.png"
 ---
 
