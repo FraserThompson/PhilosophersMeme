@@ -53,35 +53,33 @@ Here, are some examples of the kind that presents choices to the reader:
 
 Different coloured pills with different effects are laid out in front of the reader.
 
-
 ![6.jpg](/uploads/6.jpg)*WOULD YOU DO X FOR A BILLION DOLLARS?*
 
 The first iterations of these were intended as a serious question of character, interest, and value. Personally, I find the ironic iterations are more entertaining. I couldn’t find an example of that through Google, but I saw a few of those on Facebook. Those iterations are usually deep fried to help highlight their absurdity, asking questions like “WOULD YOU SIT ON A CHAIR FOR A BILLION DOLLARS?”
 
-I have not yet shown an example of the third kind, but it is worth pointing out now that all three kinds follow noticeably a trend that believes that bad judgment pays dividends in comedy. Narratives about dilemmas, for example, are about flawed reasoning and contradicting beliefs. In the choice/s presented kind, the choices often become ridiculous, nonsensical or downright opposed to well-being, suggesting that the reader’s judgment is being addressed facetiously. In the decision-made kind, which I will show, humor is predicated on the idea of having betrayed one’s good sense. That is why in the chart I constructed above I labelled this kind as “to show betrayal.” Here are examples about the decision made, notice how they play out this narrative of bad judgment:  
+I have not yet shown an example of the third kind, but it is worth pointing out now that all three kinds follow noticeably a trend that believes that bad judgment pays dividends in comedy. Narratives about dilemmas, for example, are about flawed reasoning and contradicting beliefs. In the choice/s presented kind, the choices often become ridiculous, nonsensical or downright opposed to well-being, suggesting that the reader’s judgment is being addressed facetiously. In the decision-made kind, which I will show, humor is predicated on the idea of having betrayed one’s good sense. That is why in the chart I constructed above I labelled this kind as “to show betrayal.” Here are examples about the decision made, notice how they play out this narrative of bad judgment:\
 ![7.jpg](/uploads/7.jpg)
 
 *DISTRACTED BOYFRIEND*
 
 The narrative here is complex: one can either focus on the character of unfaithfulness, or distractedness, or simply being lured something by a more attractive alternative (think of the phrase “ooh shiny!”). You could then logically use this to show defiance of expectation, tradition, etc. But it can also be used to show unfaithfulness to commitment and personal responsibility.
 
-Example 1:  
+Example 1:\
 ![8.jpg](/uploads/8.jpg)
 
 “Ooh shiny!”
 
 A demonstration of bad judgment.
 
-Example 2:  
+Example 2:\
 ![9.jpg](/uploads/9.jpg)
 
 Attraction to a better alternative. Unfaithfulness to tradition, to what exists.
 
-Example 3:  
+Example 3:\
 ![10.png](/uploads/10.png)
 
 This is an example I constructed about bad judgment.
-
 
 ![11.jpg](/uploads/11.jpg)
 
@@ -89,17 +87,15 @@ This is an example I constructed about bad judgment.
 
 The lack of facial expressions, body language, and social context makes this template more generic. However, it still often follows the trend of narrating bad judgment. In this case, the abstract concepts of “a straight road” and “a crooked one” come into play. Interesting note: the entire highway exit sign is photoshopped on a screenshot from a Youtube video called “How to exit freeway like a boss.” So, there can sometimes be this sense of “Why do that when you can do something cooler?” Which is something that plays into the narrative of coolness’ relation to bad judgment. The swerving car I believe helps creates this sensation of losing control, of not having the proper stability.
 
-Example 1:  
+Example 1:\
 ![12.png](/uploads/12.png)
 
 This meme is used to ridicule certain political decisions.
 
-Example 2:  
+Example 2:\
 ![13.png](/uploads/13.png)
 
 The continuing narrative of bad judgment.
-
-
 
 ![16.png](/uploads/16.png)
 
@@ -113,13 +109,11 @@ This meme is no longer about judgment, but a simple comparison of desire. One al
 
 This example I constructed shows a narrative that is no longer about poor judgment, but gratitude and a sincere belief in spiritual salvation. This could be read differently by a skeptic, which he could see as bad judgment.
 
-
 ![16.png](/uploads/16.png)
 
 And we’re back to a depiction of bad judgment. That can’t be helped because the function of this meme is ridicule.
 
 You will find also find that because these decision-made memes are about character choice, these memes will visually express this idea using a shorthand of left or right. You will be able to trace an invisible dividing line running down the middle, which is often the space occupied by the protagonists themselves.
-
 
 ![17.jpg](/uploads/17.jpg)
 
@@ -138,14 +132,13 @@ Now, watch this:
 
 Notice how there’s only one object in this image, no character and situation - and yet not only are choices conveyed, but judgments, inequalities, and decisions as well. The visuals convey the sense of being decided. But, don’t use this as a meme just yet. It doesn’t lend itself well to the narratives we discussed. This image is about an inanimate object and is missing the connotations of irrationality, desire, control, etc. which is part of the large appeal of many memes.
 
-
 ![19.png](/uploads/19.png)
 
-Now, here’s another example: Buridan’s ass. Here is what happens again when there is a lack of visual differentiation between the two choices, a lack of visual decidability. Like the shot from Snowpiercer, or* DAILY STRUGGLE*, it reverts back to a narrative about dilemmas.
+Now, here’s another example: Buridan’s ass. Here is what happens again when there is a lack of visual differentiation between the two choices, a lack of visual decidability. Like the shot from Snowpiercer, or *DAILY STRUGGLE*, it reverts back to a narrative about dilemmas.
 
 Now, here is an a demonstration of what this visual decidability can do with other things. In this *CHOOSE ONE PILL* meme, one choice is qualitatively different and this is helpfully signalled by the use of a different font: “This is the right answer!” It is this difference felt by the reader, which suggests the *action*, the quality of being “decided.” This shifts the *CHOOSE ONE PILL* meme, which is ordinarily about the choices presented, into a joke about the decisions made.
 
 ![20-1 - Copy.jpg](/uploads/20-1%20-%20Copy.jpg)
 
-This narrative quality of being decided produces an ellipsis following this meme, because this effect is invisible, something only felt by the reader. Like a vignette from Hemingway, the narrative it forms is larger than what it has on the surface. The narrative and feeling can be concretized by adding the following image to fill in the blanks:  
+This narrative quality of being decided produces an ellipsis following this meme, because this effect is invisible, something only felt by the reader. Like a vignette from Hemingway, the narrative it forms is larger than what it has on the surface. The narrative and feeling can be concretized by adding the following image to fill in the blanks:\
 ![20-2 - Copy.jpg](/uploads/20-2%20-%20Copy.jpg)
