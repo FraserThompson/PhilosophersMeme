@@ -95,6 +95,7 @@ Example 2:
 The continuing narrative of bad judgment.
 
 
+
 ![16.png](/uploads/16.png)
 
 *THIRSTY DUDE(?)*
