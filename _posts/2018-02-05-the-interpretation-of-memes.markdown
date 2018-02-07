@@ -1,6 +1,11 @@
 ---
 title: The Interpretation of Memes
 date: 2018-02-05 08:24:00 +13:00
+tags:
+- narrative
+- Ironic meme
+- linguistics
+- semantics
 author:
   display_name: Mikhail Conrad Nacua
 excerpt: What I have here is a modest proposal to talk about the more obvious quality
