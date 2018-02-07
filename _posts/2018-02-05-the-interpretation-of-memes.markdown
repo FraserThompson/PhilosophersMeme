@@ -64,19 +64,19 @@ I have not yet shown an example of the third kind, but it is worth pointing out 
 
 The narrative here is complex: one can either focus on the character of unfaithfulness, or distractedness, or simply being lured something by a more attractive alternative (think of the phrase “ooh shiny!”). You could then logically use this to show defiance of expectation, tradition, etc. But it can also be used to show unfaithfulness to commitment and personal responsibility.
 
-Example 1:\
+Example 1:
 ![8.jpg](/uploads/8.jpg)
 
 “Ooh shiny!”
 
 A demonstration of bad judgment.
 
-Example 2:\
+Example 2:
 ![9.jpg](/uploads/9.jpg)
 
 Attraction to a better alternative. Unfaithfulness to tradition, to what exists.
 
-Example 3:\
+Example 3:
 ![10.png](/uploads/10.png)
 
 This is an example I constructed about bad judgment.
@@ -87,12 +87,12 @@ This is an example I constructed about bad judgment.
 
 The lack of facial expressions, body language, and social context makes this template more generic. However, it still often follows the trend of narrating bad judgment. In this case, the abstract concepts of “a straight road” and “a crooked one” come into play. Interesting note: the entire highway exit sign is photoshopped on a screenshot from a Youtube video called “How to exit freeway like a boss.” So, there can sometimes be this sense of “Why do that when you can do something cooler?” Which is something that plays into the narrative of coolness’ relation to bad judgment. The swerving car I believe helps creates this sensation of losing control, of not having the proper stability.
 
-Example 1:\
+Example 1:
 ![12.png](/uploads/12.png)
 
 This meme is used to ridicule certain political decisions.
 
-Example 2:\
+Example 2:
 ![13.png](/uploads/13.png)
 
 The continuing narrative of bad judgment.
@@ -140,5 +140,5 @@ Now, here is an a demonstration of what this visual decidability can do with oth
 
 ![20-1 - Copy.jpg](/uploads/20-1%20-%20Copy.jpg)
 
-This narrative quality of being decided produces an ellipsis following this meme, because this effect is invisible, something only felt by the reader. Like a vignette from Hemingway, the narrative it forms is larger than what it has on the surface. The narrative and feeling can be concretized by adding the following image to fill in the blanks:\
+This narrative quality of being decided produces an ellipsis following this meme, because this effect is invisible, something only felt by the reader. Like a vignette from Hemingway, the narrative it forms is larger than what it has on the surface. The narrative and feeling can be concretized by adding the following image to fill in the blanks:
 ![20-2 - Copy.jpg](/uploads/20-2%20-%20Copy.jpg)
