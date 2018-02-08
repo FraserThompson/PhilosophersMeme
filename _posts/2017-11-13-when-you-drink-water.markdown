@@ -1,6 +1,6 @@
 ---
 title: When You Drink [water]
-date: 2017-11-13 23:05:00 Z
+date: 2017-11-14 12:05:00 +13:00
 author:
   display_name: S. Y. Her
   first_name: Seong
@@ -9,6 +9,7 @@ excerpt: Post-ironic memes are great because they are meaningful. Meaningful mem
   bring us closer to the dream of the timeless meme, just like early comics artists
   who aspired towards serious literature with an ostensibly unserious medium.
 image: "/uploads/23472012_2053909424842673_2720000468904660127_n.jpg"
+fbpreview: "/uploads/23472012_2053909424842673_2720000468904660127_n.jpg"
 ---
 
 ![23472012_2053909424842673_2720000468904660127_n.jpg](/uploads/23472012_2053909424842673_2720000468904660127_n.jpg)
