@@ -28,7 +28,7 @@ defaults:
     release-type: official
 sass:
   style: compressed
-email: your-email@domain.com
+email: thephilosophersmeme@gmail.com
 description: The Philosopher's Meme
 baseurl: 
 url: http://thephilosophersmeme.com
