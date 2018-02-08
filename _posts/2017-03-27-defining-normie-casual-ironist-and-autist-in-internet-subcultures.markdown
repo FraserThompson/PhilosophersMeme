@@ -1,6 +1,6 @@
 ---
 title: Defining ‘Normie’, ‘Casual’, ‘Ironist’ and ‘Autist’ In Internet Subcultures
-date: 2017-03-27 02:47:00 Z
+date: 2017-03-27 15:47:00 +13:00
 tags:
 - subculture
 - users
@@ -11,6 +11,7 @@ tags:
 author:
   display_name: S. Y. Her
 image: "/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png"
+fbpreview: "/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png"
 ---
 
 ![four types of users in internet subcultures.png](/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png)
