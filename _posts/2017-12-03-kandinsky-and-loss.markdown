@@ -7,7 +7,7 @@ excerpt: Tracing back techniques used in memes to modern art is a safe bet, beca
   it's only natural that memers will use whatever tools are available to make better
   memes.
 image: "/uploads/loss_art_simplified-only.png"
-fbpreview: "/uploads/loss_art_simplified-only.png"
+fbpreview: http://thephilosophersmeme.com/uploads/loss_art_simplified-only.png
 ---
 
 ![loss_art_simplified.png](/uploads/loss_art_simplified.png)
