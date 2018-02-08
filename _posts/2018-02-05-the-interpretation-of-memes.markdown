@@ -10,11 +10,11 @@ author:
   display_name: Mikhail Conrad Nacua
 excerpt: What I have here is a modest proposal to talk about the more obvious quality
   of memes as microexpressions of how we think about character, narrative and imagery.
-  These are about when memes act as images of human action.
+  This is about when memes act as images of human action.
 image: "/uploads/1.jpg"
 ---
 
-I often see analyses of memes focus on their objective dimensions and their theoretical qualities, e.g., semiotics, cultural ecosystem, and so on. What I have here is a modest proposal to talk about the more obvious quality of memes as microexpressions of how we think about character, narrative and imagery. These are about when memes act as images of human action.
+I often see analyses of memes focus on their objective dimensions and their theoretical qualities, e.g., semiotics, cultural ecosystem, and so on. What I have here is a modest proposal to talk about the more obvious quality of memes as microexpressions of how we think about character, narrative and imagery. This is about when memes act as images of human action.
 
 To get a sense of this way of looking at memes, I would like us to do an exercise. What I have done is take a few memes that I intuitively associated with each other, and compared and contrasted them to highlight their features. I then constructed theoretical categories based on their narrative action. By focusing more on these conventional readings of these “images,” one could make more informed creative decisions; after all, these conventions act for creators as logical boundaries of what makes a meme good and what it could be.
 
@@ -42,7 +42,7 @@ This might get a little messy as this type of meme can be sub-divided further in
 
 ![4.jpg](/uploads/4.jpg)
 
-The first kind are dilemma memes, memes wherein the central joke is the presence of an irresolvable contradiction between two interests or beliefs. On the left, we have the *DAILY STRUGGLE* meme which exemplifies this narrative. Sometimes, the joke becomes about the sort of individual who hold those beliefs, or might experience the dilemma. In that case, the humor is a matter of ridiculing people rather than a sympathetic experience of human contradiction.
+The first kind are dilemma memes, memes wherein the central joke is the presence of an irresolvable contradiction between two interests or beliefs. Above, we have the *DAILY STRUGGLE* meme which exemplifies this narrative. Sometimes, the joke becomes about the sort of individual who hold those beliefs, or might experience the dilemma. In that case, the humor is a matter of ridiculing people rather than a sympathetic experience of human contradiction.
 
 The second and third kind are about the choice/s presented, and about the decision made between the presented choices. In the former, the choice itself is posed to the reader; he is the protagonist roped inside the encounter. In the latter, the joke is the decision that has been made already, and it is often a bad or ridiculous one; this kind is what I have included in the chart above. Like dilemma memes, if memes about ‘decisions made’ aren’t sympathetic (as in encouraging personal identification or self-deprecation), it is then used for ridicule.
 
@@ -101,7 +101,7 @@ The continuing narrative of bad judgment.
 
 *THIRSTY DUDE(?)*
 
-I couldn’t find what this was called. The basic narrative here are two-fold: (1) that the protagonist chooses a farther alternative than a nearer one (“that’s how good it is!”); (2) that the protagonist foregoes his ordinary thirst for a larger one. Often this second narrative is about putting over personal desire above actual necessity, which follows the logic of bad judgment. But because of the metaphorical connotations of a “larger” thirst, this meme can very easily move away from a depiction of good and bad judgment and move towards a simple expression of personal desires.
+I couldn’t find what this was called. The basic narrative here is two-fold: (1) that the protagonist chooses a farther alternative than a nearer one (“that’s how good it is!”); (2) that the protagonist foregoes his ordinary thirst for a larger one. Often this second narrative is about putting over personal desire above actual necessity, which follows the logic of bad judgment. But because of the metaphorical connotations of a “larger” thirst, this meme can very easily move away from a depiction of good and bad judgment and move towards a simple expression of personal desires.
 
 This meme is no longer about judgment, but a simple comparison of desire. One alternative is more difficult to reach but the protagonist is completely willing.
 
@@ -117,9 +117,9 @@ You will find also find that because these decision-made memes are about charact
 
 ![17.jpg](/uploads/17.jpg)
 
-For example, the Youtube channel *Every Frame a Painting* describes the cinematography of Snowpiercer (pictured above) as utilizing this to focus the narrative and characters. Throughout the movie, the left part represents the back of the train, while the right part represents the front. For the main character played by Chris Evans, the choice between left and right is a question of maintaining the status quo and pushing forward with revolution. What we has to the right are the unknowns he feels he has a duty to realize, while behind him to the left is everything that keeps him safe and makes him feel human.
+For example, the Youtube channel *Every Frame a Painting* describes the cinematography of Snowpiercer (pictured above) as utilizing this to focus the narrative and characters. Throughout the movie, the left part represents the back of the train, while the right part represents the front. For the main character played by Chris Evans, the choice between left and right is a question of maintaining the status quo and pushing forward with revolution. What we have to the right are the unknowns he feels he has a duty to realize, while behind him to the left is everything that keeps him safe and makes him feel human.
 
-But, the is shot from Snowpiercer is missing another visual characteristic present in memes about decisions made. That makes sense; Snowpiercer’s logic is of dilemmas, and the sense of being carried forward at whatever cost. It is still ongoing. And it has over an hour to tell the story. On the other hand, memes about the decision made are after the fact. The stories they tell us is, instead, done through the lens of hindsight, and examines character and irrationality. And they can usually only tell this in a single image.
+But, the shot from Snowpiercer is missing another visual characteristic present in memes about decisions made. That makes sense; Snowpiercer’s logic is of dilemmas, and the sense of being carried forward at whatever cost. It is still ongoing. And it has over an hour to tell the story. On the other hand, memes about the decision made are after the fact. The stories they tell us is, instead, done through the lens of hindsight, and examines character and irrationality. And they can usually only tell this in a single image.
 
 This narrative requirement is visually accomplished by framing these two choices unequally. In the case of memes which reframes images, they will often try to use images that have this unequal framing beforehand. This visual differentiation helps convey the sense of being “decided.” Think of how a scale judges the weight of two objects, physically shifting to indicate the relation between the two. An unequal scale is a decided scale. It has passed its judgment. If you look at the previous examples, you’ll notice this principle. Here’s an example of an image which follows this description, so I turned it into a meme:
 ![18.png](/uploads/18.png)
