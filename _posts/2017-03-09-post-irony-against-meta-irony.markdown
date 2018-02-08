@@ -1,6 +1,6 @@
 ---
 title: Post-Irony against Meta-Irony
-date: 2017-03-09 21:10:00 Z
+date: 2017-03-10 10:10:00 +13:00
 tags:
 - memes
 - history
@@ -22,6 +22,7 @@ excerpt: The Ironic Meme Movement was a reaction against the mainstream co-optio
   the punks against the commercialization of their own subculture. Like the punks,
   they failed.
 image: "/uploads/memetically%20assured%20destruction%20writeup_thumb.jpg"
+fbpreview: http://www.thephilosophersmeme.com/uploads/memetically%20assured%20destruction%20writeup_thumb.jpg
 ---
 
 ![memetically assured destruction writeup.jpg](/uploads/memetic%20destruction.png)
