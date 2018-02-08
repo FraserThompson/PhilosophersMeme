@@ -9,7 +9,7 @@ excerpt: Post-ironic memes are great because they are meaningful. Meaningful mem
   bring us closer to the dream of the timeless meme, just like early comics artists
   who aspired towards serious literature with an ostensibly unserious medium.
 image: "/uploads/23472012_2053909424842673_2720000468904660127_n.jpg"
-fbpreview: "/uploads/23472012_2053909424842673_2720000468904660127_n.jpg"
+fbpreview: http://thephilosophersmeme.com/uploads/23472012_2053909424842673_2720000468904660127_n.jpg
 ---
 
 ![23472012_2053909424842673_2720000468904660127_n.jpg](/uploads/23472012_2053909424842673_2720000468904660127_n.jpg)
