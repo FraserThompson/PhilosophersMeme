@@ -1,6 +1,6 @@
 ---
 title: An Internet Koan
-date: 2016-05-12 15:09:09 Z
+date: 2016-05-13 03:09:00 +12:00
 categories:
 - Creative Writing
 - Editorials
@@ -11,14 +11,7 @@ tags:
 - internet culture
 - philosophy
 - Zen
-layout: post
 type: post
-status: publish
-meta:
-  _thumbnail_id: '1287'
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '22741873110'
 author:
   login: crouchingrooster
   email: crouchingrooster@hotmail.com
@@ -29,6 +22,14 @@ excerpt: I just found a really strange website where a guy claims Zen is a scam 
   that he's figured out how to solve any koan. He even provides a Free Zen Riddle
   and Koan Service through which you can email him a koan and receive an answer.
 image: "/assets/tpm_defaultpic.jpg"
+fbpreview: "/uploads/xbuddhist-koans-1.jpg.pagespeed.ic.UZ0ubtwH0q.jpg"
+status: publish
+meta:
+  _thumbnail_id: 1287
+  _rest_api_published: 1
+  _rest_api_client_id: -1
+  _publicize_job_id: 22741873110
+layout: post
 ---
 
 <p>I just found a really strange <a href="http://www.heartofmeditation.com/buddhist-koans.html" target="_blank">website</a> where a guy claims Zen is a scam and that he's figured out how to solve any koan. He even provides a "Free Zen Riddle and Koan Service" through which you can email him a koan and receive an answer. There are even e-books, one on how to solve Zen riddles and another two which collect them. Here's an example of how he solves one.</p>
