@@ -12,6 +12,7 @@ excerpt: What I have here is a modest proposal to talk about the more obvious qu
   of memes as microexpressions of how we think about character, narrative and imagery.
   This is about when memes act as images of human action.
 image: "/uploads/1.jpg"
+fbpreview: "/uploads/1.jpg"
 ---
 
 I often see analyses of memes focus on their objective dimensions and their theoretical qualities, e.g., semiotics, cultural ecosystem, and so on. What I have here is a modest proposal to talk about the more obvious quality of memes as microexpressions of how we think about character, narrative and imagery. This is about when memes act as images of human action.
