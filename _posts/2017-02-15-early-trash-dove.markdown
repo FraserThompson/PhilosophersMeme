@@ -1,6 +1,6 @@
 ---
 title: Trash Dove Is A Normie Meme
-date: 2017-02-15 05:41:00 Z
+date: 2017-02-15 18:41:00 +13:00
 tags:
 - normie
 - definition
@@ -16,6 +16,7 @@ author:
 excerpt: Normies are users with low memetic literacy or fluency. Trash Dove is a normie
   meme. That might very well change in the future.
 image: "/uploads/16684179_1161814753936213_2457291586701613901_n.jpg"
+fbpreview: "/uploads/16602991_1694068757552635_5761759482475821150_n.jpg"
 facebook: true
 ---
 
