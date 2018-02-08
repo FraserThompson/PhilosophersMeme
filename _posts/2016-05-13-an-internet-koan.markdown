@@ -22,7 +22,7 @@ excerpt: I just found a really strange website where a guy claims Zen is a scam 
   that he's figured out how to solve any koan. He even provides a Free Zen Riddle
   and Koan Service through which you can email him a koan and receive an answer.
 image: "/assets/tpm_defaultpic.jpg"
-fbpreview: "/uploads/xbuddhist-koans-1.jpg.pagespeed.ic.UZ0ubtwH0q.jpg"
+fbpreview: thephilosophersmeme.com/uploads/xbuddhist-koans-1.jpg.pagespeed.ic.UZ0ubtwH0q.jpg
 status: publish
 meta:
   _thumbnail_id: 1287
