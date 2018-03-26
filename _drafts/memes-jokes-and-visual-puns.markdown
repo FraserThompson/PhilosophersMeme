@@ -1,12 +1,20 @@
 ---
 title: Memes, Jokes & Visual Puns
 date: 2018-03-27 08:49:00 +13:00
+tags:
+- linguistics
+- puns
+- humor
+- design
+- gestalt
+- memes
 author:
   display_name: Masha Zharova
   first_name: Masha
   last_name: Zharova
-excerpt: a basic framework for understanding the interplay between visual structure,
-  conceptual organization, visual perception and meaning-making in memes.
+excerpt: A basic framework for understanding the interplay between visual structure,
+  conceptual organization, visual perception and meaning-making in collage memes that
+  don't feature any text.
 ---
 
 # Introduction
