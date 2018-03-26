@@ -14,7 +14,7 @@ author:
   last_name: Zharova
 excerpt: A basic framework for understanding the interplay between visual structure,
   conceptual organization, visual perception and meaning-making in collage memes that
-  don't feature any text.
+  don't contain any text.
 image: "/uploads/meme-jokes-puns-chart.png"
 fbpreview: http://thephilosophersmeme.com/uploads/meme-jokes-puns-chart.png
 ---
