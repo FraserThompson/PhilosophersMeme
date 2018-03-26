@@ -37,7 +37,7 @@ For example, here is one of the first things you get if you google visual puns:
 ![meme-jokes-puns-2.png](/uploads/meme-jokes-puns-2.png)
 <div class="caption">Fig. 2: A “Visual” Pun, according to Google.</div>
 
-However, is this even a visual pun at all? You could totally have just relayed the joke verbally and it wouldn't lose anything in the translation! It’s simply illustrating a normal, homophonic pun—a nice background, if you will. I think that most memes that involve puns are like this.  For example:
+However, is this even a visual pun at all? You could totally have just relayed the joke verbally and it wouldn't lose anything in the translation! It’s simply illustrating a normal, homophonic pun—a nice background, if you will. I think that most memes which involve puns are like this.  For example:
 
 ![meme-jokes-puns-3.png](/uploads/meme-jokes-puns-3.png)
 <div class="caption">Fig. 3: “Kerchoo” (2017)</div>
@@ -49,7 +49,7 @@ But what about something like this?
 ![meme-jokes-puns-4.png](/uploads/meme-jokes-puns-4.png)
 <div class="caption">Fig. 4: “Can Eye Fist Uranus(actually that’s saturn tho)” (2017)</div>
 
-This is what is called a “rebus,” from the Latin non verbis, sed rebus, which means "not by words but by things." In essence, a picture of something is substituted for something else when conveying a written message. A rebus can be a type of pun—instead of substituting a word with a similar sound but different meaning, you’re substituting a picture. It’s all the same thing basically, except that we are starting to depart from language in the conventional, words-and-letters sense. And that’s exactly where I’m headed!
+This is what is called a “rebus,” from the Latin \*non verbis, sed rebus\*, which means "not by words but by things." In essence, a picture of something is substituted for something else when conveying a written message. A rebus can be a type of pun—instead of substituting a word with a similar sound but different meaning, you’re substituting a picture. It’s all the same thing basically, except that we are starting to depart from language in the conventional, words-and-letters sense. And that’s exactly where I’m headed!
 
 ![meme-jokes-puns-5.png](/uploads/meme-jokes-puns-5.png)
 <div class="caption">Fig. 5: “One must imagine Sisyphus happy.” (2017)</div>
