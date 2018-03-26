@@ -15,6 +15,7 @@ author:
 excerpt: A basic framework for understanding the interplay between visual structure,
   conceptual organization, visual perception and meaning-making in collage memes that
   don't feature any text.
+image: "/uploads/meme-jokes-puns-chart.png"
 ---
 
 # Introduction
