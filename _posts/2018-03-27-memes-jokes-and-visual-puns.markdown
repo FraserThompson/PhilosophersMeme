@@ -18,7 +18,7 @@ excerpt: A basic framework for understanding the interplay between visual struct
 image: "/uploads/meme-jokes-puns-chart.png"
 ---
 
-# Introduction
+## Introduction
 
 ![meme-jokes-puns-1.png](/uploads/meme-jokes-puns-1.png)
 <div class="caption">Fig. 1: An old meme chart</div>
@@ -29,7 +29,7 @@ While my chart was done for educational purposes, this type of meme-ification of
 
 The first place I decided to look was puns.
 
-# 1. Linguistic vs Visual Puns
+## 1. Linguistic vs Visual Puns
 
 There are many types of puns, from the more common homophonic, or “same-sound” puns, all the way to some weird ones like recursive or paradigmatic puns which involve more than just individual words but instead play on the listener’s understanding of concepts alluded to in another, usually earlier, part of the joke. A lot of memes feature puns, but are the puns in those memes any different from a regular old “dad” pun? In essence, is there a distinction between puns told verbally, and puns told through images?
 
@@ -61,7 +61,7 @@ The main point of distinction between figures 4 and 5 is the set-up. Figure 4 ha
 
 With the rebus puns, we started moving into the territory of what I term “trans-linguistic” puns. Rebus puns transcend conventional spoken or written language, relying on a blending of both linguistic and non-linguistic components interacting semantically and phonetically. They often follow ad-hoc conventions, and are inherently a visual medium. Unlike our typical homophonic pun which can confer its full contents when said aloud, a rebus cannot be conveyed without its visual form. In this way we are finally starting to understand the relationship between visuals and language within memes. However, are all visual puns simply substitutes for regular words and phrases, or is there a structure that is unique to visuals?
 
-# 2. A Pun without Language
+## 2. A Pun without Language
 
 While the previous examples of memes move beyond conventional linguistic puns and therefore become inextricable from their visual embodiments, they nevertheless rely on language to tell their story. Both of the examples contain a phonetic component, and still deal with normal english words, just encoded in a more complicated way. But if there can be purely auditory puns, and combination audio \+ visual puns, then surely there can be purely visual puns, too.
 
@@ -81,7 +81,7 @@ This meme collage has no real linguistic component, it's purely visual imagery, 
 
 I still consider this a pun though—there's a punning happening in the melding/substitution of the images being conjoined together the way that homophones or other types of puns combine language semantically or phonetically, creating dissonance and ambiguity but also fitting together in a chimeric way, recontextualizing the content of other parts of the "sentence" (in this case, picture) by their inclusion into a seemingly unfitting surrounding structure.
 
-# 3. Categories of Collage Memes
+## 3. Categories of Collage Memes
 
 Fig. 7 seems like a rather complex image, however its complexity arises out of a lack of an overarching structure. Just because a visual pun doesn’t have any text in it doesn’t mean it has to be an unstructured, chaotic mess of collaged elements.
 
