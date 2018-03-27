@@ -40,7 +40,6 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 
 <h2>Meme aesthetics</h2>
 <ul class="about-list">
-<li><a href="{{ site.baseurl }}/2015/11/03/a-golden-age-of-meme-pages-and-the-microcosm-of-art-history/</a></li>
 <li><a href="{{ site.baseurl }}/2015/11/29/a-short-note-on-gondola/">A Short Note on Gondola</a></li>
 <li><a href="{{ site.baseurl }}/2018/03/27/memes-jokes-and-visual-puns/">Memes, Jokes & Visual Puns</a></li>
 </ul>
