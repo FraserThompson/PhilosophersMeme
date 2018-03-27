@@ -62,7 +62,7 @@ With the rebus puns, we started moving into the territory of what I term “tran
 
 ## 2. A Pun without Language
 
-While the previous examples of memes move beyond conventional linguistic puns and therefore become inextricable from their visual embodiments, they nevertheless rely on language to tell their story. Both of the examples contain a phonetic component, and still deal with normal english words, just encoded in a more complicated way. But if there can be purely auditory puns, and combination audio \+ visual puns, then surely there can be purely visual puns, too.
+While the previous examples of memes move beyond conventional linguistic puns and therefore become inextricable from their visual embodiments, they nevertheless rely on language to tell their story. Both of the examples contain a phonetic component, and still deal with normal english words, just encoded in a more complicated way. But if there can be purely auditory puns, and combination \\(audio \+ visual puns\\), then surely there can be purely visual puns, too.
 
 Here is what I consider a purely visual pun:
 
