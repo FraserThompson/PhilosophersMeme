@@ -47,7 +47,7 @@ Here it’s just a bowl(of cereal)/bowl(weed pipe) pun. While the funny “kerch
 But what about something like this?
 
 ![meme-jokes-puns-4.png](/uploads/meme-jokes-puns-4.png)
-<div class="caption">Fig. 4: “Can Eye Fist Uranus(actually that’s saturn tho)” (2017)</div>
+<div class="caption">Fig. 4: “Can Eye Fist Uranus” (2017)</div>
 
 This is what is called a “rebus,” from the Latin \*non verbis, sed rebus\*, which means "not by words but by things." In essence, a picture of something is substituted for something else when conveying a written message. A rebus can be a type of pun—instead of substituting a word with a similar sound but different meaning, you’re substituting a picture. It’s all the same thing basically, except that we are starting to depart from language in the conventional, words-and-letters sense. And that’s exactly where I’m headed!
 
