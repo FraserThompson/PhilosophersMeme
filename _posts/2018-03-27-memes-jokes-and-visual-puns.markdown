@@ -106,7 +106,7 @@ Besides illustrating relationships between its components, the final function of
 ![meme-jokes-puns-10.png](/uploads/meme-jokes-puns-10.png)
 <div class="caption">Fig. 10: Value Placeholders in Memes</div>
 
-Through this notion of cell values, individual parts of a template contain different meanings. Since it takes these values into consideration, Figure 8 moves beyond simple syntactical relations towards a semantically grounded structure. The individual values are actually meaningfully used and incorporated into the macro-structure of the image. The elements’ individual meanings are rooted in memetic literacy, background knowledge, established usage conventions, and not simply based on the gestalt or the syntax of a meme. The individual meanings of the subcomponents are separated and structured in a way that integrates them into the subcomponents of the OTHER template elements of the meme.
+Through this notion of cell values, individual parts of a template contain different meanings. Since it takes these values into consideration, Figure 8 moves beyond simple syntactical relations towards a semantically grounded structure. The individual values are actually meaningfully used and incorporated into the macro-structure of the image. The elements’ individual meanings are rooted in memetic literacy, background knowledge, established usage conventions, and not simply based on the gestalt or the syntax of a meme. The individual meanings of the subcomponents are separated and structured in a way that integrates them into the subcomponents of the <i>other</i> template elements of the meme.
 
 Here is a diagram summarizing the points:
 
