@@ -16,8 +16,8 @@ fbpreview: http://thephilosophersmeme.com/uploads/23472012_2053909424842673_2720
 
 The first time I saw the source image for this meme was two years ago. The caption read: "When you drink water". It was revolutionary for the time, when post-ironic memes were just beginning to develop. It's very simple from today's point of view, but that made it easier to understand how the meme works. The same image became popular in two niches:
 
-\(1.) Ironic memepages eager for new kinds of irony  
-\(2.) Among normie Muslims during Ramadhan
+(1.) Ironic memepages eager for new kinds of irony  
+(2.) Among normie Muslims during Ramadhan
 
 The image is still one of my favourite examples of post-irony; it's also my go-to example for the importance of context in memes. That the same image functions differently depending on context is trivial, but people often forget this when they look at a meme and ask: "Is this meme ironic?" It's not a bad approach given that an image will always have a ton of clues about whether it is ironic or not; the contents of the image itself of course influences how it is used.
 
