@@ -1,6 +1,13 @@
 ---
 title: Moe to Memes, Otaku to Autist
 date: 2017-11-23 13:50:00 +13:00
+tags:
+- memes
+- otaku
+- moe
+- anime
+- autist
+- subculture
 author:
   email: seongyher@gmail.com
   display_name: Seong-Young Her
