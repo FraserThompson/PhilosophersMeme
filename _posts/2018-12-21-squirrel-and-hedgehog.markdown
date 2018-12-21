@@ -14,6 +14,7 @@ author:
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
+image: "/uploads/28618811_2110269179206697_2196597837980685285_o.jpg"
 ---
 
 For this week's event, we watched a few episodes from North Korea's first animated series, 'Squirrel and Hedgehog'. It's hugely popular in North Korea; 'Squirrel and Hedgehog' originally ran from 1977 to 2005, but resumed production in 2006 due to popular demand. It is currently on hiatus while the studio works on another series called 'The Boy General', a historical series about the kingdom of Gogureyo, one of the Three Kingdoms of ancient Korea.
