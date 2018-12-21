@@ -1,6 +1,6 @@
 ---
 title: "/tpml/ Event Report #1: Introducing 'Squirrel and Hedgehog'"
-date: 2018-12-21 22:43:00 +13:00
+date: 2018-03-05 10:05:00 +13:00
 tags:
 - North Korea
 - animation
