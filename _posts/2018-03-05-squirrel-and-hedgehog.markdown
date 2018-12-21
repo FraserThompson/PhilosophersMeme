@@ -1,5 +1,5 @@
 ---
-title: "/tpml/ Event Report #1: Introducing 'Squirrel and Hedgehog'"
+title: Introducing 'Squirrel and Hedgehog'
 date: 2018-03-05 10:05:00 +13:00
 tags:
 - North Korea
