@@ -1,6 +1,6 @@
 ---
 title: The design of a platform determines the kind of content produced
-date: 2018-12-21 22:49:00 +13:00
+date: 2017-12-15 15:06:00 +13:00
 tags:
 - memes
 - platform design
@@ -36,3 +36,5 @@ A primitive example of the same kind are combo threads on imageboards. You can s
 ![25152433_10213166299744003_7310654686132518406_n.jpg](/uploads/25152433_10213166299744003_7310654686132518406_n.jpg)
 
 The unit is made up of three image files over three posts, in one thread. It is a single image made up of three image-files. Is it one meme? Are these three memes that must accompany each other to be complete? Are there multiple 'levels' of memetic content at play in every instance of a shitpost?
+
+[Originally posted to /tpml/](https://www.facebook.com/groups/tpmlib)
