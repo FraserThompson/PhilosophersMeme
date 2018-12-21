@@ -1,6 +1,6 @@
 ---
 title: A School of Internet Philosophy
-date: 2018-12-21 23:13:00 +13:00
+date: 2018-12-21 03:16:00 +13:00
 tags:
 - Internet philosophy
 - philosophy
