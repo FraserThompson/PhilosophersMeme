@@ -70,6 +70,35 @@ A very dull bot — useful but not the site of cybercultural happenings.
    </figcaption>
 </figure>
 
+This drive for conceptual coherence is distinct from demands for *quality*: rebuffing or outright refusing activities deemed egocentric can be seen across the web, even in environments specially designated for low-quality posts. In circlejerk venues, breaking the jerk is typically forbidden. Countless Facebook tagging groups issue "no discourse" rules to preempt flamewars and off-topic digressions. In fact, there exist many special rules that were written expressly for the purpose of preventing the partitioning of communities into cliques and sub-cliques through targeted communication, known as splintering. One example is the ban on direct communication with another user in big subreddits like [r/pics][Reddit - r/pics]. Celebrity members in online communities hijacking the forum for their personal socialisation is a common phenomenon, and more-or-less analogous to the case of botpage admins directly communicating with other admins through their pages. A botpage called [ImposterBot Pmc2963468][Facebook - ImposterBot Pmc2963468], whose purpose is to copy other bots without using their code, stirred up controversy among some botpage admins, not simply because the botpage admins were protective of their ideas but because it threatened their mental models of botpage authorship. 
+
+This controversy over human interference simply does not exist to such a degree in communities grounded in remix culture based on bot output. For example, [Botnik] is "a community of writers, artists and developers using machines to create things on and off the internet." Botnik's community practices are very much in the mould of other computational creativity communities listed by the [Electronic Literature Organization].
+
+<mark>Botnik</mark>
+
+Consider that botpage fans are also such a community.
+
+So, the botpage community is not fundamentally different in either practice or output from the Botnik community, yet resists many of the editorial assumptions made by Botnik. Tampering with bot output is proscribed by the botpage community not because derivative work is frowned upon, but because what is important is the social, creative institution built around the shared assumption that, under normal operating conditions, a botpage only makes botposts.
+
+Taking into consideration the mechanical process behind the AI-generated art also changes the perspective of the viewers. [GraffitiGAN][How to Generate Almost Anything - Episode 5: Human-AI Collaborated Graffiti] was a project in which a GAN trained on over ten thousand graffiti designs collaborated with two human graffiti artists.
+
+The artists reacted to the idea in different ways. "I think it's such an amazing opportunity to be inspired by designs created by artists and artificial intelligence," [IMAGINE][Instagram - IMAGINE] said. "And it was over ten thousand designs of graffiti pieces taken from all over the world, and so this is really an international collaboration!" 
+
+[SOBEK][Instagram - SOBEK], on the other hand, saw dissent in the ranks:
+
+>I spoke with some of my buddies about this little project and they see it as 'me vs. AI', like 'man vs. computer' — they took it a little personal like 'You gotta defend the history of graffiti, don't let the computers take over!'
+
+<figure>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wNwZcHSWJPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>
+
+Interview on GraffitiGAN. [Full article at How to Generate Almost Anything][How to Generate Almost Anything - Episode 5: Human-AI Collaborated Graffiti]
+
+</figcaption>
+</figure>
+
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
 [Electronic Literature Organization]: https://eliterature.org
