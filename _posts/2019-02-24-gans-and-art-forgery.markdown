@@ -99,6 +99,21 @@ Interview on GraffitiGAN. [Full article at How to Generate Almost Anything][How 
 </figcaption>
 </figure>
 
+The responses each represent a way of understanding the AI artist. One is to view it as the medium through which the humans from whom it learned can speak. The other is to view the AI artist as the creative entity in its own right. Regardless of the metaphysics, the psychological effect of holding one perspective over another is clear. Consider the example of [EyeWriter], the eye-tracking device that allows [Tempt1] to write despite the degenerative nerve disorder which paralysed him. With the help of extensive technological augmentation, Tempt1 can transfer the designs from his mind onto the walls in the real world, just as the chain of man and machine allowed the thousands of graffiti artists to contribute some part of their own designs to the GraffitiGAN project. Are the resulting works forgeries? If so, who is the forger?
+
+<figure>
+
+![eyewriter_diagram.png](https://thephilosophersmeme.com/uploads/eyewriter_diagram.png)
+![tempt-eyes.gif](https://thephilosophersmeme.com/uploads/tempt-eyes.gif)
+![temptone_graffiti.png](https://thephilosophersmeme.com/uploads/temptone_graffiti.png)
+
+<figcaption>
+
+EyeWriter system 1.0 in use.
+
+</figcaption>
+</figure>
+
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
 [Electronic Literature Organization]: https://eliterature.org
