@@ -192,7 +192,16 @@ This drive for conceptual coherence is distinct from demands for *quality*: rebu
 
 This controversy over human interference simply does not exist to such a degree in communities grounded in remix culture based on bot output. For example, [Botnik] is "a community of writers, artists and developers using machines to create things on and off the internet." Botnik's community practices are very much in the mould of other computational creativity communities listed by the [Electronic Literature Organization].
 
-<mark>Botnik</mark>
+<figure>
+   <iframe width="640" height="360" src="https://www.youtube.com/embed/tBRWJzAjkjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fheadlinertron%2Fposts%2F2572325862994218&width=500" width="500" height="191" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fheadlinertron%2Fposts%2F2569511623275642&width=500" width="500" height="192" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+   <figcaption>
+
+Content produced using bot output, with varying degrees of human intervention.
+
+   </figcaption>
+</figure>
 
 Consider that botpage fans are also such a community.
 
