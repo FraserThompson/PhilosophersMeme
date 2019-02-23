@@ -103,9 +103,9 @@ The responses each represent a way of understanding the AI artist. One is to vie
 
 <figure>
 
-![eyewriter_diagram.png](https://thephilosophersmeme.com/uploads/eyewriter_diagram.png)
-![tempt-eyes.gif](https://thephilosophersmeme.com/uploads/tempt-eyes.gif)
-![temptone_graffiti.png](https://thephilosophersmeme.com/uploads/temptone_graffiti.png)
+<img src="https://thephilosophersmeme.com/uploads/eyewriter_diagram.png">
+<img src="https://thephilosophersmeme.com/uploads/tempt-eyes.gif">
+<img src="https://thephilosophersmeme.com/uploads/temptone_graffiti.png">
 
 <figcaption>
 
