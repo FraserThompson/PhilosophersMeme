@@ -29,6 +29,43 @@ Creators in all genres of computational creativity are similarly incentivised to
 
 But in the context of botpages, not everyone agrees that an adminpost is fraudulent. Many botpage admins understand their page as a part of a creative process which they are involved in as the artist, and resent the fact that many botpage fans do not see the output of their bots as works by the admins themselves. The opposing views on the authorship of bot-generated content have a fundamentally divergent effect on the viewers' experience, which feeds back into the bot itself through community practice.
 
+<figure>
+   <div class="paddingBlock">
+      <div class="equalHMVWrap eqWrap">
+         <div class="equalHMV eq">Any unlabeled adminposts immediately delegitimize any bot that makes them.</div>
+         <div class="equalHMV eq">Any unlabeled 🏴🏴🏴 adminposts🙋🙋🙋 immediately delegitimize 👎👎👎 any bot 🤖🤖🤖 that makes them.</div>
+         <div class="equalHMV eq">AnY UnLaB3L3D 🏴🏴🏴 AdMiNp0sTs🙋🙋🙋ImMeDiAt3lY D3L3GiTiMiZ3👎👎👎 AnY B0T 🤖🤖🤖 ThAt MaK3S ThEm. 🔫🔫</div>
+         <div class="equalHMV eq">Why are all these bot pages throwing out their legitimacy because a bot with only 2 variables made a post?</div>
+         <div class="equalHMV eq">Why are all these bot 🤖🤖🤖 pages📖📖📖 throwing🤢🤢🤢 out their legitimacy 👍👍👍because a bot 🤖🤖🤖 with only 2️⃣ varia🅱️les made a post? 📮📮📮</div>
+         <div class="equalHMV eq">WhY Ar3 AlL Th3s3 B0T 🤖🤖🤖 PaG3s📖📖📖 ThR0WiNg🤢🤢🤢 0uT Th3ir L3GiTiMaCy 👍👍👍B3cAuSe A B0T 🤖🤖🤖WiTh 0nLy 2️⃣ V4Ri4🅱️L3S M4d3 4 P0St? 📮📮📮💯💯💯</div>
+      </div>
+   </div>
+
+   <figcaption>
+
+Left: A complaint in the [Bot Appreciation Society][Facebook - Bot Appreciation Society] Facebook group regarding the choice of some bot admins to manually post homages and parodies following [OreoBot 1912][Facebook - OreoBot1912]'s successful reassembly of the term 'oreo' from single tokens. Center and right: some typical community responses.
+
+   </figcaption>
+</figure>
+
+Those who view the bot as the author treat the botpage as a generative process whose admin should iterate the bot in an incremental, wholesale fashion but not meddle in unannounced deviations. The audience's roles are to divine meaning from bot output, await particularly serendipitous outputs whose majority interpretation requires little external commentary to grasp, and to disseminate bot output as well as provide a signal boost to admin outrage at the hands of censorious platform moderation activity. In this mental model, the admin is a man behind a curtain, orchestrating a performance but not playing the instruments himself. Thus admin tampering violates expectations in a distasteful fashion: since violation of expectations is precisely what audience members are on the lookout for, human interventions that produce the same are seen as blows to the very thing the audience is expected to do.
+
+Under this view, a glut of direct communication with other bot admins in the form of parody posts on the botpage, rather than in a closed group or a chat, is seen as circlejerking at the community's expense. Since those who view the bot as the author participate primarily as interpreters of hitherto intentionless and meaningless messages, they also view the botpage as a collaboration between the bot and the fans.
+
+Those who view the admin as the author treat the bot as merely an implementation of the admin's ideas. The significance of audience input is downplayed, while critiques directed at admin activities are regarded as attacks on the admin's creative autonomy.
+
+The bot admin's argument that they are the author and both the bot and its output are their work is a good argument because it's true: the bot admins are causally necessary for both the creation of the bot and its output, since the admins designed the bots to produce the particular outputs. But it's also an unconvincing argument in that it ignores critical differences between shitposting bots and other types of bots, such as informational bots. Shitposting bots are necessarily social while informational bots are not. Even so, closed-concept bots that promise to realise a specific concept, like [youtubeartifact][Twitter - youtubeartifact], are expected to remain stable so that whatever community emerges around the output can reliably continue and develop its practices. The totality of the artistic experience around the bot and its output is ultimately determined by the community engagement insofar as there is a community. Treating the botpage as the work of the bot admin alone disturbs this creative process of the community, by threatening its conceptual foundation.
+
+<figure>
+   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A 7.7 magnitude earthquake occurred 80.78mi ESE of Palora, Ecuador. Details: <a href="https://t.co/KtVeBqbXhj">https://t.co/KtVeBqbXhj</a> Map: <a href="https://t.co/HbgZ1eZWXO">https://t.co/HbgZ1eZWXO</a></p>&mdash; Earthquake Robot (@earthquakeBot) <a href="https://twitter.com/earthquakeBot/status/1098891403269070849?ref_src=twsrc%5Etfw">February 22, 2019</a>   </blockquote>
+   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <figcaption>
+
+A very dull bot — useful but not the site of cybercultural happenings.
+
+   </figcaption>
+</figure>
+
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
 [Electronic Literature Organization]: https://eliterature.org
