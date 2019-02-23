@@ -13,7 +13,20 @@ Forgery often attracts outrage from the participants of the respective aesthetic
 
 Art forgery became an economic, moral issue when the valuation of artworks became closely tied to their creators' identities. Prior to artworks becoming a commodity with economic value much beyond their immediate aesthetic utility, forgery was standard, for both the buying and selling of art but also the development of artists themselves. Apprentices would mimic the style of the master by copying the master's works, and the master would sell the works created in the process instead of receiving monetary payment for the tutorship. Generative Adversarial Networks (GANs) applied to visual tasks work rather similarly to a forgery-based apprenticeship. One part of the network randomly generates new images and the other assesses each image for fit. The network is trained to become better at creating and selecting the kinds of images demanded by the human supervisor, namely images stylistically similar to the images on which it is trained. It's like an apprenticeship with neither an apprentice nor a master.
 
-<mark>StyleGAN Animeme</mark>
+<figure>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthephilosophersmeme%2Fvideos%2F253206768959839%2F&show_text=1&width=560" width="560" height="526" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthephilosophersmeme%2Fvideos%2F578582942609858%2F&show_text=1&width=476" width="476" height="592" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthephilosophersmeme%2Fvideos%2F363369750918322%2F&show_text=1&width=476" width="476" height="611" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+<figcaption>
+
+To appear: this post as told by OpenAI's GPT-2 language model.
+
+</figcaption>
+</figure>
 
 A favourite defence of forgers is to claim that the fake artworks are a kind of Sokal challenge to the artworld, and that they expose the hypocrisy of a market which treats artworks as autographs and currencies rather than appraises them for their *intrinsic* value. This classic argument implies that the forgeries were justified on grounds of holding independent, intrinsic value as works of art and artistic statements of their own. It's part of a family of arguments which claim that forgery is justified as an artistic practice because the forger, too, is an artist. It's a good argument, because it's true: contemporary art is currency trading. Paradoxically, it's an unconvincing one given that traditional forgery requires enough artistic skill to produce convincing copies. The fakes themselves are highly limited in supply, and so they end up also fetching high prices based on the same market pressures as the originals even after they are revealed as fakes. Infamous forgers like [Han van Meegeren][Meegeren.net - HAN VAN MEEGEREN - BIBLIOGRAPHY] sometimes even develop their own forgery markets, in which lesser-known forgers misattribute their own works to the well-known forger to inflate their value.
 
