@@ -13,15 +13,24 @@ date: 2019-02-24 00:20:00 +13:00
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthephilosophersmeme%2Fvideos%2F363369750918322%2F&show_text=1&width=476" width="476" height="611" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-<div class="paddingBlock">
-  <div class="equalHMVWrap eqWrap">
-    <div class="equalHMV eq">Any unlabeled adminposts immediately delegitimize any bot that makes them.</div>
-    <div class="equalHMV eq">Any unlabeled 🏴🏴🏴 adminposts🙋🙋🙋 immediately delegitimize 👎👎👎 any bot 🤖🤖🤖 that makes them.</div>
-    <div class="equalHMV eq">AnY UnLaB3L3D 🏴🏴🏴 AdMiNp0sTs🙋🙋🙋ImMeDiAt3lY D3L3GiTiMiZ3👎👎👎 AnY B0T 🤖🤖🤖 ThAt MaK3S ThEm. 🔫🔫</div>
-      <div class="equalHMV eq">Why are all these bot pages throwing out their legitimacy because a bot with only 2 variables made a post?</div>
-      <div class="equalHMV eq">Why are all these bot 🤖🤖🤖 pages📖📖📖 throwing🤢🤢🤢 out their legitimacy 👍👍👍because a bot 🤖🤖🤖 with only 2️⃣ varia🅱️les made a post? 📮📮📮</div>
-      <div class="equalHMV eq">WhY Ar3 AlL Th3s3 B0T 🤖🤖🤖 PaG3s📖📖📖 ThR0WiNg🤢🤢🤢 0uT Th3ir L3GiTiMaCy 👍👍👍B3cAuSe A B0T 🤖🤖🤖WiTh 0nLy 2️⃣ V4Ri4🅱️L3S M4d3 4 P0St? 📮📮📮💯💯💯</div>
-</div>
+<figure>
+   <div class="paddingBlock">
+      <div class="equalHMVWrap eqWrap">
+         <div class="equalHMV eq">Any unlabeled adminposts immediately delegitimize any bot that makes them.</div>
+         <div class="equalHMV eq">Any unlabeled 🏴🏴🏴 adminposts🙋🙋🙋 immediately delegitimize 👎👎👎 any bot 🤖🤖🤖 that makes them.</div>
+         <div class="equalHMV eq">AnY UnLaB3L3D 🏴🏴🏴 AdMiNp0sTs🙋🙋🙋ImMeDiAt3lY D3L3GiTiMiZ3👎👎👎 AnY B0T 🤖🤖🤖 ThAt MaK3S ThEm. 🔫🔫</div>
+         <div class="equalHMV eq">Why are all these bot pages throwing out their legitimacy because a bot with only 2 variables made a post?</div>
+         <div class="equalHMV eq">Why are all these bot 🤖🤖🤖 pages📖📖📖 throwing🤢🤢🤢 out their legitimacy 👍👍👍because a bot 🤖🤖🤖 with only 2️⃣ varia🅱️les made a post? 📮📮📮</div>
+         <div class="equalHMV eq">WhY Ar3 AlL Th3s3 B0T 🤖🤖🤖 PaG3s📖📖📖 ThR0WiNg🤢🤢🤢 0uT Th3ir L3GiTiMaCy 👍👍👍B3cAuSe A B0T 🤖🤖🤖WiTh 0nLy 2️⃣ V4Ri4🅱️L3S M4d3 4 P0St? 📮📮📮💯💯💯</div>
+      </div>
+   </div>
+
+   <figcaption>
+
+Left: A complaint in the [Bot Appreciation Society][Facebook - Bot Appreciation Society] Facebook group regarding the choice of some bot admins to manually post homages and parodies following [OreoBot 1912][Facebook - OreoBot1912]'s successful reassembly of the term 'oreo' from single tokens. Center and right: some typical community responses.
+
+   </figcaption>
+</figure>
 
 <figure>
    <div class="grid-container">
