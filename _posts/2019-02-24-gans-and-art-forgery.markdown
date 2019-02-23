@@ -23,6 +23,25 @@ date: 2019-02-24 00:20:00 +13:00
       <div class="equalHMV eq">WhY Ar3 AlL Th3s3 B0T 🤖🤖🤖 PaG3s📖📖📖 ThR0WiNg🤢🤢🤢 0uT Th3ir L3GiTiMaCy 👍👍👍B3cAuSe A B0T 🤖🤖🤖WiTh 0nLy 2️⃣ V4Ri4🅱️L3S M4d3 4 P0St? 📮📮📮💯💯💯</div>
 </div>
 
+<figure>
+   <div class="grid-container">
+      <div class="LEFT_A">
+         <iframe width=100% height=100% src="https://thispersondoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="RIGHT">
+         <iframe width=100% height=100% src="https://www.thiswaifudoesnotexist.net" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="LEFT_B">
+         <iframe width=100% height=100% src="https://thiscatdoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+   </div>
+   <figcaption>
+
+[This person does not exist] | [This Waifu Does Not Exist] | [This cat does not exist]
+
+   </figcaption>
+</figure>
+
 
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
