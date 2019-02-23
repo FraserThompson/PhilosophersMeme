@@ -47,7 +47,7 @@ But in the context of botpages, not everyone agrees that an adminpost is fraudul
 
    <figcaption>
 
-Left: A complaint in the [Bot Appreciation Society][Facebook - Bot Appreciation Society] Facebook group regarding the choice of some bot admins to manually post homages and parodies following [OreoBot 1912][Facebook - OreoBot1912]'s successful reassembly of the term 'oreo' from single tokens. Center and right: some typical community responses.
+Left: A complaint in the <a href="https://facebook.com/132502367359575">Bot Appreciation Society</a> Facebook group regarding the choice of some bot admins to manually post homages and parodies following <a href="https://facebook.com/1061626284019675">OreoBot 1912</a>'s successful reassembly of the term 'oreo' from single tokens. Center and right: some typical community responses.
 
    </figcaption>
 </figure>
@@ -94,7 +94,7 @@ The artists reacted to the idea in different ways. "I think it's such an amazing
 
 <figcaption>
 
-Interview on GraffitiGAN. [Full article at How to Generate Almost Anything][How to Generate Almost Anything - Episode 5: Human-AI Collaborated Graffiti]
+Interview on GraffitiGAN. <a href="https://howtogeneratealmostanything.com/graffiti/2018/09/26/episode5.html">Full article at How to Generate Almost Anything</a>
 
 </figcaption>
 </figure>
@@ -132,7 +132,7 @@ Throughout the history of art, forgery was used as a technology for making art a
 
 <figcaption>
 
-This beat does not exist: [ChilledCow][YouTube - ChilledCow]'s lofi beats station, and others like it, synthesise a new milieu from multi-layered multimedia forgeries to produce a transient experience with its own, novel phenomenology.
+This beat does not exist: <a href="https://youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow">ChilledCow</a>'s lofi beats station, and others like it, synthesise a new milieu from multi-layered multimedia forgeries to produce a transient experience with its own, novel phenomenology.
 
 </figcaption>
 </figure>
