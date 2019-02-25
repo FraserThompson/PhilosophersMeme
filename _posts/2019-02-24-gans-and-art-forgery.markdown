@@ -319,7 +319,7 @@ The word "medium" provides a clue for the way out of the paradox. Early religion
    </div>
    <figcaption>
 
-<a href="https://thispersondoesnotexist.com">This person does not exist</a> | <a href="https://thiswaifudoesnotexist.net">This Waifu Does Not Exist> | <a href="https://thiscatdoesnotexist.com">This cat does not exist</a>a>
+<a href="https://thispersondoesnotexist.com">This person does not exist</a> | <a href="https://thiswaifudoesnotexist.net">This Waifu Does Not Exist</a> | <a href="https://thiscatdoesnotexist.com">This cat does not exist</a>
 
    </figcaption>
 </figure>
