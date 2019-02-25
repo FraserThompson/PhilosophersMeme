@@ -163,7 +163,11 @@ But even machine-made art is not free of fakes. An example is the forgery of aut
 <figure>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpapacafeteria%2Fposts%2F2285913701683702&width=500" width="500" height="547" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 <img src="/uploads/everybody-gangsta-until-the-burger-start-walking.png">
-<figcaption>A fan-made meme of a [Papa’s Burgeria Bot][Facebook - Papa's Burgeria Bot] post featuring a burger that looks like it has legs of bacon.</figcaption>
+<figcaption>
+
+A fan-made meme of a [Papa’s Burgeria Bot][Facebook - Papa's Burgeria Bot] post featuring a burger that looks like it has legs of bacon.
+
+</figcaption>
 </figure>
 
 There is therefore a strong incentive for the admins to forge more interesting and coherent content than their bot usually generates, in order to inflate interest in their bot. More, since a human artist cannot expect to compete in volume with the actual output of the bot, these man-made posts are more likely to be based on a stereotype of the bot's output than strict mimicry of either the process or a typical product of the bot.
