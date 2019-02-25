@@ -308,12 +308,24 @@ The most readily available tool for participants of an aesthetic community who w
 The word "medium" provides a clue for the way out of the paradox. Early religion was facilitated by shamanic intermediaries who bridged the spiritual and the physical realms. Later, shrines were developed as a way to automate the shamanic practice so that ordinary people could convene with the gods without a human intermediary. Otto Rank wrote that the artist facilitates a sense of unity in the viewer, not only with the artist but the whole universe. This sense of unity with the universe is the feeling of temporarily letting go of the sense of self-differentiation otherwise ever-present in a human being. One component of this dynamic is inverted in AI art, in that there is no artist acting as the medium. In this sense, the AI artist is the shrine that substitutes for the human artist in the role of mediating between two worlds. There is only the user, the machine, and the holy wilderness of cyberculture.
 
 <figure>
+   <div class="grid-container">
+      <div class="LEFT_A">
+         <iframe width=100% height=100% src="https://thispersondoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="RIGHT">
+         <iframe width=100% height=100% src="https://www.thiswaifudoesnotexist.net" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="LEFT_B">
+         <iframe width=100% height=100% src="https://thiscatdoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+   </div>
    <figcaption>
 
-<a href="https://thispersondoesnotexist.com">This person does not exist</a> | <a href="https://thiswaifudoesnotexist.net">This Waifu Does Not Exist</a> | <a href="https://thiscatdoesnotexist.com">This cat does not exist</a>
+<a href="https://thispersondoesnotexist.com">This person does not exist</a> | <a href="https://thiswaifudoesnotexist.net">This Waifu Does Not Exist> | <a href="https://thiscatdoesnotexist.com">This cat does not exist</a>a>
 
    </figcaption>
 </figure>
+
 
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
