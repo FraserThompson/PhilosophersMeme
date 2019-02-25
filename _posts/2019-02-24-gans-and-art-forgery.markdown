@@ -14,9 +14,13 @@ tags:
 - shitposting
 - sociology
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Seong-Young Her
   - Jeremy Cahill
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: Throughout the history of art, forgery was used as a technology for making
   art accessible for the masses, as a tool for education in apprenticeship, as an
   object of fraud and was itself a subject of fakery. The experience of forgery as
@@ -163,7 +167,11 @@ But even machine-made art is not free of fakes. An example is the forgery of aut
 <figure>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpapacafeteria%2Fposts%2F2285913701683702&width=500" width="500" height="547" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 <img src="/uploads/everybody-gangsta-until-the-burger-start-walking.png">
-<figcaption>A fan-made meme of a [Papa’s Burgeria Bot][Facebook - Papa's Burgeria Bot] post featuring a burger that looks like it has legs of bacon.</figcaption>
+<figcaption>
+
+A fan-made meme of a <a href="https://facebook.com/2284646001810472">Papa’s Burgeria Bot</a> post featuring a burger that looks like it has legs of bacon.
+
+</figcaption>
 </figure>
 
 There is therefore a strong incentive for the admins to forge more interesting and coherent content than their bot usually generates, in order to inflate interest in their bot. More, since a human artist cannot expect to compete in volume with the actual output of the bot, these man-made posts are more likely to be based on a stereotype of the bot's output than strict mimicry of either the process or a typical product of the bot.
@@ -297,7 +305,24 @@ The most readily available tool for participants of an aesthetic community who w
 
 The word "medium" provides a clue for the way out of the paradox. Early religion was facilitated by shamanic intermediaries who bridged the spiritual and the physical realms. Later, shrines were developed as a way to automate the shamanic practice so that ordinary people could convene with the gods without a human intermediary. Otto Rank wrote that the artist facilitates a sense of unity in the viewer, not only with the artist but the whole universe. This sense of unity with the universe is the feeling of temporarily letting go of the sense of self-differentiation otherwise ever-present in a human being. One component of this dynamic is inverted in AI art, in that there is no artist acting as the medium. In this sense, the AI artist is the shrine that substitutes for the human artist in the role of mediating between two worlds. There is only the user, the machine, and the holy wilderness of cyberculture.
 
-<mark>DNE layout</mark>
+<figure>
+   <div class="grid-container">
+      <div class="LEFT_A">
+         <iframe width=100% height=100% src="https://thispersondoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="RIGHT">
+         <iframe width=100% height=100% src="https://www.thiswaifudoesnotexist.net" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="LEFT_B">
+         <iframe width=100% height=100% src="https://thiscatdoesnotexist.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+   </div>
+   <figcaption>
+
+<a href="https://thispersondoesnotexist.com">This person does not exist</a> | <a href="https://thiswaifudoesnotexist.net">This Waifu Does Not Exist> | <a href="https://thiscatdoesnotexist.com">This cat does not exist</a>a>
+
+   </figcaption>
+</figure>
 
 [Art Law Journal - Steve Schlackman: Who holds the Copyright in AI Created Art]: https://alj.artrepreneur.com/the-next-rembrandt-who-holds-the-copyright-in-computer-generated-art
 [Botnik]: https://botnik.org
