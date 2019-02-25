@@ -28,6 +28,7 @@ excerpt: Throughout the history of art, forgery was used as a technology for mak
   of the audience as well as informing their response. The context of an aesthetic
   community adapts to the community as the community adapts to it.
 image: "/uploads/everybody-gangsta-until-the-burger-start-walking.png"
+banner: "/uploads/everybody-gangsta-until-the-burger-start-walking.png"
 fbpreview: "/uploads/everybody-gangsta-until-the-burger-start-walking.png"
 ---
 
