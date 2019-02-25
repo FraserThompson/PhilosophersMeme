@@ -1,7 +1,18 @@
 ---
 title: GANs and Art Forgery
 date: 2019-02-24 00:20:00 +13:00
-published: false
+tags:
+- aesthetics
+- art
+- computational creativity
+- bots
+- Botnik
+- forgery
+- GAN
+- memes
+- philosophy
+- shitposting
+- sociology
 author:
   display_name:
   - Seong-Young Her
