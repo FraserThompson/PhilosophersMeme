@@ -17,6 +17,12 @@ author:
   display_name:
   - Seong-Young Her
   - Jeremy Cahill
+excerpt: Throughout the history of art, forgery was used as a technology for making
+  art accessible for the masses, as a tool for education in apprenticeship, as an
+  object of fraud and was itself a subject of fakery. The experience of forgery as
+  such precedes and succeeds the experience of the work itself, shaping the expectancy
+  of the audience as well as informing their response. The context of an aesthetic
+  community adapts to the community as the community adapts to it.
 image: "/uploads/everybody-gangsta-until-the-burger-start-walking.png"
 ---
 
