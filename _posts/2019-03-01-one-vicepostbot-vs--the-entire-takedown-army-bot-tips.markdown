@@ -15,7 +15,7 @@ excerpt: Here we provide a backlog of VICEpostbot's content since around the tim
   of its first relaunch, along with some tips for bot admins to manage takedown risk.
 image: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
 banner: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
-fbpreview: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
+fbpreview: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc_square.png"
 ---
 
 ![2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png](/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png)
