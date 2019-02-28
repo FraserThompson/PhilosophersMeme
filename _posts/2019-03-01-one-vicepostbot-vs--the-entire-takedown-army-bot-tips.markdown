@@ -13,7 +13,7 @@ author:
   last_name: Cahill
 excerpt: Here we provide a backlog of VICEpostbot's content since around the time
   of its first relaunch, along with some tips for bot admins to manage takedown risk.
-image: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
+image: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc_square.png"
 banner: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
 fbpreview: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc_square.png"
 ---
