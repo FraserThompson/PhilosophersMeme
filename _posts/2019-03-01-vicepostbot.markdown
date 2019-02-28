@@ -11,7 +11,7 @@ VICEpostbot was a satiral title-writing bot noted for its hyperrealism and commu
    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhorkermon%2Fposts%2F818323048578025&width=500" width="500" height="284" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
    <figcaption>
 
-*VICEpostbot's life (so far): short and sordid.*
+VICEpostbot's life (so far): short and sordid.
 
    </figcaption>
 </figure>
