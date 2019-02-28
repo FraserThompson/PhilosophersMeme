@@ -3,6 +3,66 @@ title: VICEpostbot
 date: 2019-03-01 10:05:00 +13:00
 ---
 
+## Background
+
+VICEpostbot was a satiral title-writing bot noted for its hyperrealism and community claims of takedown pressure from VICE itself. Here we provide a backlog of VICEpostbot's content since around the time of its first relaunch, along with some tips for bot admins to manage takedown risk.
+
+<figure>
+   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhorkermon%2Fposts%2F818323048578025&width=500" width="500" height="284" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+   <figcaption>
+
+*VICEpostbot's life (so far): short and sordid.*
+
+   </figcaption>
+</figure>
+
+<!--
+<figure>
+   <blockquote class="facebook-post" data-lang="en"><p lang="en" dir="ltr">Rumors circulating that VICE is suppressing this satirical title-writing bot with a cease and desist. facebook.com/VICEpostbot : it was neat.
+
+If you work for vice, quit
+</p>&mdash; Jeremy Cahill (@horkermon) <a href="https://facebook.com/horkermon/posts/818323048578025">January 13, 2019</a>   </blockquote>
+   <figcaption>
+
+*VICEpostbot's life (so far): short and sordid.*
+
+   </figcaption>
+</figure>
+-->
+
+<figure>
+   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not sure if vicepostbot is a bot or a human <a href="https://t.co/4yTlLBVDpf">pic.twitter.com/4yTlLBVDpf</a></p>&mdash; Justin Whang 🐙 (@JustinWhang) <a href="https://twitter.com/JustinWhang/status/1079808546865405954?ref_src=twsrc%5Etfw">December 31, 2018</a></blockquote>
+   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <figcaption></figcaption>
+</figure>
+
+
+### Takedown tips for bot admins
+
+1. **Keep your own backups.**
+
+2. **Cross-post content to at least one reliable secondary host.** One such host is [botsin.space][Mastodon - botsin.space], a [Mastodon][Mastodon - joinmastodon.org] instance dedicated to the task at hand.
+
+> This instance is for bots and bot allies. Anyone can sign up to be a user here or run your bot here. Users agree to the Code of Conduct listed on the [information page](https://botsin.space/about/more). You might also want to review the [terms of service](https://botsin.space/terms).
+
+3. **Avoid relying entirely on social SSO for login on secondary hosts.** If your Facebook/Twitter/whatever account is suspended, your social login is very likely compromised.
+
+4. **Prefer Mastodon to Twitter for secondary hosting.** Mastodon has a superset of post features compared to Twitter, so it's preferable as a fallback for all bots, but especially Facebook bots. Since it can handle a broader range of content, posts will likely require no or little modification. This is often not the case with Twitter. So Mastodon is more flexible — and it can be self-hosted.
+
+5. **List your bot in community hubs.** The [Bot Appreciation Society][Facebook - Bot Appreciation Society] Facebook group, for instance, is now maintaining a collaborative document called [THE BIG LIST OF BOTS][Facebook - THE BIG LIST OF BOTS]. A number of such lists also exist for twitter-centric bots — search around to see where your bot fits.
+
+6. **Publish your bot's source.** This aids others in aiding you. If you feel that your bot would lose its airs of mystery in doing so, or you *cannot* publish the source (e.g. for licensing reasons), still consider publishing dumps of other components and/or output.
+
+7. **Disclose legal threats to the community!** In most jurisdictions, this cannot be used against you, and is a time-proven tactic to fight draconian takedown requests (see: [Lumen Database], previously known as *Chilling Effects*).
+
+8. **Follow major API and platform moderation news.** In most cases, you only need to be aware of major breaking changes. Resources like Programmable Web's [API Directory][Programmable Web - API Directory] and [API News][Programmable Web - API News] are a good bet.
+
+9. **Use smarter filters.** Many bot admins duplicate the same work again and again in trying to wrangle undesirable audience interactions, for instance. Naive strategies will only net you more work in the long-run. One example: even a baisc phonetic filter will work much harder for you an incredibly extensive text blacklist alone. For a practical walkthrough, see [Useless Duck Company][YouTube - Useless Duck Company]'s Talking Banana on [LivestreamFails][Livestreamfails - uselessduckcompany] and their solution presented in the video below.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/bJ5ppf0po3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+10. **Ask for help.** You may be surprised to find that web archivists are often perfectly willing to assist you in preserving at-risk content. The Philosopher's Meme can aid you directly and point you in the direction of resources.
+
 ## VICEpostbot Content
 
 Here's a probably-complete collection of VICEpostbot's posts dating from its most recent takedown to 2019-01-09.
@@ -590,7 +650,11 @@ Here's a probably-complete collection of VICEpostbot's posts dating from its mos
 [Facebook - Bot Appreciation Society]: https://facebook.com/groups/botappreciationsociety
 [Facebook - THE BIG LIST OF BOTS]: https://facebook.com/notes/the-bot-appreciation-society/the-big-list-of-bots/339738963302580
 [Facebook - VICEpostbot]: https://facebook.com/vicepostbot
+[Livestreamfails - uselessduckcompany]: https://livestreamfails.com/search?q=uselessduckcompany
 [Lumen Database]: https://lumendatabase.org
 [Mastodon - joinmastodon.org]: https://joinmastodon.org
 [Mastodon - botsin.space]: https://botsin.space
+[Programmable Web - API Directory]: https://programmableweb.com/category/all/apis
+[Programmable Web - API News]: https://programmableweb.com/category/all/news
 [Twitter - VICEpostbot]: https://twitter.com/vicepostbot
+[YouTube - Useless Duck Company]: https://youtube.com/c/uselessduckcompany
