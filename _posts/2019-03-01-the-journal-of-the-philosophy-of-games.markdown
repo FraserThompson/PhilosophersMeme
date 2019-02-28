@@ -7,9 +7,13 @@ tags:
 - philosophy
 - news
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: 'The journal discusses the "general nature of games and gameplay and about
   their interrelation with technology, art, communication and social interaction...
   in contemporary culture and society". '
