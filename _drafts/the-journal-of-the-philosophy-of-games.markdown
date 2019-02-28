@@ -7,9 +7,9 @@ tags:
 - philosophy
 - news
 author:
-  display_name: Seong-Young Her
-  first_name: Seong-Young
-  last_name: Her
+  display_name:
+  - Jeremy Cahill
+  - Seong-Young Her
 excerpt: 'The journal discusses the "general nature of games and gameplay and about
   their interrelation with technology, art, communication and social interaction...
   in contemporary culture and society". '
