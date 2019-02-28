@@ -7,6 +7,10 @@ tags:
 - computational creativity
 - memes
 - social media
+author:
+  display_name: Jeremy Cahill
+  first_name: Jeremy
+  last_name: Cahill
 ---
 
 ## Background
