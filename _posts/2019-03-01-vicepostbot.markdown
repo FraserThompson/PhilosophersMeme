@@ -49,8 +49,9 @@ If you work for vice, quit
 7. **Disclose legal threats to the community!** In most jurisdictions, this cannot be used against you, and is a time-proven tactic to fight draconian takedown requests (see: [Lumen Database], previously known as *Chilling Effects*).
 8. **Follow major API and platform moderation news.** In most cases, you only need to be aware of major breaking changes. Resources like Programmable Web's [API Directory][Programmable Web - API Directory] and [API News][Programmable Web - API News] are a good bet.
 9. **Use smarter filters.** Many bot admins duplicate the same work again and again in trying to wrangle undesirable audience interactions, for instance. Naive strategies will only net you more work in the long-run. One example: even a baisc phonetic filter will work much harder for you an incredibly extensive text blacklist alone. For a practical walkthrough, see [Useless Duck Company][YouTube - Useless Duck Company]'s Talking Banana on [LivestreamFails][Livestreamfails - uselessduckcompany] and their solution presented in the video below.
-<iframe width="640" height="480" src="https://www.youtube.com/embed/bJ5ppf0po3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 10. **Ask for help.** You may be surprised to find that web archivists are often perfectly willing to assist you in preserving at-risk content. The Philosopher's Meme can aid you directly and point you in the direction of resources.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/bJ5ppf0po3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## VICEpostbot Content
 
