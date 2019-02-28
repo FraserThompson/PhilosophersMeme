@@ -18,6 +18,8 @@ banner: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
 fbpreview: "/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png"
 ---
 
+![2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png](/uploads/2019-02-28_thephilosophersmeme-vicepostbot-vice-x-zucc.png)
+
 ## Background
 
 VICEpostbot was a satiral title-writing bot noted for its hyperrealism and community claims of takedown pressure from VICE itself. Here we provide a backlog of VICEpostbot's content since around the time of its first relaunch, along with some tips for bot admins to manage takedown risk.
