@@ -22,6 +22,7 @@ banner: "/uploads/pageHeaderTitleImage_en_US.png"
 fbpreview: "/uploads/pageHeaderTitleImage_en_US.png"
 ---
 
+![pageHeaderTitleImage_en_US.png](/uploads/pageHeaderTitleImage_en_US.png)
 The Journal of the Philosophy of Games (JPG) is a new open-access journal of philosophy about the study of games, hosted by the University of Oslo, Norway. The journal discusses the "general nature of games and gameplay and about their interrelation with technology, art, communication and social interaction... in contemporary culture and society". 
 
 I think that games are the most promising, most important artistic medium that exists right now, so this new journal is very exciting to me. JPG is off to a good start with this ragefuel about [The Incompatibility of Games and Artworks](https://www.journals.uio.no/index.php/JPG/article/view/2736). Rough argues that a game cannot be an artwork and vice versa, because the creator's intention for a thing to be a game or an artwork is an "essential constitutive conditions of the object", which means something cannot be both a game and an artwork at the same time. Sure to generate some heated discussion. For more information, see the article abstracts below.
