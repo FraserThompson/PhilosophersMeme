@@ -587,6 +587,10 @@ Here's a probably-complete collection of VICEpostbot's posts dating from its mos
 	<figcaption></figcaption>
 </figure>
 
-
-[Twitter - VICEpostbot]: https://twitter.com/vicepostbot
+[Facebook - Bot Appreciation Society]: https://facebook.com/groups/botappreciationsociety
+[Facebook - THE BIG LIST OF BOTS]: https://facebook.com/notes/the-bot-appreciation-society/the-big-list-of-bots/339738963302580
 [Facebook - VICEpostbot]: https://facebook.com/vicepostbot
+[Lumen Database]: https://lumendatabase.org
+[Mastodon - joinmastodon.org]: https://joinmastodon.org
+[Mastodon - botsin.space]: https://botsin.space
+[Twitter - VICEpostbot]: https://twitter.com/vicepostbot
