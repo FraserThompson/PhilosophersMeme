@@ -17,8 +17,8 @@ author:
   login: username
   email: email@wherever.com
   display_name:
-  - Seong-Young Her
   - Jeremy Cahill
+  - Seong-Young Her
   first_name: Philosopher
   last_name: Of The Meme
 excerpt: Throughout the history of art, forgery was used as a technology for making
