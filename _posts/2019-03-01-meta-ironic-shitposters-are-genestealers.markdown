@@ -9,13 +9,17 @@ tags:
 - memes
 - Doge
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: Meta-ironic shitposters are basically genestealers.
 image: "/uploads/genestealers_doge_square.png"
-banner: "/uploads/genestealers_doge.png"
-fbpreview: "/uploads/genestealers_doge_square.png"
+banner: http://thephilosophersmeme.com/uploads/uploads/genestealers_doge_square.png
+fbpreview: http://thephilosophersmeme.com/uploads/uploads/genestealers_doge_square.png
 ---
 
 Meta-ironic shitposters are basically genestealers.
