@@ -16,6 +16,8 @@ excerpt: "'The History of Philosophy summarized & visualized' by Deniz Cem Öndu
   It doesn't just link names or sprawl into an unusable ball of connections. Instead,
   it lists representative arguments made by each of the philosophers and links them
   by their relationship with other arguments."
+image: "/uploads/hopv_thumb.jpg"
+fbpreview: "/uploads/hopv_thumb.jpg"
 ---
 
 Link to the resource being discussed: [https://www.denizcemonduygu.com/philo/browse/](https://www.denizcemonduygu.com/philo/browse/)
