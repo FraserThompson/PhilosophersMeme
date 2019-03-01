@@ -17,9 +17,9 @@ author:
 excerpt: 'The journal discusses the "general nature of games and gameplay and about
   their interrelation with technology, art, communication and social interaction...
   in contemporary culture and society". '
-image: "/uploads/pageHeaderTitleImage_en_US.png"
-banner: http://thephilosophersmeme.com/uploads/pageHeaderTitleImage_en_US.png
-fbpreview: http://thephilosophersmeme.com/uploads/pageHeaderTitleImage_en_US.png
+image: "/uploads/jpg.png"
+banner: http://thephilosophersmeme.com/uploads/jpg.png
+fbpreview: http://thephilosophersmeme.com/uploads/jpg.png
 ---
 
 ![pageHeaderTitleImage_en_US.png](/uploads/pageHeaderTitleImage_en_US.png)
