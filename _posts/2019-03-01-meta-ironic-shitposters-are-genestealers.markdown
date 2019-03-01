@@ -18,8 +18,8 @@ author:
   last_name: Of The Meme
 excerpt: Meta-ironic shitposters are basically genestealers.
 image: "/uploads/genestealers_doge.png"
-banner: http://thephilosophersmeme.com/uploads/genestealers_doge.png
-fbpreview: http://thephilosophersmeme.com/uploads/genestealers_doge.png
+banner: http://thephilosophersmeme.com/uploads/genestealers_doge_square.png
+fbpreview: http://thephilosophersmeme.com/uploads/genestealers_doge_square.png
 ---
 
 Meta-ironic shitposters are basically genestealers.
