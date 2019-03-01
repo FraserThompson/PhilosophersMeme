@@ -1,6 +1,7 @@
 ---
 title: Meta-Ironic Shitposters Are Genestealers
 date: 2019-03-01 12:51:00 +13:00
+excerpt: Meta-ironic shitposters are basically genestealers.
 ---
 
 Meta-ironic shitposters are basically genestealers.
