@@ -11,9 +11,9 @@ tags:
 - event
 author:
   email: seongyher@gmail.com
-  display_name: Seong-Young Her
-  first_name: Seong-Young
-  last_name: Her
+  display_name:
+  - Jeremy Cahill
+  - Seong-Young Her
 excerpt: For this week's event, we watched a few episodes from North Korea's first
   animated series, 'Squirrel and Hedgehog'. It's hugely popular in North Korea; 'Squirrel
   and Hedgehog' originally ran from 1977 to 2005, but resumed production in 2006 due
