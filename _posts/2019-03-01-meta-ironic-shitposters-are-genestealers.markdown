@@ -1,6 +1,13 @@
 ---
 title: Meta-Ironic Shitposters Are Genestealers
 date: 2019-03-01 12:51:00 +13:00
+tags:
+- Warhammer 40k
+- games
+- irony
+- meta-irony
+- memes
+- Doge
 author:
   display_name:
   - Jeremy Cahill
