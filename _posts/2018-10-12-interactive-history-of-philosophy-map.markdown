@@ -8,14 +8,16 @@ tags:
 - resource
 author:
   email: seongyher@gmail.com
-  display_name: Seong-Young Her
-  first_name: Seong-Young
-  last_name: Her
+  display_name:
+  - Jeremy Cahill
+  - Seong-Young Her
 excerpt: "'The History of Philosophy summarized & visualized' by Deniz Cem Önduygu,
   Hüseyin Kuşçu and Eser Aygün is the best interactive map of its kind I've seen.
   It doesn't just link names or sprawl into an unusable ball of connections. Instead,
   it lists representative arguments made by each of the philosophers and links them
   by their relationship with other arguments."
+image: "/uploads/hopv_thumb.jpg"
+fbpreview: "/uploads/hopv_thumb.jpg"
 ---
 
 Link to the resource being discussed: [https://www.denizcemonduygu.com/philo/browse/](https://www.denizcemonduygu.com/philo/browse/)
