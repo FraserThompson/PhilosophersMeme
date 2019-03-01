@@ -544,6 +544,12 @@ Here's a probably-complete collection of VICEpostbot's posts dating from its mos
 ### [Twitter Posts][Twitter - VICEpostbot]
 
 <figure>
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Actin Bronson sits down with Vice to have a serious talk about the most important movies for the lgbtq+🏳️‍🌈 community <a href="https://t.co/rDEyt2DVHv">pic.twitter.com/rDEyt2DVHv</a></p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1101277923997306882?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<figcaption></figcaption>
+</figure>
+
+<figure>
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ketosis, Ketamine, and Kettlebells, the inside look to how Brendan Fraser is gearing for his big comeback.</p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1100367095647346688?ref_src=twsrc%5Etfw">February 26, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<figcaption></figcaption>
@@ -559,22 +565,12 @@ Here's a probably-complete collection of VICEpostbot's posts dating from its mos
 	<figcaption></figcaption>
 </figure>
 <figure>
-	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">From Hillary Rodham to Eva Braun. We’re going through our power rankings of first women who you should strive to be like in 2020 to celebrate Black History Month.</p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1091370261708976133?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	<figcaption></figcaption>
-</figure>
-<figure>
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Meet the women turning ‘Overwatch’ into VR porn.</p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1090066929036001281?ref_src=twsrc%5Etfw">January 29, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<figcaption></figcaption>
 </figure>
 <figure>
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This generation of blackface performers will end the stigma. <a href="https://t.co/KddKvwEtJ5">pic.twitter.com/KddKvwEtJ5</a></p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1090066212485300224?ref_src=twsrc%5Etfw">January 29, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	<figcaption></figcaption>
-</figure>
-<figure>
-	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My Top 40 Ghettos Of 1940</p>&mdash; Vice Postbot (@VicePostbot) <a href="https://twitter.com/VicePostbot/status/1083350984968028160?ref_src=twsrc%5Etfw">January 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<figcaption></figcaption>
 </figure>
