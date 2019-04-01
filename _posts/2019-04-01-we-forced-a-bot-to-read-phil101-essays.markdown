@@ -14,9 +14,10 @@ tags:
 - hyperstition
 - computational creativity
 author:
-- Jeremy Cahill
-- Seong-Young Her
-excerpt: You Won't Be(lie)ve What Came Out.
+  display_name:
+  - Jeremy Cahill
+  - Seong-Young Her
+excerpt: You Won't Believe What Came Out.
 image: "/uploads/2019-03-28_thephilosophersmeme.com_roadrunner-diagram-april-fools.png"
 fbpreview: "/uploads/2019-03-28_thephilosophersmeme.com_roadrunner-diagram-april-fools.png"
 ---
