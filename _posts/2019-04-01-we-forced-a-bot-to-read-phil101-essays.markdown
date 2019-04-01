@@ -14,12 +14,16 @@ tags:
 - hyperstition
 - computational creativity
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
-excerpt: You Won't Believe What Came Out.
+  first_name: Philosopher
+  last_name: Of The Meme
+excerpt: You Won't Be(lie)ve What Came Out.
 image: "/uploads/2019-03-28_thephilosophersmeme.com_roadrunner-diagram-april-fools.png"
-fbpreview: "/uploads/2019-03-28_thephilosophersmeme.com_roadrunner-diagram-april-fools.png"
+fbpreview: "/uploads/2019-03-28_thephilosophersmeme.com_roadrunner-diagram-april-fools-crop.png"
 ---
 
 Here at The Philosopher's Meme, we appreciate the educational value of peer support. To help our students understand the course material, we turned to science.
