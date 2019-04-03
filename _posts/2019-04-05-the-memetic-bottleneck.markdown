@@ -1,11 +1,27 @@
 ---
 title: The Memetic Bottleneck
-date: 2019-04-04 11:58:00 +13:00
-published: false
+date: 2019-04-05 06:00:00 +13:00
+tags:
+- aesthetics
+- philosophy
+- pop art
+- anime
+- comics
+- irony
+- memes
+- post-irony
+- games
+- linguistics
+- ludology
+- memetics
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: A much better way of understanding memes is as objects with embodied rules,
   like games...  every meme is both a potential bottleneck and a possible choice.
 ---
@@ -60,7 +76,6 @@ For example, consider recursive comics which force some panels to function as bo
 	<img src="/uploads/2019-04-03_thephilosophersmeme.com_meanwhile-grid.jpg">
 	<figcaption><a href="http://www.shigabooks.com/">Jason Shiga</a>'s interactive comic <a href="https://zarfhome.com/meanwhile/">MEANWHILE</a> is played as much as it is read. "MEANWHILE began as a series of seven increasingly complex flowcharts. Once the outline of the story was structured, a computer algorithm determined the most efficient way to transfer it to book form, using a system of tabs to interlink the panels and pages. The problem proved to be NP-complete; it was finally cracked in spring of 2000, with the aid of a V-opt heuristic algorithm which ran for twelve hours on an SGI machine."</figcaption>
 </figure>
-
 
 Memes are just like comics when understood this way. Most commonly, they are presented as a single image in a single post. They are viewed on their own discrete (web)page, and the pretense of preceding pages and *panels* that contextualise the actual image currently being read is essential to the understanding of any given meme. Most interestingly, this is the case even when no previous *panels* exist for a particular image. For example, many postironic memes use the general style of ironic memes in order to present a stand-alone message, and often do not even reference other memes or memetic imagery in order to do so. This means that they are merely designed to look as though there were previous panels leading up to them, which would allow for a fuller understanding of their meaning. This kind of *implied memelore* frequently inspires people to retroactively write in the meme's backstory.
 
