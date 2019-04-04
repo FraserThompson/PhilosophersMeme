@@ -164,7 +164,7 @@ But not only are narratives experienced in linear time, they are always contextu
 Note that traditional branching narratives are different from non-linear sequential narratives. A non-linear sequential narrative is what happens when the player reloads a save file. The player's choice of save files is about what can or can't happen next in the game as the consequence. Inherent in this choice is the choice of what has happened in the game up to the savepoint. The choice of which save file to load is the choice of what has happened in the past, for the purpose of making certain choices possible in the future.
 
 <figure>
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-bottleneck.png">
+	<img src="/uploads/2019-04-04_thephilosophersmeme.com_catgirl-bottleneck-02.png">
 	<figcaption>The Catgirl Bottleneck, as told by margin scribbles.</figcaption>
 </figure>
 
