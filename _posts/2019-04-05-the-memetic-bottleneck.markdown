@@ -47,13 +47,17 @@ figcaption {
   justify-content: center;
 }
 
-.carousel .carousel-cell {
+.carousel.is-fullscreen .carousel-cell {
   height: 100%;
 }
 
 .carousel-cell img {
   display: block;
   max-height: 100%;
+}
+
+.slideshow {
+  display: block;
 }
 </style>
 
