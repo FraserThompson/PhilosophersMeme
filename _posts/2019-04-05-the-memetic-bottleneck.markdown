@@ -116,7 +116,7 @@ Since memetic images change meaning and function throughout time, they can't be 
 Memes as characterised above are a form of what we call *non-linear sequential art*. Other examples of non-linear sequential art include any replayable games with non-linear narratives. This characterization as *non-linear* holds despite what skeptics may say. <a href="https://www.amyeclaussen.com/">Amy Claussen</a>, for instance, challenges the existence of non-linear narrative in her GDC talk called <a href="https://www.youtube.com/watch?v=GWmEu7Yqrb0">"Unpopular Opinion: All Narrative is Linear"</a>.
 
 <figure>
-	<iframe padding-left="10%" width="560" height="315" src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" style="padding-left=10%" src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>There's a reason this opinion is unpopular.</figcaption>
 </figure>
 
