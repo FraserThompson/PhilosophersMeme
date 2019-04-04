@@ -29,7 +29,7 @@ excerpt: A much better way of understanding memes is as objects with embodied ru
 <style type="text/css">
 figure {
   display: inline-block;
-  text-align: center;
+  text-align: justify;
 }
 </style>
 
