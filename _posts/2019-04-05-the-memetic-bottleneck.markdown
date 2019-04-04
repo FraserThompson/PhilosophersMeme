@@ -38,6 +38,23 @@ figure {
 figcaption {
   padding: 0 10% 0 10%;
 }
+
+.carousel-cell {
+  width: 100%;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.carousel-cell img {
+  display: block;
+  max-height: 100%;
+}
 </style>
 
 ## I. Simplifying Memes for Impact
