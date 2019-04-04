@@ -35,11 +35,11 @@ figure {
 figcaption {
   padding: 0 10% 0 10%;
 }
-</style>
 
 iframe {
   padding: 0 10% 0 0;
 }
+</style>
 
 ## I. Simplifying Memes for Impact
 
