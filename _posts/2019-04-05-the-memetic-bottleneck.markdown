@@ -26,6 +26,9 @@ excerpt: A much better way of understanding memes is as objects with embodied ru
   like games...  every meme is both a potential bottleneck and a possible choice.
 ---
 
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
 <style type="text/css">
 figure {
   display: inline-block;
@@ -34,10 +37,6 @@ figure {
 
 figcaption {
   padding: 0 10% 0 10%;
-}
-
-iframe {
-  padding: 0 10% 0 0;
 }
 </style>
 
@@ -52,12 +51,25 @@ One of our favourite techniques whenever we make a meme, take a screenshot, or e
 Here are some examples.
 
 <figure>
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
-	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
-	<figcaption>Catgirl variants. The catgirl in question is <a href="https://k-on.fandom.com/wiki/Azusa_Nakano">Azusa Nakano.</a></figcaption>
+  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "cellAlign":"center", "imagesLoaded":"true", "wrapAround":"true" }'>
+    <div class="carousel-cell">
+      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
+    </div>
+    <div class="carousel-cell">
+      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
+    </div>
+    <div class="carousel-cell">
+      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
+    </div>
+    <div class="carousel-cell">
+      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
+    </div>
+    <div class="carousel-cell">
+      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
+    </div>
+  </div>
+  <figcaption>Catgirl variants. The catgirl in question is <a href="https://k-on.fandom.com/wiki/Azusa_Nakano">Azusa Nakano.</a>
+  </figcaption>
 </figure>
 
 The other images begin with an elaboration, but the first image doesn't. It doesn't even have text except for "!!?", which means the viewer doesn't have to worry about reading the meme. The punctuation marks have the added benefit of being international. We strongly prefer the first image over the rest. We already know the trope of <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/CatGirl">catgirls</a> and <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AnimalEaredHeadband">cat ear headbands</a>, and so we can understand the subversion of that trope without elaboration. If someone didn't know the trope, they would either take longer to infer the joke from context or simply not understand the image. They might misinterpret the message as suggesting that catgirls without human ears should wear prosthetics.
