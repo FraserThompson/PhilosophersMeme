@@ -72,7 +72,7 @@ One of our favourite techniques whenever we make a meme, take a screenshot, or e
 Here are some examples.
 
 <figure>
-  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "cellAlign":"center", "imagesLoaded":"true", "wrapAround":"true" }'>
+  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "imagesLoaded":"true", "wrapAround":"true" }'>
     <div class="carousel-cell">
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
     </div>
