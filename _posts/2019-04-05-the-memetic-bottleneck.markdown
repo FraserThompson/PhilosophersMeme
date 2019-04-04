@@ -70,19 +70,19 @@ Here are some examples.
 <figure>
   <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "cellAlign":"center", "imagesLoaded":"true", "wrapAround":"true" }'>
     <div class="carousel-cell">
-      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
+      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
     </div>
     <div class="carousel-cell">
-      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
+      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
     </div>
     <div class="carousel-cell">
       <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
     </div>
     <div class="carousel-cell">
-      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
+      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
     </div>
     <div class="carousel-cell">
-      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
+      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
     </div>
   </div>
   <figcaption>Catgirl variants. The catgirl in question is <a href="https://k-on.fandom.com/wiki/Azusa_Nakano">Azusa Nakano.</a>
