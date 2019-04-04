@@ -36,7 +36,7 @@ figure {
 }
 
 figcaption {
-  padding: 10% 10% 0 10%;
+  padding: 20px 10% 0 10%;
 }
 
 .carousel-cell {
