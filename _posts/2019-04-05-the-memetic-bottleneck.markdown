@@ -47,7 +47,7 @@ figcaption {
   justify-content: center;
 }
 
-.carousel.is-fullscreen .carousel-cell {
+.carousel .carousel-cell {
   height: 100%;
 }
 
