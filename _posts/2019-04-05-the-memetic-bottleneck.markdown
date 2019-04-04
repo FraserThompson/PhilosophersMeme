@@ -22,8 +22,15 @@ author:
   - Seong-Young Her
   first_name: Philosopher
   last_name: Of The Meme
-excerpt: A much better way of understanding memes is as objects with embodied rules,
-  like games...  every meme is both a potential bottleneck and a possible choice.
+excerpt: 'Like a panel in a highly networked version of the Infinite Canvas, every
+  meme is both a potential bottleneck and a possible choice. Since the sense that
+  every meme has a preceding meme is essential to the appreciation of memes, the memetic
+  bottleneck works in the inverse direction of the narrative bottleneck, generating
+  potential pasts. To choose a meme to post is to choose which game to play with the
+  audience. More significantly, it is to choose which save file to load up: it''s
+  scenario editing of history, conditioned on current mood.'
+image: "/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png"
+fbpreview: "/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png"
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
@@ -76,7 +83,7 @@ One of our favourite techniques whenever we make a meme, take a screenshot, or e
 Here are some examples.
 
 <figure class="slideshow">
-  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "imagesLoaded":"true", "wrapAround":"true"}'>
+  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "imagesLoaded":"true"}'>
     <div class="carousel-cell">
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
     </div>
@@ -164,7 +171,7 @@ But not only are narratives experienced in linear time, they are always contextu
 Note that traditional branching narratives are different from non-linear sequential narratives. A non-linear sequential narrative is what happens when the player reloads a save file. The player's choice of save files is about what can or can't happen next in the game as the consequence. Inherent in this choice is the choice of what has happened in the game up to the savepoint. The choice of which save file to load is the choice of what has happened in the past, for the purpose of making certain choices possible in the future.
 
 <figure>
-	<img src="/uploads/2019-04-04_thephilosophersmeme.com_catgirl-bottleneck-02.png">
+	<img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-bottleneck.png">
 	<figcaption>The Catgirl Bottleneck, as told by margin scribbles.</figcaption>
 </figure>
 
