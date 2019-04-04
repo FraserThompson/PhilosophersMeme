@@ -58,6 +58,7 @@ figcaption {
 
 .slideshow {
   display: block;
+  padding-left: 10%;
 }
 
 .slideshow-caption {
