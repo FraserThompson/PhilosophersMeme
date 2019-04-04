@@ -84,7 +84,7 @@ Here are some examples.
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
     </div>
     <div class="carousel-cell">
-      <img src="http://thephilosophersmeme.com/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
+      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
     </div>
     <div class="carousel-cell">
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
