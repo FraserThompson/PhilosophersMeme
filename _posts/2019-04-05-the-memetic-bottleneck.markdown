@@ -33,7 +33,7 @@ figure {
 }
 
 figcaption {
-  padding-left: 10%;
+  padding: 0 10% 0 10%;
 }
 </style>
 
