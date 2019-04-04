@@ -26,6 +26,13 @@ excerpt: A much better way of understanding memes is as objects with embodied ru
   like games...  every meme is both a potential bottleneck and a possible choice.
 ---
 
+<style type="text/css">
+figure {
+  display: inline-block;
+  text-align: center;
+}
+</style>
+
 ## I. Simplifying Memes for Impact
 
 One of our favourite techniques whenever we make a meme, take a screenshot, or edit anything else we make, is simplification. Simplification in these contexts usually means reducing redundancy and the number of steps required to get the intended meaning across. With memes, this usually means:
