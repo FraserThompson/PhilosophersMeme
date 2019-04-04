@@ -94,7 +94,7 @@ Here are some examples.
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
     </div>
     <div class="carousel-cell">
-      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-04.png">
+      <img src="2019-04-05 12_31_47-catgirl meme - Google Search.png">
     </div>
     <div class="carousel-cell">
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
@@ -117,7 +117,7 @@ If the information is new to the viewer, introducing it as the set-up would slow
 
 ## II. Memeing and Time
 
-Most of these images are unambiguous instances of a two-panel comic. One or two of them are likely to be classified as memes rather than comics. We think that comics are the closest established medium to Internet memes, and examples of comic panels being used as memes fit comfortably with this hypothesis.
+Most of these images are unambiguous instances of a two-panel comic. Two or three of them are likely to be classified as memes rather than comics. We think that comics are the closest established medium to Internet memes, and examples of comic panels being used as memes fit comfortably with this hypothesis.
 
 Comic artist <a href="http://www.willeisner.com/">Will Eisner</a> defines comics as a subgroup of sequential art: images ordered in a particular way to convey a narrative. Images in a sequence express the flow of time because they necessarily facilitate the synchronous flow of time for the reader. Time flows while the reader moves from one panel to the next. While panels can't straightforwardly be considered units of narratological time without problems, they are useful to think of as some segment of time.
 
