@@ -116,8 +116,8 @@ Since memetic images change meaning and function throughout time, they can't be 
 Memes as characterised above are a form of what we call *non-linear sequential art*. Other examples of non-linear sequential art include any replayable games with non-linear narratives. This characterization as *non-linear* holds despite what skeptics may say. <a href="https://www.amyeclaussen.com/">Amy Claussen</a>, for instance, challenges the existence of non-linear narrative in her GDC talk called <a href="https://www.youtube.com/watch?v=GWmEu7Yqrb0">"Unpopular Opinion: All Narrative is Linear"</a>.
 
 <figure>
-	<iframe width="560" height="315" style="padding-left=10%" src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	<figcaption>There's a reason this opinion is unpopular.</figcaption>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<figcaption style="padding: 0 0 0 0">There's a reason this opinion is unpopular.</figcaption>
 </figure>
 
 A game player can go down one particular narrative pathway or another, making choices that sometimes constrain their future choices. This is called a branching narrative. As Claussen unhelpfully points out, each branch of a narrative is linear because it presents one scene after the next. Humans experience time in a linear way, with one thing happening after another. Therefore, she argues, all narrative is linear.
