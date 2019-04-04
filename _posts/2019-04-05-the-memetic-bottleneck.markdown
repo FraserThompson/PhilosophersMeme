@@ -31,6 +31,10 @@ figure {
   display: inline-block;
   text-align: justify;
 }
+
+figcaption {
+  padding-left: 10%;
+}
 </style>
 
 ## I. Simplifying Memes for Impact
