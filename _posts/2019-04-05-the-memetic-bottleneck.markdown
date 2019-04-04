@@ -37,6 +37,10 @@ figcaption {
 }
 </style>
 
+iframe {
+  padding: 0 10% 0 0;
+}
+
 ## I. Simplifying Memes for Impact
 
 One of our favourite techniques whenever we make a meme, take a screenshot, or edit anything else we make, is simplification. Simplification in these contexts usually means reducing redundancy and the number of steps required to get the intended meaning across. With memes, this usually means:
@@ -112,7 +116,7 @@ Since memetic images change meaning and function throughout time, they can't be 
 Memes as characterised above are a form of what we call *non-linear sequential art*. Other examples of non-linear sequential art include any replayable games with non-linear narratives. This characterization as *non-linear* holds despite what skeptics may say. <a href="https://www.amyeclaussen.com/">Amy Claussen</a>, for instance, challenges the existence of non-linear narrative in her GDC talk called <a href="https://www.youtube.com/watch?v=GWmEu7Yqrb0">"Unpopular Opinion: All Narrative is Linear"</a>.
 
 <figure>
-	<iframe src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/GWmEu7Yqrb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<figcaption>There's a reason this opinion is unpopular.</figcaption>
 </figure>
 
