@@ -59,6 +59,10 @@ figcaption {
 .slideshow {
   display: block;
 }
+
+.slideshow-caption {
+  padding: 5% 10% 0 10%;
+}
 </style>
 
 ## I. Simplifying Memes for Impact
@@ -89,7 +93,7 @@ Here are some examples.
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
     </div>
   </div>
-  <figcaption>Catgirl variants. The catgirl in question is <a href="https://k-on.fandom.com/wiki/Azusa_Nakano">Azusa Nakano.</a>
+  <figcaption class="slideshow-caption">Catgirl variants. The catgirl in question is <a href="https://k-on.fandom.com/wiki/Azusa_Nakano">Azusa Nakano.</a>
   </figcaption>
 </figure>
 
