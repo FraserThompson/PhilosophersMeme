@@ -94,7 +94,7 @@ Here are some examples.
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
     </div>
     <div class="carousel-cell">
-      <img src="2019-04-05 12_31_47-catgirl meme - Google Search.png">
+      <img src="/uploads/2019-04-05 12_31_47-catgirl meme - Google Search.png">
     </div>
     <div class="carousel-cell">
       <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
