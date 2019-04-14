@@ -38,4 +38,4 @@ More:
   <li><a href="/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf">PDF</a></li>
 </ul>
 
-<embed style="width:100%" src="https://thephilosophersmeme.com/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf" type="application/pdf" />
+<embed style="width:100%;min-height:500px" src="https://thephilosophersmeme.com/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf" type="application/pdf" />
