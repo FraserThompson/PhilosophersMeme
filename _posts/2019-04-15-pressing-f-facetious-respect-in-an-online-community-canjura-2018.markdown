@@ -10,9 +10,13 @@ tags:
 - irony
 - post-irony
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: 'Julian Canjura, creator of the linguistics-themed meme group Linguistics
   [''ʃɪt̚.,pʰʌ̈̈ʊ̈̈.stɪ̃̃ŋ], has written a sociolinguistics squib titled Pressing
   F: Facetious Respect in an Online Community.'
@@ -34,4 +38,4 @@ More:
   <li><a href="/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf">PDF</a></li>
 </ul>
 
-<embed src="https://thephilosophersmeme.com/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf" type="application/pdf" />
+<embed style="width:100%" src="https://thephilosophersmeme.com/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf" type="application/pdf" />
