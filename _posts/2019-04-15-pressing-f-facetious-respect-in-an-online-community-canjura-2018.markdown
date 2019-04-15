@@ -35,7 +35,4 @@ More:
 
 <ul>
   <li><a href="https://www.facebook.com/groups/1077001935778165/permalink/1623551057789914/">Thread in Linguistics ['ʃɪt̚.,pʰʌ̈̈ʊ̈̈.stɪ̃̃ŋ]</a> (closed group - join to view)</li>
-  <li><a href="/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf">PDF</a></li>
 </ul>
-
-<embed style="width:100%;min-height:500px" src="https://thephilosophersmeme.com/uploads/Canjura2018_Pressing-F_Facetious-Respect-in-an-Online-Community.pdf" type="application/pdf" />
