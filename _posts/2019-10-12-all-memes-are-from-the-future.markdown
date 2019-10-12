@@ -11,6 +11,7 @@ author:
   last_name: Her
 excerpt: 'All memes are from the future: the literate memer anticipates that the meme
   will spread and change in meaning depending on where it gets reposted.'
+image: "/uploads/000000000.jpeg"
 ---
 
 With our [open call](http://https://megalith.metamerlabs.io/call) for MEGALITH, we're accepting both conventional and memetic art. We've received a few memetic art submissions already. Looking at memes these days, I'm surprised by how natural memetic art feels, not only as artworks but as memes. It was only three or four years ago when memes with artistic merit or polish were treated as effortporn by most viewers. They would frequently go viral because "high definition" versions of memes were a bit of novelty, since fewer artists were interested in memes at the time.
