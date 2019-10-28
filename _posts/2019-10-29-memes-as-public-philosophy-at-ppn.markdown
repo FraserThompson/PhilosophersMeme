@@ -21,4 +21,4 @@ Admins of [Trolley Problem Memes](https://www.facebook.com/TrolleyProblemMemes/)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLRVI3A8gX3Jw6Mg2oBrrQW-o1-W08P7iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More workshop available in the Trolley Problem Memes [facebook post](https://facebook.com/TrolleyProblemMemes/posts/1006038029745122).
+More information available in the Trolley Problem Memes [facebook post](https://facebook.com/TrolleyProblemMemes/posts/1006038029745122).
