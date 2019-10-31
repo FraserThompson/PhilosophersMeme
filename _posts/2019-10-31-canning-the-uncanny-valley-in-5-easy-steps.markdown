@@ -172,11 +172,28 @@ Express dissenting opinions about a top kpop group.
 
 For more inspo to guide your zany exploits, peruse the works of bighead builders of yore. Engage the grand tradition.
 
-<figure>
-	<img src="/dummy.png">
-	<figcaption>Here lies the bighead and baby mask etc gallery</figcaption>
+<figure class="slideshow">
+	<div class="carousel" data-flickity='{ "adaptiveHeight":"true", "imagesLoaded":"true"}'>
+	<div class="carousel-cell">
+			<a	data-flickr-embed="true" data-footer="true"
+				href="https://www.flickr.com/photos/30601564@N04/6573810235/in/album-72157628469225757/"
+				title="Big Head mode hit Pavilion">
+				<img src="https://live.staticflickr.com/7027/6573810235_854c85cd34_o.jpg" alt="Big Head mode hit Pavilion">
+			</a>
+		</div>
+		<div class="carousel-cell">
+			<a	data-flickr-embed="true"
+				data-footer="true"
+				href="https://www.flickr.com/photos/30601564@N04/6573810235/in/album-72157628469225757/"
+				title="Big Head mode hit Pavilion">
+				<img src="https://live.staticflickr.com/7027/6573810235_854c85cd34_o.jpg" alt="Big Head mode hit Pavilion">
+			</a>
+		</div>
+	</div>
+	<figcaption class="slideshow-caption">
+		Big Head Mode papercraft costumes
+	</figcaption>
 </figure>
-
 
 ---
 
