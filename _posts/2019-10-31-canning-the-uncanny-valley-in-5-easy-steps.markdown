@@ -88,9 +88,9 @@ Add mall ninja accessories to taste.
 
 **Face:** Use any of the standard computer vision libraries. Detect, recognize, align, project.
 
-**Voice:** For source separation, rummage through <deeplearn.org> for a state-of-the-art implementation. For synthesis, try Waveglow + Tacotron 2 and see how far that gets you. Speech synth on one sample sniped from the wild is bound to be hilariously shit half the time, so just roll with it.
+**Voice:** For source separation, rummage through [deeplearn.org][10] for a state-of-the-art implementation. For synthesis, try Waveglow + Tacotron 2 and see how far that gets you. Speech synth on one sample sniped from the wild is bound to be hilariously shit half the time, so just roll with it.
 
-If these words are alien to you, start with <deepindex.org> and a [search for the cocktail party problem][7] instead.
+If these words are alien to you, start with [deepindex.org][11] and a [search for the cocktail party problem][7] instead.
 
 **Input:** Depends entirely on what hardware you want to use and how you want to use it. One approach would be to push face-voice pairs to a stack with a macro button. Kick out the unpaired samples or pair them randomly for added uncanny valley wut-factor. Think up soundboard triggers and composition methods.
 
@@ -151,3 +151,5 @@ Express dissenting opinions about a top kpop group.
 [7]: https://google.com/search?q=cocktail+party+problem
 [8]: https://www.youtube.com/watch?v=NxXufI6-OIE
 [9]: https://blog.codinghorror.com/lazyweb-calling
+[10]: https://deeplearn.org
+[11]: https://deepindex.org
