@@ -1,6 +1,7 @@
 ---
 title: Canning The Uncanny Valley In 5 Easy™ Steps
 date: 2019-10-31 22:00:00 +13:00
+published: false
 tags:
 - aesthetics
 - Halloween
@@ -17,8 +18,8 @@ author:
 excerpt: 'Our goal with this build is simple: Slutty Uncanny Valley Cosplay. We want
   a costume that captures the uncanny both conceptually and materially. It’s Canning
   The Uncanny Valley In 5 Easy™ Steps.'
-image: "/uploads/vlcsnap-2019-10-31-15h08m49s653.png"
-fbpreview: http://thephilosophersmeme.com/uploads/vlcsnap-2019-10-31-15h08m49s653.png
+image: "/uploads/2019-10-31_thephilosophersmeme.com_wearable-face-projector.png"
+fbpreview: https://thephilosophersmeme.com/uploads/2019-10-31_thephilosophersmeme.com_wearable-face-projector.png
 ---
 
 Halloween is perhaps the most participatory holiday celebrated around the world. Almost nothing is forbidden except applying your enthusiasm. Halloween blurs the boundaries between memes, jokes, visual puns and so forth; between artisanal crafts, fine art, and haute couture; between the high-effort and the low-effort, all in one cauldron of folk culture. It is a celebration of bridging boundaries between this world and that, and that's why the monsters come out to play.
@@ -48,7 +49,7 @@ So, how do we exploit the uncanny? By sublimating it. Perform it.
 Exploiting the uncanny is like exploiting The Cringe. You have to accept that you are embodying and demonstrating cringe in order to fully express its anti-aesthetic as part of a meme or a joke. You can't do it while being afraid of occupying the worst, or perhaps most uncomfortable, part of the memetic literacy spectrum.
 
 <figure>
-	<img src="https://cdn.discordapp.com/attachments/562443537673748480/639521428705640477/74205727_2368417286754832_5812782088134328320_n.jpg">
+	<img src="https://thephilosophersmeme.com/uploads/2019-10-31_thephilosophersmeme.com_crinj.jpg">
 	<figcaption>The Cringe comes to us in many forms, as deceiver.</figcaption>
 </figure>
 
@@ -151,106 +152,3 @@ Express dissenting opinions about a top kpop group.
 [7]: https://google.com/search?q=cocktail+party+problem
 [8]: https://www.youtube.com/watch?v=NxXufI6-OIE
 [9]: https://blog.codinghorror.com/lazyweb-calling
-
-# Meta
-
-## Slideshow code
-
-<details>
-
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js">
-</script>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<style type="text/css">
-figure {
-  display: inline-block;
-  text-align: justify;
-}
-
-figcaption {
-  padding: 20px 10% 0 10%;
-}
-
-.carousel-cell {
-  width: 100%;
-  background: #f4f4f4;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.carousel.is-fullscreen .carousel-cell {
-  height: 100%;
-}
-
-.carousel-cell img {
-  display: block;
-  max-height: 100%;
-}
-
-.slideshow {
-  display: block;
-}
-
-.slideshow-caption {
-  padding: 5% 10% 0 10%;
-}
-
-</style>
-
-
-<figure class="slideshow">
-  <div class="carousel" data-flickity='{ "adaptiveHeight":"true", "imagesLoaded":"true"}'>
-    <div class="carousel-cell">
-      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-01.png">
-    </div>
-    <div class="carousel-cell">
-      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-02.png">
-    </div>
-    <div class="carousel-cell">
-      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-03.png">
-    </div>
-    <div class="carousel-cell">
-      <img src="/uploads/2019-04-05 12_31_47-catgirl meme - Google Search.png">
-    </div>
-    <div class="carousel-cell">
-      <img src="/uploads/2019-04-03_thephilosophersmeme.com_catgirl-05.png">
-    </div>
-  </div>
-  <figcaption class="slideshow-caption">Big Head Mode papercraft costumes.</a>
-  </figcaption>
-</figure>
-
-</details>
-
-## Incorporate
-
-<a data-flickr-embed="true" data-footer="true" data-context="true" href="https://www.flickr.com/photos/30601564@N04/6572972211/in/album-72157628469225757/" title="Making bighead prank phone call?"><img src="https://live.staticflickr.com/7006/6572972211_8858b88e42_o.jpg" width="950" height="633" alt="Making bighead prank phone call?"></a>
-
-http://testroete.com/index.php?location=head
-
-http://cow.mooh.org/giant-papercraft-head.html
-
-http://www.superwhite.cc/demon/diy-papercraft-big-head
-
-
-### Papercraft head meme
-
-2019-W41 WRITING - Canning The Uncanny Valley In 5 Easy™ Steps - 3d printed head fad
-
-* [3d printed head papercraft - Google Search](https://www.google.com/search?q=3d+printed+head+papercraft&sxsrf=ACYBGNT8fHYanzV6ZZeDBZY36UGJr7qtog:1570852535762&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjEyo3b6ZXlAhVyU98KHdDMDKsQ_AUIEigB&biw=819&bih=942#imgrc=_)
-* [Bighead | Flickr](https://www.flickr.com/photos/30601564@N04/albums/72157628469225757)
-* [Well I was all out inspiration for todays... so I walk in … | Flickr](https://www.flickr.com/photos/30601564@N04/6573810513/in/album-72157628469225757/)
-* [Big Head mode hit Pavilion | www.superwhite.cc/demon/big-hea… | Flickr](https://www.flickr.com/photos/30601564@N04/6573810235/in/album-72157628469225757/)
-* [Making bighead prank phone call? | www.superwhite.cc/demon/b… | Flickr](https://www.flickr.com/photos/30601564@N04/6572972211/in/album-72157628469225757/)
-* [All sizes | Making bighead prank phone call? | Flickr - Photo Sharing!](https://www.flickr.com/photos/30601564@N04/6572972211/sizes/l/)
-* [DIY papercraft big head | superwhite](http://www.superwhite.cc/demon/diy-papercraft-big-head)
-* [Google Image Result for http://archive.printeresting.org/wp-content/uploads/2009/11/testroete1.jpg](https://www.google.com/imgres?imgurl=http%3A%2F%2Farchive.printeresting.org%2Fwp-content%2Fuploads%2F2009%2F11%2Ftestroete1.jpg&imgrefurl=http%3A%2F%2Farchive.printeresting.org%2F2009%2F11%2F03%2Fpaper-head%2F&docid=788BRH0fegronM&tbnid=Iep49WA8mZ-hvM%3A&vet=1&w=500&h=370&bih=942&biw=819&ved=2ahUKEwiZ1-io6pXlAhVLU98KHeLjBeoQxiAoCXoECAEQLA&iact=c&ictx=1)
-* [Paper-Kit transforms 2D portraits into a 3D model](https://newatlas.com/paper-kit-3d-portrait/25960/)
-* [Get a 3d model from paper-kit.com online head modeler - YouTube](https://www.youtube.com/watch?v=hO2e32QoODI)
-* [Google Image Result for https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs12243-008-0077-7/MediaObjects/12243_2008_77_Fig3_HTML.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.springernature.com%2Foriginal%2Fspringer-static%2Fimage%2Fart%253A10.1007%252Fs12243-008-0077-7%2FMediaObjects%2F12243_2008_77_Fig3_HTML.gif&imgrefurl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12243-008-0077-7&docid=MMqug2YGrL5V8M&tbnid=PJIICwzqS-dylM%3A&vet=1&w=606&h=310&bih=942&biw=819&ved=2ahUKEwic5rrO6pXlAhXyYt8KHYLJCfUQxiAoBHoECAEQHw&iact=c&ictx=1)
-* [How To Make Your Own Giant Papercraft Head - Tested](https://www.tested.com/art/makers/461440-how-make-giant-papercraft-head-yourself/)
-* [Bhautik Joshi – Giant Papercraft Head](http://cow.mooh.org/giant-papercraft-head.html)
-* [Papercraft Self Portrait - Art Portfolio for Eric Testroete](http://testroete.com/index.php?location=head)
