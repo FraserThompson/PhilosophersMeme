@@ -21,6 +21,47 @@ image: "/uploads/2019-10-31_thephilosophersmeme.com_wearable-face-projector.png"
 fbpreview: https://thephilosophersmeme.com/uploads/2019-10-31_thephilosophersmeme.com_wearable-face-projector.png
 ---
 
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<style type="text/css">
+figure {
+  display: inline-block;
+  text-align: justify;
+}
+
+figcaption {
+  padding: 20px 10% 0 10%;
+}
+
+.carousel-cell {
+  width: 100%;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.carousel-cell img {
+  display: block;
+  max-height: 100%;
+}
+
+.slideshow {
+  display: block;
+}
+
+.slideshow-caption {
+  padding: 5% 10% 0 10%;
+}
+
+</style>
+
 Halloween is perhaps the most participatory holiday celebrated around the world. Almost nothing is forbidden except applying your enthusiasm. Halloween blurs the boundaries between memes, jokes, visual puns and so forth; between artisanal crafts, fine art, and haute couture; between the high-effort and the low-effort, all in one cauldron of folk culture. It is a celebration of bridging boundaries between this world and that, and that's why the monsters come out to play.
 
 Things from the places between places are scary. A well-known example is the Uncanny Valley, the place between human faces and the inhuman. 
@@ -128,6 +169,8 @@ Express dissenting opinions about a top kpop group.
 &c.
 
 ## More Ideas
+
+For more inspo to guide your zany exploits, peruse the works of bighead builders of yore. Engage the grand tradition.
 
 <figure>
 	<img src="/dummy.png">
