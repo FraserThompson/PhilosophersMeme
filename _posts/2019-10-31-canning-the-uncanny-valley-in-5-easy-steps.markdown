@@ -1,7 +1,6 @@
 ---
 title: Canning The Uncanny Valley In 5 Easy™ Steps
 date: 2019-10-31 22:00:00 +13:00
-published: false
 tags:
 - aesthetics
 - Halloween
