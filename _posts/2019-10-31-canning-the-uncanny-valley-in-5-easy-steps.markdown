@@ -60,7 +60,9 @@ Then it seems our goal with this build is simple: Slutty Uncanny Valley Cosplay.
 
 ## Step 1: Obtain tacticool hardware.
 
-We will need more than face viz to become a living meme. We also need voice and a way to control input and output. Here's our parts list.
+We will need more than face viz to become a living meme.  
+We also need voice and a way to control input and output.  
+Here's our parts list.
 
 - 3D map: wearable face projector by Jing-cai Liu ([video][1], [writeup][2])
 - Audio: mic and speaker
