@@ -1,16 +1,19 @@
 ---
 title: Canning The Uncanny Valley In 5 Easy™ Steps
 date: 2019-10-31 22:00:00 +13:00
-published: false
 tags:
 - aesthetics
 - Halloween
 - build
 - digital art
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: 'Our goal with this build is simple: Slutty Uncanny Valley Cosplay. We want
   a costume that captures the uncanny both conceptually and materially. It’s Canning
   The Uncanny Valley In 5 Easy™ Steps.'
