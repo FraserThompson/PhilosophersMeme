@@ -1,5 +1,5 @@
 ---
-title: 2010 Decade Review (Part 1)
+title: '2010 Decade Review, Part 1: The Origin of 2010''s Memecultures'
 date: 2020-01-04 11:01:00 +13:00
 tags:
 - memetics
@@ -7,9 +7,13 @@ tags:
 - history
 - post-irony
 author:
+  login: username
+  email: email@wherever.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: The importance of the 2010's to meme history was not in its novelty but its
   scale. During the 2010's, the world reached a cultural boiling point as the underground
   spilled out irreversibly into the mainstream and destroyed the boundaries between
