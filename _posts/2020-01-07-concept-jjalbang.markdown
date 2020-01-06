@@ -1,5 +1,5 @@
 ---
-title: 'Concept: Jjalbang'
+title: 'Concept: Jjalbang (짤방)'
 date: 2020-01-07 08:32:00 +13:00
 tags:
 - concept
