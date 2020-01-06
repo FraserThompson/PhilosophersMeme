@@ -27,7 +27,7 @@ The concept is founded on the notion that the basic unit of online online is the
 
 <figure>
 	<img src="https://cdn.discordapp.com/attachments/562443537673748480/663831698395627530/291.jpg">
-	<figcaption>Gaejoogi, an iconic Korean meme.</figcaption>
+	<figcaption>Gaejoogi (개죽이, Bamboo Doggy), an iconic Korean jjal from 2001.</figcaption>
 </figure>
 
 When the users began using the site for general socialisation, moderators aggressively pruned off-topic posts in order to maintain quality. Since this was a camera and photography forum, the mods usually detected off-topic posts by whether they included a photo. Users began including random images on their shitposts in order to prevent them from being detected by moderators. Eventually these images became a genre.
@@ -40,7 +40,6 @@ When the users began using the site for general socialisation, moderators aggres
 However, the jjalbang was first and foremost a material object, and by no means the same thing as a meme. The term does not refer to the genre itself as a collective in the way "meme" can. Purists among contemporary users still refuse to apply the term to anything other than image files, making exception for animated jjalbangs called oomjjal (움짤, lit. "moving jjalbang").
 
 ## RESOURCES
-Attached image: Gaejoogi (개죽이, Bamboo Doggy), a popular jjal from 2001.
-Namuwiki entry for jjalbang: https://namu.wiki/w/%EC%A7%A4%EB%B0%A9
-News article about Gaejoogi: https://news.mt.co.kr/mtview.php?no=2009042416153570569&outlink=1&ref=%3A%2F%2F
-Originally posted to [International Meme Studies](https://www.facebook.com/groups/intmeme/permalink/554498085403987/).
+- Namuwiki entry for jjalbang: https://namu.wiki/w/%EC%A7%A4%EB%B0%A9
+- News article about Gaejoogi: https://news.mt.co.kr/mtview.php?no=2009042416153570569&outlink=1&ref=%3A%2F%2F
+- The original post was made in [International Meme Studies](https://www.facebook.com/groups/intmeme/permalink/554498085403987/).
