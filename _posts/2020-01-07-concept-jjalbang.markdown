@@ -1,5 +1,5 @@
 ---
-title: 'Concept: Jjalbang (짤방), the Korean Meme'
+title: Jjalbang (짤방), the Korean Meme
 date: 2020-01-07 08:32:00 +13:00
 tags:
 - concept
