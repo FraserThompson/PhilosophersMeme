@@ -23,7 +23,7 @@ fbpreview: "/uploads/291.jpg"
 
 Jjalbang (짤방, lit. "prune prevention") is the Korean equivalent to the Internet meme.
 While "meme" typically refers to a set of content as well as the individual videos or images, jjalbang traditionally refers only to individual images, typically random and humorous in nature.
-The concept is founded on the notion that the basic unit of online online is the individual file. The practice of posting jjalbangs along with text posts was developed by users on the popular digital camera hobbyist website, [dcinside](https://www.dcinside.com/) (디씨인사이드, short for Digital Camera Inside).
+The concept is founded on the notion that the basic unit of content online is the individual file. The practice of posting jjalbangs along with text posts was developed by users on the popular digital camera hobbyist website, [dcinside](https://www.dcinside.com/) (디씨인사이드, short for Digital Camera Inside).
 
 <figure>
 	<img src="https://cdn.discordapp.com/attachments/562443537673748480/663831698395627530/291.jpg">
