@@ -28,13 +28,22 @@ Here are some examples of anti-censorship net slang currently evolving in China:
 
 ### Further Reading
 
-For more on chinese net slang, check out the [Grass-Mud Horse Lexicon][grass-mud-horse-lexicon-main], a glossary of memes, nicknames, and neologisms created by Chinese netizens and encountered in online political discussions. ([Direct link to chinese tag for this topic][grass-mud-horse-lexicon-chinese])
+For more on chinese net slang, check out the [Grass-Mud Horse Lexicon][grass-mud-horse-lexicon-main]:
+
+<figure style="max-width:50%;max-height:50%">
+    <a href="https://chinadigitaltimes.net/space/Main_Page"><img src="/uploads/Caonima.jpg"></a>
+    <figcaption>The Grass-Mud Horse Lexicon is a glossary of memes, nicknames, and neologisms created by Chinese netizens and encountered in online political discussions. (<a href="https://chinadigitaltimes.net/chinese/tag/敏感词/">Direct link to chinese tag for this topic</a>)</figcaption>
+</figure>
 
 For more on country-wide internet censorship of everyday terms, check out Citizen Lab's analysis published this week:
 
-<figure>
+<figure style="max-width:50%;max-height:50%">
     <a href="https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/">
     <img src="https://thephilosophersmeme.com/uploads/Censored-Contagion-Fig-1.png"></a>
     <figcaption> <a href="https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/">Censored Contagion: How Information on the Coronavirus is Managed on Chinese Social Media</a></figcaption>
-</figure>
+<figure style="max-width:50%;max-height:50%">
 
+
+[grass-mud-horse-lexicon-main]:    https://chinadigitaltimes.net/space/Main_Page
+[grass-mud-horse-lexicon-chinese]: https://chinadigitaltimes.net/chinese/tag/敏感词/
+[citizenlab-coronavirus]:          https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/
