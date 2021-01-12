@@ -11,6 +11,7 @@ author:
 excerpt: Some conservatives claim that the free market saved Korea from COVID-19.
   I argue that it was Korea's Confucian democracy and technological environment that
   helped them contain the pandemic, not the lack of supply side regulation.
+image: "/uploads/kleinvitzthumcoronavirus.jpg"
 ---
 
 The author of [this article](https://archive.is/8koZz) argues that Italy is doing worse than South Korea because supply side regulation caused the Italian system to decay while the lack of regulation allowed the Korean system to expand. It's an obscene argument, because it sets the dichotomy as between a free market and a regulated market, when:
@@ -42,4 +43,21 @@ Healthcare is distinct from any other type of product on the market in that the 
 
 The pandemic is all too easily spun in the service of convenient narratives that entice listeners with easy explanations. Korea and its people have always been used as an exotic exemplar in all sorts of political arguments by Westerners, which only adds to the obscenity of using them as the model minority of the world. As much as China leverages the apparent success of their strategy in support of their authoritarianism, Western conservatives are attempting to capture the success of the Korean democratic strategy in support of their own agenda. They should remember that a healthcare system that can't provide adequate, universal care under ordinary circumstances is even less likely to prevent such a crisis in the first place, let alone deal with it adequately once it occurs.
 
-(originally posted to my [Facebook wall](https://www.facebook.com/seongyher/posts/10219289607142861))
+(article originally posted to my [Facebook wall](https://www.facebook.com/seongyher/posts/10219289607142861))
+
+## Author's response
+
+This commenter fails to realize the government fixing prices and supply is just as authoritarian as China’s jackbooted cops enforcing quarantines.
+Taiwan, Singapore, and Hong Kong have not (yet?) really been hit with the virus, so there is still much up in the air as to what will happen.
+Italy’s funding cuts are just part and parcel of government run anything. “Hey, yeah, we did a terrible job, but give us more money and it will be better.” More money never fixed the problems - they are structural.
+The older population is a marginal issue, and the difference is only a few years on average. Being older can certainly cause individual cases to be worse. It does not cause a significant disparity in the spread of the disease. Besides, an older population requires more care anyway, so there should be MORE hospital beds and the like per capita as a baseline. So then we can ask why there are not.
+Korea’s cultural approach is indeed an important factor, but it’s not the cure-all that it is presented as. Japan shares much of that cultural background and is now increasingly in the situation Italy was in a few weeks ago.
+It is true that “Italy discovered their first case late”, but not *that* late, relatively speaking. Not so late as to have the situation spiral out of control before their system could even blink. Not to mention, the availability of testing is also part of the situation.
+As to Italians having same day care from primary physicians, this is sort of a half-truth. As is the claim
+that Korea has a GP
+shortage. (The truth is that GPs are nowhere near as necessary as the prevailing narrative - based mostly on insurance company policy from the 90s - leads one to believe.) The fact that Italy has a lot of GPs is rather evidence of misallocation, as most of the time people can figure out what specialist they need to see on their own.
+The commenter is also incorrect that there is an “inefficient” surplus in Korea’s healthcare system. He appears to assume that without government intervention to restrict supply, we will have “too much” healthcare available, but then also says that specialists make more money. But how can they, if there are “too many” specialists - they need patients to pay them! What is rather the case is that the rest of the world is so lacking in care availability that people don’t even realize what they are missing.
+Lastly, Hong Kong, Japan, etc. are simply not good comparisons. They have no real number of cases yet to compare between. Korea, along with China, is the only one with an S-curve trending down.
+It is also a mistake to assume that because pneumonia is more prevalent in Korea, the healthcare system is failing “despite the surplus”. The commenter makes no effort to explain why this is a problem for Korea and not for Italy, but just takes it for granted. (An obvious potential factor is that Korea has a winter, while Italy doesn’t really.)
+
+(Originally posted as a [comment](https://www.facebook.com/thephilosophersmeme/posts/2668633360036940?comment_id=2668789353354674))
