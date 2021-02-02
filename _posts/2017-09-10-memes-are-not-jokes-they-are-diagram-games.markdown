@@ -1,6 +1,8 @@
 ---
 title: Memes Are Not Jokes, They Are Diagram-Games
 date: 2017-09-10 12:00:00 +12:00
+author:
+  display_name: Seong-Young Her
 ---
 
 ![30813985_2137432463157035_8024160328314760308_o (1).jpg](/uploads/30813985_2137432463157035_8024160328314760308_o%20(1).jpg)
