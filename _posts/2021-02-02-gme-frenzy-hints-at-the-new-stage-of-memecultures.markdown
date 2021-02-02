@@ -1,6 +1,8 @@
 ---
 title: GME Frenzy Hints At the New Stage of Memecultures
 date: 2021-02-02 18:51:00 +13:00
+author:
+  display_name: Seong-Young Her
 excerpt: 'A central theme of post-2015 memecultures was the gamification of memes.
   This gave rise to Facebook memepages as well as a "meme president". Post-2020 memecultures
   now struggle with the challenge of the cope, which is an inevitable consequence
