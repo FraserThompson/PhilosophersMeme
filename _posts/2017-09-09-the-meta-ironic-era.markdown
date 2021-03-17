@@ -7,7 +7,7 @@ tags:
 - memepages
 - Facebook
 author:
-  login: Seong-Young Her
+  email: seongyher@gmail.com
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
