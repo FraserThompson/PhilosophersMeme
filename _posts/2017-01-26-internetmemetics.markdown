@@ -173,103 +173,199 @@ Evolution occurs on multiple dimensions. We do not expect to explain it all thro
 
 # Bibliography
 Alvarez, A. (2004). Memetics: An evolutionary theory of cultural transmission. Sorites, 15, 24–28.
+
 Atran, S. (2001). The trouble with memes : Inference versus imitation in cultural creation. Human Nature (Hawthorne, N.Y.), 12(4), 351–381. https://doi.org/10.1007/s12110-001-1003-0
+
 Aunger, R. (ed.) (2001). Darwinizing Culture: The Status of Memetics as a Science. Oxford University Press.
+
 Aunger, R. (2002). The Electric Meme: A New Theory of How We Think. New York, Free Press.
+
 Baldwin, J., (1898). On Selective Thinking. Psychological Review, 5.1 (January 1898): 1-24.
+
 Baron, A. (2012). The History of Know Your Meme. Know Your Meme. blog article. Archived 2016-06-23. Available at: http://archive.is/FBowo
+
 Benzon, W. (1996). Culture as an evolutionary arena. Journal of Social and Evolutionary Systems, 19, 321–62.
+
 Benzon, W. (2013). Cultural Evolution: Some Terminology. Blog article. Available at: http://www.replicatedtypo.com/cultural-evolution-some-terminology/6439.html
+
 Blackmore, S. (1999). The Meme Machine, Oxford: Oxford University Press.
+
 Bloch M. (2001). A well-disposed social anthropologist’s problems with memes. In: Darwinizing Culture: The Status of Memetics as a Science. Oxford University Press.
+
 Börzsei, L. (2013). Makes a Meme Instead: A Concise History of Internet Memes, New Media Studies Magazine, Issue 7.
+
 Boyd, R., Richerson, P. (2001). Memes: Universal acid or a better mousetrap? In Darwinizing Culture: The Status of Memetics as a Science. Oxford University Press.
+
 Brewer, J. (2016). A Forty Year Update On Meme Theory. Blog article, The Evolution Institute. Available at: https://evolution-institute.org/blog/a-forty-year-update-on-meme-theory/
+
 Burman, J. T. (2012). The misunderstanding of memes: Biography of an unscientific object, 1976-1999, Perspectives on Science.
+
 Claidere, N., Scott-Phillips, T. C., Sperber, D. (2014). How Darwinian is cultural evolution? Philosophical Transactions of the Royal Society. 369: 20130368. DOI:10.1098/rstb.2013.0368.
+
 Conte, R. (2001). 'Memes through (social) minds', in: Aunger, R. (eds.) Darwinizing Culture: The Status of Memetics as a Science. pp.83-119. Oxford University Press. DOI: 10.1093/acprof:oso/9780192632449.001.0001
+
 Cullen B. (1998). "Parasite Ecology and the Evolution of Religion", in: Heylighen F., Bollen J. & Riegler A. (eds.) (1999). The Evolution of Complexity. Kluwer Academic, Dordrecht
+
 Cullen, B. (1993). ‘The Darwinian Resurgence and the Cultural Virus Critique’, Cambridge Archaeological Journal, 3(2), pp. 179–202. doi: 10.1017/S0959774300000834.
+
 Davison, P. (2012). The Language of Internet Memes. The Social Media Reader. Ed. Michael Mandiberg. 120-134. Web. Available at: http://www.veryinteractive.net/library/the-language-of-internet-memes
+
 Dennett, D. (1998). Memes: Myths, Misunderstandings and Misgivings. Paper presented at the Chapel Hill Colloquium, North Carolina. Available at: https://ase.tufts.edu/cogstud/dennett/papers/MEMEMYTH.FIN.htm
+
 Dawkins , R. (1993). Viruses of the Mind. In B. Dahlbom. (ed.) Dennett and His Critics. Cambridge: Blackwell.
+
 Dawkins, R. (1976). The Selfish Gene, Oxford: Oxford University Press.
+
 Dawkins, R. (1982a). The Extended Phenotype, Oxford: Oxford University Press.
+
 Dawkins, R. (1982b). Replicators and vehicles. Current problems in sociobiology, 45: 45-64.
+
 Dawkins, R. (1983). Universal Darwinism. In: Evolution from molecules to man, ed. D. S. Bendall. Cambridge University Press.
+
 Dawkins, R. (1986). The Blind Watchmaker, Oxford: Oxford University Press.
+
 Dawkins, R. (1989). The Selfish Gene, Oxford: Oxford University Press.
+
 Dawkins, R. (2003). A Devil's Chaplain: Reflections on Hope, Lies, Science and Love. Mariner Books. Boston, New York.
+
 Dawkins, R. (2006). The Selfish Gene (30th Anniversary Edition), Oxford: Oxford University Press.
+
 Dennett, D. (1995). Darwin's Dangerous Idea, Sciences 35.3 (May 1995): 34.
+
 Dirlam, D. K. (2005). Using memetics to grow memetics. Journal of Memetics–Evolutionary Models of Information Transmission, 9(1).
+
 Edmonds, B., (2002). Three Challenges for the Survival of Memetics. Journal of Memetics - Evolutionary Models of Information Transmission, 6
+
 Edmonds, B., (2005). The revealed poverty of the gene-meme analogy - why memetics per se has failed to produce substantive results. Journal of Memetics - Evolutionary Models of Information Transmission, 9
+
 Encyclopaedia Dramatica (2014). Encyclopaedia Dramatica: About. Encyclopaedia Dramatica. Wiki article. Archived 2016-06-23. Available at: http://archive.is/AE24b
+
 Encyclopaedia Dramatica (2015). Forced Meme. Encyclopaedia Dramatica. Wiki article. Available at: https://encyclopediadramatica.se/Forced_Meme Archived 2016-12-19. Archive available at: http://archive.is/FchZo
+
 Fahlman, S. (1982). Original Bboard Thread in which :-) was proposed, Web. http://www.cs.cmu.edu/~sef/Orig-Smiley.htm
+
 Google Trends (2016a). Compare: memes, jesus https://www.google.com/trends/explore?q=memes,jesus
+
 Gatherer, D. (1998). Why the Thought Contagion Metaphor is Retarding the Progress of Memetics. Journal of Memetics - Evolutionary Models of Information Transmission;1998, Vol. 2 Issue 2, p32
+
 Gray, R. D., Greenhill, S. J., Ross, R. M. (2007) The Pleasures and Perils of Darwinizing Culture (with Phylogenies). Biological Theory, 2(4), pp. 360-375.
+
 Heylighen F. (1998). "What makes a meme successful? Selection criteria for cultural evolution", in: Proc. 16th Int. Congress on Cybernetics (Association Internat. de Cybernetique, Namur), p. 423-418. Available at: http://pespmc1.vub.ac.be/Papers/MemeticsNamur.html
+
 Hull, D. (1980). Individuality and Selection, Annual Review of Ecology and Systematics, Vol. 11, pp. 311-332.
+
 Huntington, H. E. (2013). Big Bird, Binders Full of Women & Bayonets and Horses: The Diffusion of Internet Memes in Mainstream Media Coverage of the 2012 U.S. Presidential Campaign. Presented at the National Popular Culture/American Culture Conference, March 27-30 Washington, D.C.
+
 Knobel, M., Lankshear, L. (2005). Memes and affinities: Cultural replication and literacy education.
+
 Know Your Meme, (2008). About. Available at: http://knowyourmeme.com/about
+
 Know Your Meme (2015). “Milhouse Is Not A Meme”. Know Your Meme. Available at: http://knowyourmeme.com/memes/milhouse-is-not-a-meme
+
 Lamm, E. (2012). Inheritance Systems, Stanford Encyclopedia of Philosophy. Available at: http://plato.stanford.edu/entries/inheritance-systems/
+
 Lewens, T. (2013). Cultural Evolution, Stanford Encyclopedia of Philosophy. Available at: http://plato.stanford.edu/entries/evolution-cultural/
+
 Lloyd, E. (2012). Units and Levels of Selection, Stanford Encyclopedia of Philosophy. Available at: http://plato.stanford.edu/entries/selection-units
+
 Marcus, O. R., Singer, M. (2016). Loving Ebola-chan: Internet memes in an epidemic. Media, Culture & Society. pp. 1-6. DOI: 10.1177/0163443716646174
+
 Marshall, G. (1998). The Internet and memetics. School of Computing Science, Middlesex University. Retrieved August, 22, 2013. Available at: http://pespmc1.vub.ac.be/conf/memepap/marshall.html
+
 Milner, R. (2012). The World Made Meme. MIT Press.
+
 Milner, R. (2013a). “Hacking the Social: Internet Memes, Identity Antagonism, and the Logic of Lulz.” The Fibreculture Journal 22 (Trolls and The Negative Space of the Internet).
+
 Milner, R. (2013b). ‘Media Lingua Franca: Fixity, Novelty, and Vernacular Creativity in Internet Memes’, Selected Papers of Internet Research 3. http://spir.aoir.org/index.php/spir/ article/view/806.
+
 Milner, R. (2015). Memes are Dead; Long Live Memetics. Blog article. Culture Digitally. Available at: http://culturedigitally.org/2015/10/01-memes-are-dead-long-live-memetics-by-ryan-m-milner/
+
 Miltner, K. (2014). “‘There’s No Place for Lulz on LOLCats’: The Role of Genre, Gender, and Group Identity in the Interpretation and Enjoyment of an Internet Meme.” First Monday 19 (8).
+
 Mitchell, P. (2012). Contagious Metaphor, Bloomsbury Academic.
+
 O'Brien, M. J., Lyman, R. L., Mesoudi, A., VanPool, T. L. (2010) Cultural traits as units of analysis. Philosophical Transactions of the Royal Society B. Volume 365, Issue 1559. DOI: 10.1098/rstb.2010.0012
+
 Phillips, W. (2012a). In Defense of Memes, article. Spreadable Media. Archived 2016-11-21. Available at: http://archive.is/AKTc3
+
 Phillips, W. (2012b). The house that fox built: Anonymous, spectacle and cycles of amplification. Television and New Media, 14(6), 494–509.
+
 Segev, E., Nissenbaum, A., Stolero, N., Shifman, L (2015). Families and Networks of Internet Memes: The Relationship Between Cohesiveness, Uniqueness, and Quiddity Concreteness. Journal of Computer-Mediated Communication. pp. 417-433. Doi:10.1111/jcc4.12120
+
 Shifman, L. (2012). An anatomy of a YouTube meme. New Media & Society, 14(2), 187–203. doi:10.1177/1461444811412160
+
 Shifman, L. (2013a). Memes in a digital world: Reconciling with a conceptual troublemaker. Journal of Computer-Mediated Communication, 18(3), 362–377.
+
 Shifman, L. (2013b). Memes in Digital Culture. MIT Press.
+
 Shifman, L. (2015). Memeology Festival 05. Memes as Ritual, Virals as Transmission? In Praise of Blurry Boundaries. Blog article, Culture Digitally. Available at: http://culturedigitally.org/2015/11/memeology-festival-05-memes-as-ritual-virals-as-transmission-in-praise-of-blurry-boundaries/
+
 Shifman, L., Thelwall, M. (2009). Assessing Global Diffusion with Web Memetics: The Spread and Evolution of a Popular Joke. Journal of the Association for Information Science and Technology. Volume 60, Issue 12. pp. 2567-2576. DOI:10.1002/asi.21185
+
 Solon, O. (2013). Richard Dawkins on the internet's hijacking of the word 'meme', Wired Magazine. Available at: http://www.wired.co.uk/article/richard-dawkins-memes
+
 Sterelny, K. (1999). Dawkins' Bulldog. Philosophy and Phenomenological Research, Vol. 59, No. 1, pp. 255-262. International Phenomenological Society. Available at: http://www.jstor.org/stable/2653476
+
 Uhlíř, V. Stella, M. (2012). Who needs memetics? Possible developments of the meme concept and beyond. Anthropologie (Brno) 50, 1: 127-142
+
 Urban Dictionary (2009). forced meme. Available at: http://www.urbandictionary.com/define.php?term=forced%20meme
+
 Wiggins, B., Bowers, G. (2014). Memes as genre: A structural analysis of the memescape. New Media.
+
 Wilkins, J. S., Hull, D. (2014). Replication and Reproduction, Stanford Encyclopedia of Philosophy. Available at: http://plato.stanford.edu/entries/replication/
 
 # Appendix 1. Notable articles about Pepe the Frog and US politics
 
 Altman, A. (2016). How Donald Trump Is Bringing the Alt-Right to the White House. Time. Available at: http://time.com/4569895/donald-trump-stephen-bannon-alt-right/
+
 Anti-Defamation League (2016). Pepe the Frog. Anti-Defamation League. Available at: http://www.adl.org/combating-hate/hate-on-display/c/pepe-the-frog.html
+
 Barrow, B., Lemire, J. (2016). Trump disavowal of white supremacists doesn't quiet concerns. PBS Newshour. Available at: http://www.pbs.org/newshour/rundown/trump-white-supremacists-support/
+
 Carver, A. T. L. (2016). The Truth About Pepe the Frog And The Cult of Kek. Pepe the Frog Faith. Available at: https://pepethefrogfaith.wordpress.com/
+
 Domonoske, C. (2016). I guess We Need To Talk About Pepe The Frog. NPR. Available at: http://www.npr.org/sections/thetwo-way/2016/09/28/495760153/i-guess-we-need-to-talk-about-pepe-the-frog
+
 Fantagraphics (2016). The Truth About Pepe the Frog. Fantagraphics Publishers. Available at: http://fantagraphics.com/flog/truthaboutpepe/
+
 Ferreol, T. K. (2016). Meme Magic Is Real, You Guys. Blog article. Available at: https://bullshit.ist/meme-magic-is-real-you-guys-16a497fc45b3#.lafh63wp1
+
 Friedman, R. (2016). Pepe The Frog's Long, Strange Journey — From Internet Meme To Hate Symbol. NPR. Available at: http://www.npr.org/2016/09/28/495816963/pepe-the-frogs-long-strange-journey-from-internet-meme-to-hate-symbol
+
 Grinberg, E. (2016). Pepe the Frog designated a hate symbol by ADL. CNN. Available at: http://edition.cnn.com/2016/09/28/us/pepe-the-frog-hate-symbol-trnd/
+
 Hess, A. (2016). For the Alt-Right, the Message Is in the Punctuation. The New York Times. Available at: http://www.nytimes.com/2016/06/11/arts/for-the-alt-right-the-message-is-in-the-punctuation.html
+
 Hillary for America (2016). Donald Trump, Pepe the frog, and white supremacists: an explainer. Campaign site article, available at: https://www.hillaryclinton.com/feed/donald-trump-pepe-the-frog-and-white-supremacists-an-explainer/ Archived article available at: http://archive.is/lqeIW
+
 Hsu, H. (2016). The Dank Memes That Are “Disrupting” Politics. The New Yorker. Available at: http://www.newyorker.com/culture/cultural-comment/the-dank-memes-that-are-disrupting-politics
+
 Nuzzi, O. (2016). How Pepe the Frog Became a Nazi Trump Supporter and Alt-Right Symbol. The Daily Beast. Available at: http://www.thedailybeast.com/articles/2016/05/26/how-pepe-the-frog-became-a-nazi-trump-supporter-and-alt-right-symbol.html
+
 Phillips, W., Milner, R. (2016). A Meme Can Become a Hate Symbol by Social Consensus. The New York Times. Available at: http://www.nytimes.com/roomfordebate/2016/10/03/can-a-meme-be-a-hate-symbol-6/a-meme-can-become-a-hate-symbol-by-social-consensus
+
 Powell, A. (2016). Pepe the Frog creator's new Trump comic captures the horror of the 2016 election. The Daily Dot. Available at: http://www.dailydot.com/unclick/pepe-frog-trump-alt-right-comic/
+
 Roisin, K. (2015). 4chan's Frog Meme Went Mainstream, So They Tried to Kill It. Motherboard. Available at: http://motherboard.vice.com/read/4chans-frog-meme-went-mainstream-so-they-tried-to-kill-it
+
 Shapiro, B. (2016a). 5 Things To Know About The Alt-Right. Daily Wire. Available at: http://www.dailywire.com/news/10973/5-things-know-about-alt-right-aaron-bandler
+
 Shapiro, B. (2016b). What Is The Alt-Right? Daily Wire. Available at: http://www.dailywire.com/news/8638/what-alt-right-ben-shapiro
+
 Solon, O. (2016a). Alt-right retaliates against Twitter ban by creating 'fake black accounts'. The Guardian. Available at: https://www.theguardian.com/technology/2016/nov/17/alt-right-fake-black-twitter-accounts-hate-speech-ban
+
 Solon, O. (2016b). #SavePepe: cartoon frog's creator tries to take meme back from alt-right. The Guardian. Available at: https://www.theguardian.com/technology/2016/nov/04/save-pepe-cartoon-frog-meme-matt-furie-trump
+
 Taranto, J. (2016). Regression to the Meme. Wall Street Journal. Available at: http://www.wsj.com/articles/regression-to-the-meme-1473960707
+
 The Economist (2016). Pepe and the stormtroopers. The Economist. Available at: http://www.economist.com/news/united-states/21707201-how-donald-trump-ushered-hateful-fringe-movement-mainstream-pepe-and
+
 The Economist (2016). What is the Alt-Right? The Economist. 2016. Available at: http://www.economist.com/blogs/economist-explains/2016/09/economist-explains-17
+
 Walker, R. (2016). The Shifting Symbolism of the Gadsden Flag. The New Yorker. Available at: http://www.newyorker.com/news/news-desk/the-shifting-symbolism-of-the-gadsden-flag
+
 Wendling, M. (2016). Trump's shock troops: Who are the 'alt-right'? BBC News. Available at: http://www.bbc.com/news/magazine-37021991
+
 Western Identity (2016). A brief introduction to Meme Magic. Westernidentity.info. Available at: http://westernidentity.info/a-brief-introduction-to-meme-magic/
+
 Williams, A. (2016). How Pepe the Frog and Nasty Woman Are Shaping the Election. The New York Times. Available at: http://www.nytimes.com/2016/10/30/style/know-your-meme-pepe-the-frog-nasty-woman-presidential-election.html?_r=0
