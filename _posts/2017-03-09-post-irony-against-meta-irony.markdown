@@ -12,7 +12,7 @@ author:
   login: username
   email: email@wherever.com
   display_name:
-  - S. Y. Her
+  - Seong-Young Her
   - Masha Zharova
   first_name: Philosopher
   last_name: Of The Meme
