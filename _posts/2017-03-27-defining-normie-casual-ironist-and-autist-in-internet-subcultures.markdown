@@ -9,7 +9,10 @@ tags:
 - normie
 - autist
 author:
-  display_name: S. Y. Her
+  email: seongyher@gmail.com
+  display_name: Seong-Young Her
+  first_name: Seong-Young
+  last_name: Her
 image: "/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png"
 fbpreview: http://thephilosophersmeme.com/uploads/four-types-of-users.jpg
 ---
