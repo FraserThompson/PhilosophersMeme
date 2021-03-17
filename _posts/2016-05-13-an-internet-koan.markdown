@@ -13,10 +13,9 @@ tags:
 - Zen
 type: post
 author:
-  login: crouchingrooster
-  email: crouchingrooster@hotmail.com
-  display_name: S. Y. Her
-  first_name: Seong
+  email: seongyher@gmail.com
+  display_name: Seong-Young Her
+  first_name: Seong-Young
   last_name: Her
 excerpt: I just found a really strange website where a guy claims Zen is a scam and
   that he's figured out how to solve any koan. He even provides a Free Zen Riddle
