@@ -8,7 +8,7 @@ author:
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
-excerpt: Seong's 2018 thesis.
+excerpt: Seong's thesis on the memeticist's challenge.
 ---
 
 # 1. Introduction and Background
@@ -45,7 +45,7 @@ Despite Edmonds’ challenge consisting largely of a call to find suitable examp
 ## 2.2. Pluralism Incorporating Some of Dawkinsian Memetics
 Based on his theory of memetic replication, Aunger concludes that memes must be neural states within brains. Wilkins (2005) criticises Aunger’s ‘neuro-memetics’ as a failed attempt to evade the conclusion that memes are forms in the sense of being ideas: Aunger cannot bridge the gap between the physical and the semantic: given that two minds having the same mental content does not entail that the corresponding brains will have the same neural states, it cannot be assumed that having the same memes means having the same neural states. The identity between any two copies of the same meme cannot be determined by their physical form or even their function (ibid., pp. 593–594). 
 
-> What we chiefly need here is a Cultural Darwinian Theory, not a memetics, which transports to culture the gene-centrism of a particular kind of restricted neo-Darwinism [...] It is not that there are no replicators in culture, but rather that there is no single kind of replicator, and moreover that not all cultural evolution requires replication in order to proceed. Identification of memes relies on an acquaintance with the context in which memes are transmitted (the memetic Stewart Test), and if that is the case then a neural reduction of memes is unnecessary. Memes are whatever we see transmitted
+> What we chiefly need here is a Cultural Darwinian Theory, not a memetics, which transports to culture the gene-centrism of a particular kind of restricted neo-Darwinism [...] It is not that there are no replicators in culture, but rather that there is no single kind of replicator, and moreover that not all cultural evolution requires replication in order to proceed. Identification of memes relies on an acquaintance with the context in which memes are transmitted (the memetic Stewart Test), and if that is the case then a neural reduction of memes is unnecessary. Memes are whatever we see transmitted.
 
 (ibid., p. 595.)
 
