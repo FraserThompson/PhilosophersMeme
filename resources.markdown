@@ -54,7 +54,7 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 <p>This memepage was the first of our projects and initially intended to exhibit experimental journalism and memetic art. It was among the very first serious-minded ironic memepages to come out of the Weird Facebook boom. We began with a focus on the artistic and educational significance of Internet memes, but soon became interested in memes in themselves. This change of direction towards taking memes seriously as objects of study culminated in pioneering research and the development of our broader community.</p>
 
 <h2>Discussion Groups</h2>
-<h4><a href="https://www.facebook.com/groups/sophismo">Meme studies discussions and shitposting</a> - <a href="https://www.facebook.com/groups/memetics">News & resources</a>
+<h4><a href="https://www.facebook.com/groups/sophismo">Research & Development</a> - <a href="https://www.facebook.com/groups/memetics">News & Resources</a>
 <p>Without spaces in which to collaborate, a network of users is impotent. The Facebook groups serve as forums in which to share knowledge and make those social connections needed for more involved efforts. These spaces are not only proving grounds for our theories of governance, but instrumental in their iterative development.</p>
 
 <h4><a href="https://discord.me/thephilosophersmeme">Discord Server</a></h4>
