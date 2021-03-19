@@ -9,7 +9,7 @@ author:
   first_name: Seong-Young
   last_name: Her
 excerpt: 'Seong''s thesis on Internet memetics (2016). Supervised by James Maclaurin
-  and completed at the University of Otago. '
+  and Greg Dawes, and completed at the University of Otago. '
 ---
 
 # Chapter 1. Introduction
