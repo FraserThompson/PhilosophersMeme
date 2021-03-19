@@ -8,7 +8,8 @@ author:
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
-excerpt: Seong's thesis on the memeticist's challenge.
+excerpt: Seong's thesis on the memeticist's challenge (2018). Supervised by Diane
+  Proudfoot and Douglas Campbell, and completed at the University of Canterbury.
 ---
 
 # 1. Introduction and Background
