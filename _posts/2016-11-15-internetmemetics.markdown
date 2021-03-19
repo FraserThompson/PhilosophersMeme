@@ -1,6 +1,6 @@
 ---
 title: Internet Memetics
-date: 2017-01-26 23:04:00 +13:00
+date: 2016-11-15 23:04:00 +13:00
 tags:
 - memetics
 author:
@@ -8,7 +8,8 @@ author:
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
-excerpt: Seong's thesis on Internet memetics (2017).
+excerpt: 'Seong''s thesis on Internet memetics (2016). Supervised by James Maclaurin
+  and completed at the University of Otago. '
 ---
 
 # Chapter 1. Introduction
