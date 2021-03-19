@@ -11,7 +11,6 @@ author:
   email: email@wherever.com
   display_name:
   - Jeremy Cahill
-  - Seong-Young Her
   first_name: Philosopher
   last_name: Of The Meme
 excerpt: 'Our goal with this build is simple: Slutty Uncanny Valley Cosplay. We want
