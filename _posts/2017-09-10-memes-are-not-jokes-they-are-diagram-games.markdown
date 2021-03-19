@@ -3,6 +3,9 @@ title: Memes Are Not Jokes, They Are Diagram-Games
 date: 2017-09-10 12:00:00 +12:00
 author:
   display_name: Seong-Young Her
+excerpt: The meme means different things to different viewers as a matter of degrees,
+  not a matter of either getting the joke or missing it, or reading it ironically
+  or not.
 ---
 
 ![30813985_2137432463157035_8024160328314760308_o (1).jpg](/uploads/30813985_2137432463157035_8024160328314760308_o%20(1).jpg)
