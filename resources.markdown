@@ -38,6 +38,11 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 
 <h1>Suggested Readings from TPM</h1>
 
+
+<h2>Memetics</h2>
+<ul class="about-list">
+<li><a href="{{ site.baseurl }}/2017/01/26/internetmemetics/">Internet Memetics</a></li>
+<li><a href="{{ site.basurl }}/2018/11/15/the-memeticists-challenge-remains-open/">The Memeticist's Challenge Remains Open</a></li>
 <h2>Meme aesthetics</h2>
 <ul class="about-list">
 <li><a href="{{ site.baseurl }}/2015/11/29/a-short-note-on-gondola/">A Short Note on Gondola</a></li>
