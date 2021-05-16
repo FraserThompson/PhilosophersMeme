@@ -1,6 +1,7 @@
 ---
 title: Removed by request of author
 date: 2019-04-15 04:01:00 +12:00
+published: false
 tags:
 - linguistics
 - memes

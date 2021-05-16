@@ -61,10 +61,10 @@ src="https://www.youtube.com/embed/zXEpC5hHTRU?list=PLbRNdtOn8CjOZYsLI13poGPnDqS
 <p>We have a Discord server.</p>
 
 <h2>Gondola</h2>
-<h4><a href="https://gondola.space">Site</a> - <a href="https://www.facebook.com/groups/gondolaspace/"><nobr>Group</nobr></a> - <a href="https://discord.me/gondola><nobr>Discord Server<nobr></a></h4>
+<h4><a href="https://gondola.space">Site</a> - <a href="https://www.facebook.com/groups/gondolaspace/"><nobr>Group</nobr></a> - <h4><a href="https://discord.me/gondola><nobr>Discord Server</nobr></a></h4>
 <p>A Gondola OC artists' collective operated by Seong since 2015.</p>
 
-<p>The Philosopher’s Meme supports memetic biodiversity. We operate an eco-sanctuary dedicated to the conservation of Gondola, an endangered species of Post-ironic meme.</p>
+<p>The Philosopher’s Meme supports memetic biodiversity.<br>We operate an eco-sanctuary dedicated to the conservation of Gondola, an endangered species of Post-ironic meme.</p>
 
 <h2><a href="https://thephilosophersmeme.com">ThePhilosophersMeme.com</a></h2>
 <p>The Philosopher’s Meme website serves as a repository for long-form content related to the philosophy of the Internet.</p>

@@ -10,10 +10,12 @@ tags:
 - Squirrel and Hedgehog
 - event
 author:
+  login: username
   email: seongyher@gmail.com
   display_name:
-  - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: For this week's event, we watched a few episodes from North Korea's first
   animated series, 'Squirrel and Hedgehog'. It's hugely popular in North Korea; 'Squirrel
   and Hedgehog' originally ran from 1977 to 2005, but resumed production in 2006 due

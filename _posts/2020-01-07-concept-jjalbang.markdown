@@ -8,7 +8,6 @@ author:
   login: username
   email: email@wherever.com
   display_name:
-  - Jeremy Cahill
   - Seong-Young Her
   first_name: Philosopher
   last_name: Of The Meme

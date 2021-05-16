@@ -7,10 +7,13 @@ tags:
 - history
 - resource
 author:
+  login: username
   email: seongyher@gmail.com
   display_name:
   - Jeremy Cahill
   - Seong-Young Her
+  first_name: Philosopher
+  last_name: Of The Meme
 excerpt: "'The History of Philosophy summarized & visualized' by Deniz Cem Önduygu,
   Hüseyin Kuşçu and Eser Aygün is the best interactive map of its kind I've seen.
   It doesn't just link names or sprawl into an unusable ball of connections. Instead,
