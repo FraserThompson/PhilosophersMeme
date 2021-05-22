@@ -1,6 +1,6 @@
 ---
 title: '2020''s Decade Review, Part II: Memetaphysics Through Three Lenses'
-date: 2020-10-10 10:10:00 +13:00
+date: 2020-10-09 10:10:00 +13:00
 tags:
 - memes
 - meme history
