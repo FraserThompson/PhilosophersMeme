@@ -10,6 +10,7 @@ author:
   last_name: Her
 excerpt: Seong's thesis on the memeticist's challenge (2018). Supervised by Diane
   Proudfoot and Douglas Campbell, and completed at the University of Canterbury.
+image: "/uploads/T3.gif"
 ---
 
 # 1. Introduction and Background
