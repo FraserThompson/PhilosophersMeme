@@ -24,7 +24,7 @@ I predicted in 2014 that, contrary to the traditional view that simple memes are
 
 ## **Selected Comments**
 
-[Thread 1](https://web.facebook.com/thephilosophersmeme/posts/2063583350541947)
+[Thread 1](https://www.facebook.com/thephilosophersmeme/posts/2063583350541947?comment_id=2063595927207356)
 
 > **Spencer Ivy:** Making a philosophy out of memes. 
 >
