@@ -40,12 +40,15 @@ One reason for the shift from the comics model to the diagram model might be tha
 ### Thread 1
 
 *Conner Schultz*:
+
 sorry, what exactly is the difference between the comic structure and diagram structure? just the addition of more panels beyond 4?
 
 *Daniel Mourad*:
+
 A comic reads like a comic (with a specific panel order) while a diagram reads like a diagram (which you can dissect starting from wherever you want)
 
 *Seong-Young Her*:
+
 Daniel has it right. A diagram's meaning doesn't necessarily change as the viewer progresses through from the start to the end, although I can think of plenty of examples that expressly achieve this, such as flow charts. Comics are 'sequential art' and their panel order matters a lot.
 
 ![41426730_10215207366129387_7431534938211483648_n.jpg](/uploads/41426730_10215207366129387_7431534938211483648_n.jpg)
@@ -57,14 +60,17 @@ Daniel has it right. A diagram's meaning doesn't necessarily change as the viewe
 I also feel like illustrated panel memes are more liable to be interpreted as comics, whereas I don't know of many screenshot-based memes that are intuitively comic-like
 
 *Beau Horenberger*:
+
 Oh but on googling I guess Gaijin 4koma is a direct counterexample
 
 *Seong-Young Her*:
+
 I can't say for certain but older screenshot memes tended to be more comics-like. Screenshot based memes became a lot more prevalent since screenshotting and rapid image captioning (not necessarily editing) became convenient. Think about how new Spongebob memes are usually single-screenshot but older (or older style) Spongebob memes are often multiple screenshots put together in a comics arrangement.
 
 ### Thread 3
 
 *Leandro Vieira Steffen*:
+
 for real though... good thinking
 ![71144987_10219351074664957_7701413498927972352_n.jpg](/uploads/71144987_10219351074664957_7701413498927972352_n.jpg)
 
