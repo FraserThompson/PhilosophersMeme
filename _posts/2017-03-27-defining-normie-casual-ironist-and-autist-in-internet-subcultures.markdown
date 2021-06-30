@@ -13,6 +13,10 @@ author:
   display_name: Seong-Young Her
   first_name: Seong-Young
   last_name: Her
+excerpt: The following is my take on doing the same for online subcultures. I do this
+  by clarifying the definitions of three highly popular terms used on the Internet
+  to describe different kinds of subcultural participants, and clarifying the concept
+  of the ironist in the context of online subcultures.
 image: "/uploads/four%20types%20of%20users%20in%20internet%20subcultures.png"
 fbpreview: http://thephilosophersmeme.com/uploads/four-types-of-users.jpg
 ---
